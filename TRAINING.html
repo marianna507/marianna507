@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+  <title>TRAINING SIMULATION</title> 
+  <script src="http://maps.google.com/maps/api/js?key=AIzaSyDnTqAB-UpUjG5AajbSdSiL5MBfVUmnhgc" 
+          type="text/javascript"></script>
+</head> 
+<body>
+  <div id="map" style="width: 500px; height: 400px;"></div>
+
+  <script type="text/javascript">
+    var locations = [
+      ['Kenya Red Cross Eldoret Branch', 0.514278, 35.26978, 7],
+      ['Eldoret Town', 0.538105, 35.259255, 6],
+      ['Maili Tisa', 0.606865, 35.195877, 5],
+      ['Kitale', 1.0191, 35.0023, 4],
+      ['KDF Training Centre', 0.5243, 35.2698777, 2]
+    ];
+    
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 10,
+      center: new google.maps.LatLng(0.514278, 35.26978),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+    
+    var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+    
+    for (i = 0; i < locations.length; i++) {  
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+        map: map
+      });
+      
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(locations[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+  </script>
+</body>
+</html>
