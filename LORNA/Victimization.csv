@@ -1,0 +1,1902 @@
+DATE_TIME,REGION,COUNTY,SCENE,latitude,longitude,Type of attack,Gender,type by number
+2/4/2021,Nairobi,Nairobi,SOUTH B,-1.310341,36.8337368,Phishing,Female,1
+10/16/2020,Nairobi,Nairobi,SOUTH C,-1.3222736,36.8288933,Phishing,Female,1
+4/19/2020,South Rift,Nakuru,GILGIL,-0.4922735,36.3172993,Phishing,Female,1
+1/5/2021,Central,Embu,KUBUKUBU,-0.023559,37.906193,Phishing,Female,1
+1/4/2021,Central,Kiambu,HIGHPOINT,-0.023559,37.906193,Phishing,Female,1
+1/23/2022,Coast,Mombasa,PUNGU VILLA LIKONI,-4.114235,39.6621754,Phishing,Female,1
+5/22/2020,Central,Kiambu,KIAMBU ROAD,-1.1307381,36.7648591,Phishing,Female,1
+6/11/2021,North Eastern,Garissa,BAGALE AREA,-0.7296799,39.0137487,Phishing,Female,1
+5/24/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,Female,1
+2/6/2022,West Kenya,Kisumu,"Rabuor Area, Kisumu County",-0.1492339,34.8256449,Phishing,Female,1
+10/4/2020,South Rift,Nakuru,OLELUNGA AREA,-1.003036,35.6640447,Phishing,Female,1
+1/22/2021,Coast,Kwale,NYUMBA TATU AREA,-0.023559,37.906193,Phishing,Female,1
+5/29/2021,West Kenya,Kisumu,MUHORONI,-0.1566093,35.1983598,Phishing,Female,1
+7/11/2020,Lower Eastern,Kitui,KAVUTE,-0.023559,37.906193,Phishing,Female,1
+9/5/2020,West Kenya,Nandi,KINGWAL BRIDGE,-0.023559,37.906193,Phishing,Female,1
+3/2/2020,Coast,Mombasa,MVITA AREA,-0.023559,37.906193,Phishing,Female,1
+3/25/2020,Nairobi,Nairobi,LUSAKA ROAD,-1.2963961,36.8392875,Phishing,Female,1
+12/14/2021,Upper Eastern,Isiolo,Mlima Mamba,-0.023559,37.906193,Phishing,Female,1
+6/18/2020,Nairobi,Nairobi,SYOKIMAU,-1.3592272,36.9379845,Phishing,Female,1
+2/9/2021,Central,Murang’a,ELLIOT BOYS,-0.023559,37.906193,Phishing,Female,1
+2/25/2020,Central,Kiambu,NDIKO PRIMARY,-0.023559,37.906193,Phishing,Female,1
+3/10/2021,South Rift,Uasin Gishu,ELDORET,0.5142775,35.2697802,Phishing,Female,1
+12/19/2020,South Rift,Nakuru,NAKURU-KERICHO HIGHWAY,-0.3030988,36.080026,Phishing,Female,1
+12/26/2021,Coast,Kwale,"KONAMUSA, UKUNDA , KWALE COUNTY",-4.3054944,39.5542326,Phishing,Female,1
+4/1/2021,Coast,Mombasa,MOMBASA,-4.0434771,39.6682065,Phishing,Female,1
+2/5/2022,South Rift,Narok,SUSWA,-1.1761411,36.3488674,Phishing,Female,1
+1/25/2020,Lower Eastern,Makueni,NGOKOMI,-0.023559,37.906193,Phishing,Female,1
+11/9/2020,South Rift,Bomet,CHEBOLE KAPLONG ROAD,-0.7501829,35.21416,Phishing,Female,1
+2/26/2021,Lower Eastern,Nairobi,GATEWAY MALL,-0.023559,37.906193,Phishing,Female,1
+1/13/2020,Nairobi,Nairobi,NEAR KEMPINSKI,-1.271462,36.8088652,Phishing,Female,1
+3/8/2021,Central,Kirinyaga,KIBIRIGW,-0.5268899,37.1801181,Phishing,Female,1
+2/14/2021,Nairobi,Nairobi,NEAR NTSA,-1.2931723,36.8097896,Phishing,Female,1
+1/24/2020,Central,Meru,SUBUIGA  AREA,0.0514721,37.6456042,Phishing,Female,1
+10/17/2021,Lower Eastern,Kitui,Mwingi along Nairobi- Garissa Highway,-0.937411,38.0605006,Phishing,Female,1
+1/13/2022,Lower Eastern,Makueni,Wote Makindu Road,-2.0332155,37.7683954,Phishing,Female,1
+6/30/2021,South Rift,Nakuru,KARAI,-1.2556684,36.6255869,Phishing,Female,1
+3/11/2020,Nairobi,Nairobi,GETWAY MALL,-1.3642102,36.9117918,Phishing,Female,1
+4/6/2021,Central,Nyeri,KIAWARA,-0.4191013,36.9534482,Phishing,Female,1
+1/1/2020,West Kenya,Kisumu,AWASI,-0.1616445,35.0732265,Phishing,Female,1
+8/10/2020,North Rift,Bungoma,MALABA HIGHWAY,0.636206,34.2782765,Phishing,Female,1
+10/20/2021,Lower Eastern,Nairobi,"Imara Daima ,Nairobi",-1.328436,36.8806499,Phishing,Female,1
+2/22/2021,Central,Tharaka-Nithi,NITHI,-0.023559,37.906193,Phishing,Female,1
+8/30/2020,Nairobi,Nairobi,NEAR HILLCREST,-1.3272363,36.7332423,Phishing,Female,1
+2/8/2020,South Rift,Kericho,KAPSUSER,-0.4,35.216667,Phishing,Female,1
+5/5/2021,North Rift,Uasin Gishu,ELDORET TOWN,0.518945,35.272579,Phishing,Female,1
+3/15/2020,Nairobi,Nairobi,KARIOBANGI SOUTH,-1.266457,36.8855854,Phishing,Female,1
+11/2/2020,West Kenya,Kisumu,NEAR KOMBEWA,-0.1077967,34.4863567,Phishing,Female,1
+8/2/2020,Central,Nyeri,KARICHEN AREA,-0.023559,37.906193,Phishing,Female,1
+2/15/2020,Nairobi,Nairobi,CITY KABANAS,-1.2920659,36.8219462,Phishing,Female,1
+8/13/2020,Nairobi,Nairobi,KARIOBANGI AREA,-1.240591,36.88044,Phishing,male,1
+6/10/2020,Nairobi,Nairobi,BELLEVIEW,-1.3196146,36.838612,Phishing,male,1
+1/11/2021,Central,Kiambu,THIKA-SGANA ROAD,-1.0387569,37.0833753,Phishing,male,1
+1/12/2022,South Rift,Nakuru,GILGIL JUCTION,-0.4922735,36.3172993,Phishing,male,1
+3/9/2020,Nairobi,Nairobi,NYAYO ROUND ABOUT,-1.3049049,36.8263952,Phishing,male,1
+5/11/2021,Central,Kiambu,NGARARIGA AREA,-1.083333,36.616667,Phishing,male,1
+5/16/2021,Central,Meru,MAUA,0.2325548,37.9413748,Phishing,male,1
+2/21/2020,Lower Eastern,Machakos,NEAR KASEVE,-1.5215251,37.2675843,Phishing,male,1
+9/19/2020,Lower Eastern,Nairobi,MOMBASA ROAD,-2.7316802,38.2171862,Phishing,male,1
+6/12/2021,South Rift,Bomet,KIRULEX,-0.023559,37.906193,Phishing,male,1
+12/14/2020,West Kenya,Homa Bay,OYUGIS-KISUMU ROAD,-0.5078963,34.7381662,Phishing,male,1
+1/1/2020,North Rift,Baringo,ELDAMA RAVINE,0.053037,35.729768,Phishing,male,1
+7/24/2020,Lower Eastern,Kajiado,ALONG KISERIAN,-1.4251869,36.6936512,Phishing,male,1
+12/13/2020,Lower Eastern,Nairobi,HAILE SELLASIE,-0.023559,37.906193,Phishing,male,1
+4/20/2021,Coast,Kwale,KWALE,-4.1816115,39.4605612,Phishing,male,1
+11/22/2020,Lower Eastern,Nairobi,ALONG NGONG,-1.3562118,36.6687545,Phishing,male,1
+3/6/2021,West Kenya,Kisumu,ONGOU AREA,-0.023559,37.906193,Phishing,male,1
+10/24/2020,Lower Eastern,Nairobi,MUTINDWA,-1.2858772,36.8809479,Phishing,male,1
+10/3/2021,West Kenya,Kakamega,COPTIC ROUNDABOUT,-0.023559,37.906193,Phishing,male,1
+4/15/2020,North Rift,West Pokot,KAPENGURIA,1.2481932,35.1103736,Phishing,male,1
+3/14/2020,Nairobi,Nairobi,GM,-1.329676,36.870983,Phishing,male,1
+7/28/2021,Central,,Ndarugo area,-1.0931865,37.0321327,Phishing,male,1
+8/24/2020,Coast,Kilifi,VIPINGO,-3.8201959,39.7858575,Phishing,male,1
+2/27/2021,Nairobi,Nairobi,NEAR GATEWAY MALL,-1.3642102,36.9117918,Phishing,male,1
+5/8/2021,Central,Laikipia,SOLIO,-0.023559,37.906193,Phishing,male,1
+1/5/2021,West Kenya,Kisumu,PALA PRIMARY SCHOOL,-0.7193509,34.3733306,Phishing,male,1
+1/30/2020,West Kenya,Migori,AWENDO,-0.9017152,34.5334534,Phishing,male,1
+8/27/2020,South Rift,Nakuru,DUNDORI AREA,-0.2,36.266667,Phishing,male,1
+9/18/2020,Lower Eastern,Nairobi,THIKA ROAD,-1.2134454,36.8997048,Phishing,male,1
+4/19/2021,West Kenya,Kakamega,LIKUYANI AREA,-0.023559,37.906193,Phishing,male,1
+1/13/2022,Lower Eastern,Nairobi,Pangani,-1.2667224,36.8398293,Phishing,male,1
+1/25/2021,Lower Eastern,Nairobi,CARWASH,-0.023559,37.906193,Phishing,male,1
+2/20/2021,Central,Kirinyaga,DIFATHAS AREA,-0.55,37.4,Phishing,male,1
+4/25/2020,Upper Eastern,Marsabit,SOLOLO,3.541985,38.658291,Phishing,male,1
+1/25/2021,Coast,Mombasa,NEAR COAST ACADEMY,-0.023559,37.906193,Phishing,male,1
+1/17/2020,Nairobi,Nairobi,ALONG MASAI ROAD,-1.3348704,36.8693049,Phishing,male,1
+5/9/2021,Upper Eastern,Samburu,0,-0.023559,37.906193,Phishing,male,1
+1/9/2021,South Rift,Nakuru,ELDORET-NAKURU HIGHWAY,0.1950182,35.4470794,Phishing,male,1
+1/21/2021,Lower Eastern,Nairobi,KAHAWA WEST,-1.1858857,36.9069054,Phishing,male,1
+3/22/2021,Lower Eastern,Nairobi,EASTERN BYPASS,-0.023559,37.906193,Phishing,male,1
+2/18/2020,Coast,Taita Taveta,MWATATE,-3.5032932,38.3639837,Phishing,male,1
+2/8/2020,Nairobi,Nairobi,AIRTEL,-1.3238841,36.8470038,Phishing,male,1
+1/5/2021,Lower Eastern,Nairobi,KIAMBU ROAD,-1.1307381,36.7648591,Phishing,male,1
+1/19/2021,Lower Eastern,Nairobi,87 JUNCTION,-0.023559,37.906193,Phishing,male,1
+3/5/2021,Central,Nyeri,KIRIGU AREA,-1.2991181,36.7038098,Phishing,male,1
+2/18/2020,North Rift,Bungoma,MATULO MARKET,0.6073354,34.7354031,Phishing,male,1
+6/1/2020,Central,Kiambu,KIAMBU ROAD,-1.1307381,36.7648591,Phishing,male,1
+7/15/2021,Coast,Mombasa,HARAMBEE AREA,-1.2806721,36.8761485,Phishing,male,1
+2/26/2020,Central,Laikipia,BANTU LODGES,-0.1139562,37.0437238,Phishing,male,1
+7/28/2021,South Rift,Nakuru,KIDAWA,-0.023559,37.906193,Phishing,male,1
+3/22/2020,Nairobi,Nairobi,BUNYALA ROAD,-1.2991261,36.8266671,Phishing,male,1
+1/18/2022,West Kenya,Homa Bay," WI-OBIERO AREA, HOMABAY- NDHIWA ROAD, HOMABAY ",-0.7298697,34.3671172,Phishing,male,1
+2/13/2021,South Rift,Nakuru,"MIGAA AREA, MOLO",-1.1310559,36.8445848,Phishing,male,1
+7/29/2020,Central,Kiambu,KINUNGI,-0.8038706,36.5323191,Phishing,male,1
+3/25/2021,Lower Eastern,Nairobi,STAGE 10,-0.023559,37.906193,Phishing,male,1
+1/22/2020,Central,Meru,THIMANGIRI MARKET,-0.023559,37.906193,Phishing,male,1
+2/9/2021,Central,Murang’a,RIVER WAJIE,-0.023559,37.906193,Phishing,male,1
+8/3/2021,Nairobi,Nairobi,NEAR PANGANI,-1.2667224,36.8398293,Phishing,male,1
+2/2/2021,Lower Eastern,Kajiado,KITENGELA,-1.5167072,36.849996,Phishing,male,1
+4/3/2021,West Kenya,Kisumu,ORONGO BRIDGE,-0.023559,37.906193,Phishing,male,1
+1/19/2020,Central,Kiambu,KISII ESTATE,-1.0633993,37.1271995,Phishing,male,1
+5/15/2021,Nairobi,Nairobi,EMBAKASI,-1.3237858,36.8999616,Phishing,male,1
+6/20/2021,South Rift,Nyandarua,NYANDARUA,-0.1803855,36.5229641,Phishing,male,1
+1/10/2022,Lower Eastern,Machakos," KATHITHYAMAA AREA, MACHAKOS COUNTY",-1.280875,37.3414281,Phishing,male,1
+8/7/2021,South Rift,Bomet,ALONG CHEBOLE,-0.7501829,35.21416,Phishing,male,1
+2/21/2020,Nairobi,Nairobi,UCHUMI ROUNDABOUT,-1.3175234,36.8237164,Phishing,male,1
+6/30/2021,Central,Kiambu,KIMENDE,-0.9814453,36.6323335,Phishing,male,1
+6/6/2020,West Kenya,Nyamira,CHABERA,-0.4243591,34.9863139,Phishing,male,1
+8/2/2021,Nairobi,Nairobi,KARIOBANGI AREA,-1.240591,36.88044,Phishing,male,1
+10/20/2021,Lower Eastern,Machakos,"Salama,Machakos",-1.5176837,37.2634146,Phishing,male,1
+7/26/2020,Nairobi,Nairobi,MAKADARA AREA,-1.2952979,36.8721139,Phishing,male,1
+1/2/2022,South Rift,Bomet,SACHANGWAN,-0.4529411,35.6929013,Phishing,male,1
+10/16/2021,South Rift,Bomet,Chebole - Sotik highway,-0.7501829,35.21416,Phishing,male,1
+9/6/2020,Central,Kiambu,MA3ROUTE,-0.023559,37.906193,Phishing,male,1
+8/29/2020,Lower Eastern,Kajiado,MATASIA,-0.023559,37.906193,Phishing,male,1
+2/1/2021,North Rift,Trans Nzoia,KITALE,1.019089,35.0023048,Phishing,male,1
+8/27/2021,West Kenya,Kakamega,WEBUYE,0.5992059,34.779603,Phishing,male,1
+5/24/2020,South Rift,Kericho,LONDIAN JUNCTION,-0.1748432,35.620484,Phishing,male,1
+7/1/2020,Central,Kiambu,KAMANDURA,-1.1407152,36.6346946,Phishing,male,1
+8/22/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+8/19/2021,Coast,Mombasa,MIRITINI,-3.9956146,39.6001247,Phishing,male,1
+11/12/2021,Central,Kirinyaga,KERUGOYA,-0.4993281,37.2784835,Phishing,male,1
+1/5/2020,Nairobi,Nairobi,MBAGATHI WAY,-1.3086923,36.8045887,Phishing,male,1
+9/4/2021,Lower Eastern,Nairobi,Menelik road Nairobi county,-1.2969349,36.7841912,Phishing,male,1
+1/22/2022,Lower Eastern,Kajiado,"NGATATAEK, KAJIADO NAMANGA ROAD",-2.3987938,36.8506108,Phishing,male,1
+11/13/2020,South Rift,Narok,NAROK-MAI MAHIU ROAD,-1.0994731,36.2716257,Phishing,male,1
+6/4/2021,Lower Eastern,Nairobi,SIGNATURE MALL,-1.4170493,36.9534435,Phishing,male,1
+3/16/2021,Lower Eastern,Makueni,KIBWEZI,-2.4105236,37.967847,Phishing,male,1
+9/23/2020,Coast,Mombasa,MOMBASA-MALINDI ROAD,-3.9920068,39.7328574,Phishing,male,1
+2/1/2021,West Kenya,Migori,KOKURO JUNCTION,-0.8505283,34.543354,Phishing,male,1
+1/24/2022,West Kenya,Kakamega,Chevaywa along Eldoret-Malaba road,0.5768863,34.8075186,Phishing,male,1
+8/11/2020,Nairobi,Nairobi,SOUTHERN BYPASS,-1.3106276,36.7291895,Phishing,male,1
+6/15/2020,Central,Kiambu,LIMURU ROAD,-1.1905676,36.7394548,Phishing,male,1
+9/30/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+12/4/2021,Lower Eastern,Kitui,Enzui river,-0.023559,37.906193,Phishing,male,1
+3/9/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+4/12/2021,Nairobi,Nairobi,NEAR KENYA WINE,-1.2920659,36.8219462,Phishing,male,1
+1/18/2021,West Kenya,Migori,MATAFARE,-0.023559,37.906193,Phishing,male,1
+3/22/2020,Lower Eastern,Machakos,MAKUTANO JUNCTION,-0.7605463,37.2784835,Phishing,male,1
+3/18/2020,Central,Meru,NTHARENE MARKET,-0.1146373,37.6652688,Phishing,male,1
+3/10/2021,North Rift,,RIVER KIMININI,0.8935153,34.9258526,Phishing,male,1
+5/16/2021,Lower Eastern,Kitui,MAJENGO,-1.2860894,36.8425202,Phishing,male,1
+5/14/2021,West Kenya,Kisumu,KISIAN,-0.0748716,34.6662951,Phishing,male,1
+4/26/2021,Nairobi,Nairobi,GALLERIA MALL,-1.3434791,36.7659754,Phishing,male,1
+4/28/2021,Nairobi,Nairobi,NEAR HUDUMA CENTRE,-1.2908773,36.8253008,Phishing,male,1
+4/5/2021,Lower Eastern,Nairobi,KAMAKIS,-0.023559,37.906193,Phishing,male,1
+10/26/2021,West Kenya,,MAILI MBILI,-0.023559,37.906193,Phishing,male,1
+7/16/2021,Nairobi,Nairobi,LANGÁTA,-1.3640944,36.7476257,Phishing,male,1
+11/9/2020,North Rift,Bungoma,WEBUYE-ELDORET HIGHWAY,0.518945,35.272579,Phishing,Female,1
+8/24/2021,South Rift,Bomet,KAPKAREN,0.631270818,34.92722858,Phishing,Female,1
+1/30/2021,Lower Eastern,Nairobi,MOMBASA ROAD,-2.7316802,38.2171862,Phishing,Female,1
+7/7/2020,Lower Eastern,Machakos,NEAR MAANZONI LODGE,-1.5060543,37.0967808,Phishing,Female,1
+1/4/2021,Lower Eastern,Nairobi,GITHURAI,-1.2064151,36.913794,Phishing,Female,1
+11/28/2020,Coast,Mombasa,NEAR SCHOOLOF LEADERSHIP,-0.023559,37.906193,Phishing,Female,1
+4/15/2020,Nairobi,Nairobi,WAIYAKI WAY,-1.2639058,36.7586031,Phishing,Female,1
+6/15/2020,Central,Meru,MERU TOWN,0.0514721,37.6456042,Phishing,Female,1
+3/2/2021,West Kenya,Kakamega,ALONG MUMIAS,-0.023559,37.906193,Phishing,Female,1
+5/21/2021,South Rift,Nakuru,ALONG MAI MAHIU,-0.9820293,36.5864447,Phishing,Female,1
+8/2/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,Female,1
+11/28/2020,South Rift,Nakuru,ALONG GILGIL-NAKURU HIGHWAY,-0.4922735,36.3172993,Phishing,Female,1
+10/8/2020,South Rift,Narok,BOMET-RATILI ROAD,-0.7777854,35.3356518,Phishing,Female,1
+1/10/2020,Nairobi,Nairobi,KARIOBANGI AREA,-1.240591,36.88044,Phishing,Female,1
+7/26/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,Female,1
+1/26/2020,Central,Kiambu,KIKUYU,-1.2471951,36.6790986,Phishing,Female,1
+3/15/2020,Nairobi,Nairobi,SAFARICOM HOUSE,-1.2591667,36.7858333,Phishing,Female,1
+4/3/2021,West Kenya,Kisumu,AWASI CENTRE,-0.1616445,35.0732265,Phishing,Female,1
+9/4/2020,Nairobi,Nairobi,GITHURAI 45,-1.1981489,36.902406,Phishing,Female,1
+4/4/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,Female,1
+9/16/2020,Lower Eastern,Nairobi,ALONG JOGOO ROAD,-1.2976451,36.8711364,Phishing,Female,1
+12/6/2020,Lower Eastern,Kitui,MACHAKOS-KITUI HIGHWAY,-1.4155461,37.6280634,Phishing,Female,1
+1/19/2021,Lower Eastern,Nairobi,GENERAL MOTORS,-0.023559,37.906193,Phishing,Female,1
+1/2/2022,Central,Murang’a,MUTOHO ALONG MURANG'A-KENOL ROAD,-0.9025912,37.1203333,Phishing,Female,1
+10/25/2020,Central,Kiambu,TIGONI,-1.1650793,36.7065057,Phishing,Female,1
+7/30/2021,West Kenya,Kisumu,AHERO JUNCTION,-0.1744386,34.9203383,Phishing,Female,1
+1/7/2020,Lower Eastern,Makueni,TARDA,-0.023559,37.906193,Phishing,Female,1
+7/31/2021,South Rift,Bomet,SACHANGWAN,-0.4529411,35.6929013,Phishing,Female,1
+12/17/2020,Coast,Tana River,WENJE,-1.786403,40.09787,Phishing,Female,1
+11/7/2020,Central,Kirinyaga,MUTITHI-MWEA ROAD,-0.697813,37.2865073,Phishing,Female,1
+1/25/2020,Coast,Kilifi,KWA CHOCHA,-3.2373626,40.0954923,Phishing,Female,1
+7/2/2020,Lower Eastern,Kajiado,VANILLAS-EAST AFRICA PORTLAND,-0.023559,37.906193,Phishing,Female,1
+7/7/2021,Nairobi,Nairobi,SOUTHERN BYPASS,-1.3106276,36.7291895,Phishing,Female,1
+7/29/2020,Central,Murang’a,KAMBITI,-0.8201297,37.2222912,Phishing,Female,1
+5/19/2021,South Rift,Nakuru,KARAI,-1.2556684,36.6255869,Phishing,Female,1
+1/9/2022,West Kenya,Nakuru,"RTA AT SOGEA, GILGIL, NAKURU COUNTY",-0.4922735,36.3172993,Phishing,Female,1
+8/15/2020,West Kenya,Kisumu,KISUMU,-0.0917016,34.7679568,Phishing,Female,1
+1/13/2020,Central,Laikipia,SORIOM BRIDGE,-0.023559,37.906193,Phishing,Female,1
+1/15/2022,South Rift,Nakuru,MIGAA,-1.1310559,36.8445848,Phishing,Female,1
+9/8/2021,Upper Eastern,Mandera,Bulla Dana,-0.023559,37.906193,Phishing,Female,1
+6/13/2020,Nairobi,Nairobi,NEAR GM,-1.329676,36.870983,Phishing,Female,1
+5/6/2021,Lower Eastern,Nairobi,SOUTHERN BY-PASS,-1.3106276,36.7291895,Phishing,Female,1
+1/5/2020,Nairobi,Nairobi,IMARA DAIMA,-1.328436,36.8806499,Phishing,Female,1
+5/11/2020,West Kenya,Kisumu,KISUMU-BUSIA ROAD,-0.0833965,34.7504053,Phishing,Female,1
+3/20/2021,West Kenya,Homa Bay,ALONG RODI ROAD,-0.023559,37.906193,Phishing,Female,1
+6/22/2021,North Rift,Uasin Gishu,ELDORET,0.518945,35.272579,Phishing,Female,1
+12/30/2020,South Rift,Nakuru,BORA AREA AND NJORO FARM,-0.3721309,35.9478869,Phishing,Female,1
+7/5/2020,Lower Eastern,Machakos,MOMBASA ROAD,-2.7316802,38.2171862,Phishing,Female,1
+10/6/2020,Nairobi,Nairobi,NEAR JUBILEE HOUSE,-1.2820148,36.8189219,Phishing,Female,1
+8/15/2021,Coast,Lamu,TEWENI AREA,-0.023559,37.906193,Phishing,Female,1
+4/6/2020,Central,Embu,MWEA-EMBU HIGHWAY,-0.9347879,37.1423869,Phishing,Female,1
+11/15/2020,South Rift,Nakuru,ALONG GILGIL-NAKURU HIGHWAY,-0.4922735,36.3172993,Phishing,Female,1
+3/23/2020,Nairobi,Nairobi,KAPA AREA,-1.3114428,36.7828601,Phishing,Female,1
+8/5/2020,Lower Eastern,Kajiado,MASHUURU,-2.039246,37.1231788,Phishing,Female,1
+3/18/2020,Central,Meru,NTHARENE MARKET,-0.1146373,37.6652688,Phishing,Female,1
+3/15/2021,Lower Eastern,Kajiado,ALONG NAMANGA ROAD,-2.5520935,36.7838976,Phishing,Female,1
+10/2/2021,West Kenya,Kericho,KAPSUSER,-0.4,35.216667,Phishing,Female,1
+2/6/2022,South Rift,Nakuru,"Kikopey area, Gilgil, Nakuru County ",-0.4748399,36.2911753,Phishing,Female,1
+1/9/2022,North Rift,Bomet,MEJA AREA,-0.023559,37.906193,Phishing,Female,1
+5/29/2020,West Kenya,Kisumu,AHERO,-0.1744386,34.9203383,Phishing,Female,1
+3/25/2020,Coast,Mombasa,HIGHWAY SCHOOL,-0.023559,37.906193,Phishing,Female,1
+1/7/2020,South Rift,Nakuru,SOKO MJINGA,-0.023559,37.906193,Phishing,Female,1
+12/24/2021,South Rift,Nyandarua,OL-KALOU,-0.272699,36.3775152,Phishing,Female,1
+3/16/2021,North Rift,Bungoma,KIBISII AREA,-0.023559,37.906193,Phishing,Female,1
+5/21/2020,Nairobi,Nairobi,ALONG MOMBASA ROAD,-1.3657592,36.9122536,Phishing,Female,1
+10/16/2021,South Rift,Bomet,Bomet - Kablong highway,-0.8015009,35.3027226,Phishing,Female,1
+12/26/2020,West Kenya,Kakamega,KAKAMEGA-MUMIAS HIGHWAY,0.3332218,34.4877423,Phishing,Female,1
+1/18/2020,South Rift,Nakuru,SANCHANGWAN AREA,-0.4529411,35.6929013,Phishing,Female,1
+6/23/2020,Nairobi,Nairobi,KARIOBANGI SOUTH,-1.266457,36.8855854,Phishing,Female,1
+2/6/2020,Nairobi,Nairobi,MAMA LUCY HOSPITAL,-1.2727726,36.897288,Phishing,Female,1
+6/7/2021,Nairobi,Nairobi,ALONG SOUTHER BYPASS,-1.3106276,36.7291895,Phishing,Female,1
+12/12/2021,Coast,Kilifi,RTA AT CHESOROKA ALONG MALINDI- MOMBASA HIGHWAY,-3.9920068,39.7328574,Phishing,Female,1
+4/30/2020,Central,Kirinyaga,MAKUTANO-SAGANA HIGHWAY,-0.6695132,37.2061138,Phishing,Female,1
+11/14/2021,Nairobi,Nairobi,NEAR NACICO,-1.2874366,36.8373281,Phishing,Female,1
+1/9/2020,Lower Eastern,Makueni,KYEMOLE MARKET,-0.023559,37.906193,Phishing,Female,1
+4/5/2020,Lower Eastern,Makueni,NEAR SALAMA TOWNSHIP,-0.023559,37.906193,Phishing,Female,1
+1/22/2022,Coast,Mombasa,"Bonje, Miritini Area In Mombasa County",-3.9920392,39.5624733,Phishing,Female,1
+3/3/2020,Nairobi,Nairobi,ROYSAMBU,-1.2184586,36.8869064,Phishing,Female,1
+3/15/2020,Nairobi,Nairobi,ALONG NGONG ROAD,-1.2994605,36.7906854,Phishing,Female,1
+1/20/2022,Coast,Mombasa,"KIBARANI, BAMBURI, MOMBASA COUNTY",-4.031532,39.6473004,Phishing,Female,1
+7/12/2020,Nairobi,Nairobi,MAKONGENI,-1.2976047,36.8505924,Phishing,Female,1
+1/29/2021,South Rift,Nakuru,GILGIL,-0.4922735,36.3172993,Phishing,Female,1
+12/8/2020,Lower Eastern,Nairobi,NENO ROUNDABOUT,-0.023559,37.906193,Phishing,Female,1
+3/24/2020,North Rift,Uasin Gishu,MARUA AREA,-0.4611842,37.0454009,Phishing,Female,1
+7/28/2021,Lower Eastern,Nairobi,MOMBASA RD,-2.7316802,38.2171862,Phishing,Female,1
+10/31/2021,West Kenya,Kakamega,LISUI,-0.023559,37.906193,Phishing,Female,1
+12/5/2021,Lower Eastern,Kitui,"NUU AREA, MWINGI, KITUI COUNTY",-0.937411,38.0605006,Phishing,Female,1
+2/5/2022,South Rift,Bomet,MOTIGO,-0.7450794,35.3845069,Phishing,Female,1
+8/21/2020,West Kenya,Nyamira,OMONONO,-0.6132505,34.9892412,Phishing,Female,1
+1/23/2022,North Eastern,Mandera,QARSADAMU,-0.023559,37.906193,Phishing,Female,1
+1/10/2020,Lower Eastern,Makueni,MAKINDU- WOTE ROAD,-2.0332155,37.7683954,Phishing,Female,1
+1/8/2020,Nairobi,Nairobi,MUTHAIGA,-1.2500849,36.8213209,Phishing,Female,1
+6/27/2021,Nairobi,Nairobi,SOTIK,-1.2996238,36.8272831,Phishing,Female,1
+11/21/2020,Central,Kiambu,MASHAMANI,-0.023559,37.906193,Phishing,Female,1
+3/16/2020,Coast,Mombasa,MOMBASA,-4.0434771,39.6682065,Phishing,male,1
+10/5/2020,Nairobi,Nairobi,PIPELINE,-1.2499889,36.8546282,Phishing,male,1
+12/28/2020,West Kenya,Siaya,BONDO-USENGE HIGHWAY,-0.0572896,34.1528283,Phishing,male,1
+3/17/2020,South Rift,Kericho,SOLIAT CENTRE,-0.3143166,35.1158754,Phishing,male,1
+9/7/2020,Central,Kirinyaga,KIRINYAGA TOWN,-0.2173648,37.1111153,Phishing,male,1
+6/17/2021,Nairobi,Nairobi,KAHAWA,-1.183333,36.9166669,Phishing,male,1
+10/10/2020,Nairobi,Nairobi,ALONG NGONG ROAD,-1.2994605,36.7906854,Phishing,male,1
+11/3/2020,West Kenya,Kisumu,KASAGAN,-0.023559,37.906193,Phishing,male,1
+6/4/2021,Lower Eastern,Machakos,NEAR SIGNATURE MALL,-1.4170493,36.9534435,Phishing,male,1
+10/17/2020,Coast,Kwale,TARU,-3.734468,39.152779,Phishing,male,1
+7/19/2020,West Kenya,Kisumu,KISUMU,-0.0917016,34.7679568,Phishing,male,1
+8/24/2020,Lower Eastern,Kajiado,KITENGELA,-1.5167072,36.849996,Phishing,male,1
+2/5/2020,Central,Kiambu,NEAR MUKIRITI,-1.0382735,37.078889,Phishing,male,1
+4/2/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+5/29/2020,Nairobi,Nairobi,CHIROMO ROAD,-1.2704258,36.8073694,Phishing,male,1
+1/1/2020,Nairobi,Nairobi,KIBERA AREA,-1.3114845,36.7879475,Phishing,male,1
+4/29/2021,Coast,Mombasa,KIBARANI AREA,-4.031532,39.6473004,Phishing,male,1
+3/30/2021,Nairobi,Nairobi,NEXGEN MALL,-1.3237712,36.8440354,Phishing,male,1
+9/17/2020,Lower Eastern,Nairobi,NEAR LANG'ATA ROAD TURN,-1.3362692,36.7757822,Phishing,male,1
+1/9/2021,South Rift,Nakuru,ELDORET-NAKURU HIGHWAY,0.1950182,35.4470794,Phishing,male,1
+1/12/2022,South Rift,Nakuru,Delamere along Nakuru-Naivasha highway,-0.7171778,36.4310251,Phishing,male,1
+1/22/2020,South Rift,Nakuru,MIGAA AREA,-1.1310559,36.8445848,Phishing,male,1
+3/27/2020,Nairobi,Nairobi,DONHOLM,-1.2939161,36.8971181,Phishing,male,1
+8/10/2020,North Rift,Bungoma,MABANGA AREA,-0.023559,37.906193,Phishing,male,1
+9/20/2021,North Eastern,Garissa,Bangal area along Garissa - Nairobi Highway.,-1.2920659,36.8219462,Phishing,male,1
+9/4/2021,South Rift,Kericho,KAPSU AREA,-0.023559,37.906193,Phishing,male,1
+1/26/2021,Lower Eastern,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,Phishing,male,1
+3/23/2021,Upper Eastern,Marsabit,MAIKOMA,-0.023559,37.906193,Phishing,male,1
+1/30/2021,Lower Eastern,Nairobi,NORTHERN BYPASS,-0.023559,37.906193,Phishing,male,1
+4/19/2020,Nairobi,Nairobi,BELLEVUE,-1.3196468,36.8379736,Phishing,male,1
+4/7/2020,Nairobi,Nairobi,MOMBASA ROAD,-1.3657592,36.9122536,Phishing,male,1
+12/10/2020,Lower Eastern,Nairobi,"PIPELINE, ALONG MOMBASA ROAD",-2.7316802,38.2171862,Phishing,male,1
+1/5/2022,Central,Embu,"NDUMARI AREA , MANYATA",-0.4294535,37.4774758,Phishing,male,1
+10/7/2021,Coast,Mombasa,"Tiwi area, Kwale county ",-4.2383996,39.5950186,Phishing,male,1
+6/20/2020,Nairobi,Nairobi,THIKA HIGHWAY,-1.2163932,36.8949246,Phishing,male,1
+11/30/2020,South Rift,Nakuru,SALGAA,-0.023559,37.906193,Phishing,male,1
+9/29/2021,Lower Eastern,Makueni,EMALI,-2.079689,37.4731352,Phishing,male,1
+1/4/2022,West Kenya,Kisumu,"AYUEYO, ALONG KATITO-AHERO HIGHWAY KISUMU COUNTY",-0.2699723,34.9717981,Phishing,male,1
+2/23/2021,Lower Eastern,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,Phishing,male,1
+1/8/2020,Central,Kirinyaga,KAGIO AREA,-0.62515,37.2530686,Phishing,male,1
+12/25/2021,Coast,Taita Taveta,ENGWATA,-0.023559,37.906193,Phishing,male,1
+5/26/2020,Nairobi,Nairobi,NEAR GSU,-1.289601,36.949425,Phishing,male,1
+12/22/2020,North Rift,Bungoma,WEBUYE ROAD,0.5992059,34.779603,Phishing,male,1
+1/14/2022,West Kenya,Kakamega,LUANDETI,0.6070049,34.8465502,Phishing,male,1
+6/30/2021,Lower Eastern,Nairobi,OUTERING,-0.023559,37.906193,Phishing,male,1
+2/19/2020,Lower Eastern,Kajiado,KIMANA ROAD,-2.8,37.533333,Phishing,male,1
+2/21/2020,Nairobi,Nairobi,UCHUMI JOGOO ROAD,-1.2962312,36.8602198,Phishing,male,1
+3/30/2021,West Kenya,Kakamega,KAKAMEGA TOWN,0.2827307,34.7518631,Phishing,male,1
+2/23/2021,South Rift,Nakuru,SACHANGWAN,-0.4529411,35.6929013,Phishing,male,1
+2/21/2020,Lower Eastern,Makueni,MBUMBUNI AREA,-1.600341,37.459099,Phishing,male,1
+8/13/2021,North Rift,Bungoma,KIMAETI AREA,0.6028766,34.4073439,Phishing,male,1
+10/2/2021,Nairobi,Nairobi,ALLSOPS,-1.2487335,36.8721139,Phishing,male,1
+1/4/2022,South Rift,Nakuru,"MIGAA, NAKURU-ELDORET HIGHWAY",-0.3030988,36.080026,Phishing,male,1
+2/24/2021,Coast,Mombasa,BOMBOLULU KISIMANI,-4.0208648,39.7025088,Phishing,male,1
+5/8/2020,West Kenya,Kisumu,AHERO JUNCTION,-0.1744386,34.9203383,Phishing,male,1
+9/20/2020,Central,Embu,BORDER OF EMBU AND THARAKA NITHI,-0.2964851,37.7237678,Phishing,male,1
+3/26/2020,Lower Eastern,Kajiado,NAMANGA ROAD,-2.5520935,36.7838976,Phishing,male,1
+5/8/2020,Nairobi,Nairobi,EASTERN BYPASS,-1.2889009,36.9504567,Phishing,male,1
+4/7/2021,Coast,Kilifi,GEDE,-3.30636,40.0113847,Phishing,male,1
+12/23/2020,Lower Eastern,Nairobi,Pangani under foot bridge,-0.023559,37.906193,Phishing,male,1
+2/1/2021,West Kenya,Homa Bay,HOMABAY,-0.6220655,34.3310364,Phishing,male,1
+1/13/2021,Lower Eastern,Nairobi,THIKA ROAD,-1.2134454,36.8997048,Phishing,male,1
+8/8/2021,South Rift,Bomet,KAPOSOEN AREA,-0.023559,37.906193,Phishing,male,1
+1/13/2021,South Rift,Nakuru,MIGAA,-1.1310559,36.8445848,Phishing,male,1
+5/26/2021,South Rift,Bomet,LONGISA,-0.8605925,35.3911901,Phishing,male,1
+12/9/2020,West Kenya,Kisumu,ALONG KATITO-KENDUBAY ROAD,-0.3684466,34.649701,Phishing,male,1
+3/4/2020,Nairobi,Nairobi,NEAR AIRTEL,-1.2920659,36.8219462,Phishing,male,1
+2/18/2020,Nairobi,Nairobi,MUTHAIGA AREA,-1.2500849,36.8213209,Phishing,male,1
+3/8/2020,South Rift,Nakuru,KINUNGI AREA,-0.8038706,36.5323191,Phishing,male,1
+5/10/2021,South Rift,Narok,NAROK TOWN,-1.0918255,35.8498078,Phishing,male,1
+4/3/2021,West Kenya,Kisumu,KIBOS,-0.0699392,34.8168791,Phishing,male,1
+12/31/2020,West Kenya,Kisumu,AWASI-KISUMU HIGHWAY,-0.0917016,34.7679568,Phishing,male,1
+1/22/2020,Central,Kiambu,ELITE AREA,-0.023559,37.906193,Phishing,male,1
+12/26/2021,Lower Eastern,Machakos,MACHAKOS,-1.5176837,37.2634146,Phishing,male,1
+4/28/2020,Nairobi,Nairobi,GITARU,-1.2335428,36.6714516,Phishing,male,1
+12/10/2020,Central,Kirinyaga,ALONG SAGANA-KARATINA ROAD,-0.5741588,37.1889241,Phishing,male,1
+12/21/2021,South Rift,Bomet,KAPKWEN MEJA,-0.1181957,35.2972331,Phishing,male,1
+6/7/2020,Lower Eastern,Nairobi,Junction Mall Roundabout along Ngong Road,-1.2994605,36.7906854,Phishing,male,1
+1/3/2020,Central,Embu,THUCHI BRIDGE,-0.38934833,37.61603564,Phishing,male,1
+4/13/2020,Nairobi,Nairobi,ALONG JOGOO ROAD,-1.2976451,36.8711364,Phishing,male,1
+9/16/2021,Lower Eastern,Nairobi,JUJA MALL,-1.1183328,37.0091031,Phishing,male,1
+3/5/2021,Nairobi,Nairobi,ALONG MOI AVENUE,-1.2834674,36.823562,Phishing,male,1
+3/16/2020,Coast,Mombasa,KONGOWEA,-4.0391731,39.691945,Phishing,male,1
+6/1/2020,Lower Eastern,Kitui,Kyanika,-0.023559,37.906193,Phishing,male,1
+1/25/2020,Nairobi,Nairobi,KIONGWANI AREA,-1.2920659,36.8219462,Phishing,male,1
+12/13/2020,Lower Eastern,Nairobi,MOMBASA ROAD,-2.7316802,38.2171862,Phishing,male,1
+4/1/2021,Coast,Kilifi,VIPINGO,-3.8201959,39.7858575,Phishing,male,1
+4/20/2020,Lower Eastern,Machakos,GREAT WALL,-0.023559,37.906193,Phishing,male,1
+9/21/2020,Central,Murang’a,THIKA- KENOL ROAD,-1.0435711,37.0824518,Phishing,male,1
+9/20/2020,Central,Kiambu,KINARE-LIMURU,-1.1069305,36.6431267,Phishing,male,1
+4/10/2021,Coast,Taita Taveta,NRB-MBA ROAD,-0.023559,37.906193,Phishing,male,1
+5/14/2021,Nairobi,Nairobi,CITY STADIUM,-1.2938474,36.8422439,Phishing,male,1
+8/26/2021,Coast,Kilifi,GEDE,-3.30636,40.0113847,Phishing,male,1
+1/15/2022,Lower Eastern,Machakos,"KAMBITI- MAKUYU ROAD, MACHAKOS COUNTY",-0.8198968,37.243703,Phishing,male,1
+3/23/2020,Coast,Mombasa,NYALI AREA,-4.0507256,39.6967843,Phishing,male,1
+1/6/2020,Lower Eastern,Makueni,MTITO ANDEI,-2.6917308,38.1662152,Phishing,male,1
+11/25/2021,Coast,Taita Taveta,MANYANI PRISON,-3.0913794,38.4925954,Phishing,male,1
+2/2/2021,Lower Eastern,Kajiado,ISINYA,-1.6727148,36.8425202,Phishing,male,1
+11/14/2020,South Rift,Nakuru,ELDORET-NAKURU HIGHWAY,0.1950182,35.4470794,Phishing,male,1
+4/4/2020,Nairobi,Nairobi,MBAGATHI,-1.363299,36.73872,Phishing,male,1
+3/21/2020,Central,Kirinyaga,SAGANA,-0.6695132,37.2061138,Phishing,male,1
+11/21/2021,South Rift,Narok,DUKA MOJA,-1.0938841,35.8694245,Phishing,male,1
+6/20/2020,Nairobi,Nairobi,MBAGATHI WAY,-1.3086923,36.8045887,Phishing,male,1
+2/21/2020,Lower Eastern,Machakos,NEAR KASEVE,-1.5215251,37.2675843,Phishing,male,1
+10/13/2021,Coast,Kwale,"Likoni ferry-Ukunda highway, Mombasa County.",-4.2879181,39.565308,Phishing,male,1
+1/21/2021,Lower Eastern,Nairobi,MOMBASA ROAD,-2.7316802,38.2171862,Phishing,male,1
+3/13/2021,Upper Eastern,Isiolo,TARAJA SITA,-0.023559,37.906193,Phishing,male,1
+10/2/2021,South Rift,Nakuru,0,-0.023559,37.906193,Phishing,male,1
+1/26/2021,Lower Eastern,Nairobi,THIKA ROAD,-1.2134454,36.8997048,Phishing,male,1
+11/17/2020,South Rift,Bomet,KAPLONG-BOMET HIGHWAY,-0.8015009,35.3027226,Phishing,male,1
+12/24/2021,South Rift,Narok,KATAKALA,-0.023559,37.906193,Phishing,male,1
+8/9/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+8/24/2021,South Rift,Bomet,KAPKAREN,0.631270818,34.92722858,Phishing,male,1
+11/25/2021,West Kenya,Homa Bay,HOMABAY TOWN,-0.5350427,34.4530968,Phishing,male,1
+3/4/2021,Nairobi,Nairobi,UTAWALA,-1.2803889,36.9639637,Phishing,male,1
+5/19/2020,Nairobi,Nairobi,KIBERA,-1.3114845,36.7879475,Phishing,male,1
+12/13/2020,Lower Eastern,Nairobi,EASTERN BY-PASS,-1.2174384,36.9905565,Phishing,male,1
+6/7/2021,South Rift,Baringo,ALONG MAJIMAZURI,-1.2279466,36.92925,Phishing,male,1
+7/3/2021,Upper Eastern,Samburu,WAMBA AREA,0.9830839,37.3239401,Phishing,male,1
+12/6/2020,Lower Eastern,Nairobi,ALONG JOGOO ROAD,-1.2976451,36.8711364,Phishing,male,1
+1/14/2020,Lower Eastern,Machakos,NGULUNI,-1.2799153,37.2651084,Phishing,male,1
+4/12/2021,Nairobi,Nairobi,A road Traffic accident was reported at South Fiel,-1.3285167,36.8904553,Phishing,male,1
+10/27/2021,South Rift,Bomet,OASIS,-0.023559,37.906193,Phishing,male,1
+7/17/2020,South Rift,Nakuru,NAKURU,-0.3030988,36.080026,Phishing,male,1
+12/4/2021,Lower Eastern,Kitui,NUU AREA,-0.023559,37.906193,Phishing,male,1
+8/29/2021,South Rift,Kericho,LONDIANI,-0.1634664,35.5931397,Phishing,male,1
+8/29/2020,Lower Eastern,Machakos,SIMBA CEMENT,-0.023559,37.906193,Phishing,male,1
+7/31/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+1/25/2021,Lower Eastern,Nairobi,OUTER RING ROAD,-0.023559,37.906193,Phishing,male,1
+1/13/2020,South Rift,Narok,OLOITA PLAINS,-0.023559,37.906193,Phishing,male,1
+2/17/2021,Nairobi,Nairobi,ALONG UPPER HILL,-1.298356,36.8132306,Phishing,male,1
+12/8/2020,West Kenya,Homa Bay,SONDU BRIDGE ALONG KISUMU-KISII HIGHWAY,-0.3906605,35.0144538,Phishing,male,1
+2/5/2022,Lower Eastern,Nairobi,LANGATA,-1.3640944,36.7476257,Phishing,male,1
+12/11/2021,Central,Murang’a,KARIGUINI,-0.1048913,36.6741487,Phishing,male,1
+12/21/2020,Lower Eastern,Nairobi,WOODLEY GROUNGS,-0.023559,37.906193,Phishing,male,1
+9/19/2021,Lower Eastern,Nairobi,Eastern bypass in Nairobi County,-1.2889009,36.9504567,Phishing,male,1
+1/3/2020,North Rift,Baringo,TIMBOROA,0.0854953,35.5302127,Phishing,male,1
+5/13/2021,South Rift,Nakuru,NEAR NAIVASHA,-0.7171778,36.4310251,Phishing,male,1
+3/18/2021,Lower Eastern,Kajiado,NEAR KIMALAT AREA,-1.5538551,36.9396641,Phishing,male,1
+3/22/2020,South Rift,Nakuru,SUBUKIA,-0.0018807,36.2278245,Phishing,male,1
+4/14/2020,Central,Kiambu,GITARU,-1.2335428,36.6714516,Phishing,male,1
+4/11/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+3/6/2020,Nairobi,Nairobi,BELLEVUE,-1.3196468,36.8379736,Phishing,male,1
+10/30/2020,Central,Kiambu,EVERGREEN PARK,-0.023559,37.906193,Phishing,male,1
+6/7/2020,Nairobi,Nairobi,JUNCTION MALL ROUNDABOUT,-1.2985101,36.7619156,Phishing,male,1
+10/28/2021,South Rift,Kericho,LONDIANI,-0.1634664,35.5931397,Phishing,male,1
+11/21/2020,South Rift,Kericho,ALONG KERICHO-LUTEIN HIGHWAY,-0.3688967,35.286286,Phishing,male,1
+2/18/2021,Nairobi,Nairobi,PANGANI ROAD,-1.2667224,36.8398293,Phishing,male,1
+2/4/2022,Lower Eastern,Nairobi,ALONG OUTERING,-0.023559,37.906193,Phishing,male,1
+7/12/2021,Central,Kericho,NDIKO AREA,-0.023559,37.906193,Phishing,male,1
+12/7/2020,South Rift,Narok,DUKA MOJA,-1.0938841,35.8694245,Phishing,male,1
+1/29/2021,Lower Eastern,Nairobi,OPPOSITE GALERIA,-0.023559,37.906193,Phishing,male,1
+4/11/2020,Nairobi,Nairobi,GM,-1.329676,36.870983,Phishing,male,1
+1/14/2022,Coast,Kilifi,VIPINGO,-3.8201959,39.7858575,Phishing,male,1
+3/20/2021,Central,Kiambu,MAGUGUNI,-1.1748105,36.8304102,Phishing,male,1
+9/27/2021,South Rift,Bomet,BOMET,-0.7777854,35.3356518,Phishing,male,1
+11/27/2020,Coast,Mombasa,NEAR MSAMBWENI,-4.4652898,39.481266,Phishing,male,1
+2/5/2020,Lower Eastern,Kitui,NEAR KISAYUNI,-4.0242557,39.6877925,Phishing,male,1
+12/23/2020,Central,Nyeri,Kambiti,-0.8201297,37.2222912,Phishing,male,1
+11/14/2021,Nairobi,Nairobi,ALONG THIKA ROAD,-1.2163932,36.8949246,Phishing,male,1
+2/18/2020,Lower Eastern,Machakos,MLOLONGO TOWN,-1.3922344,36.9406718,Phishing,male,1
+1/6/2020,Nairobi,Nairobi,MOMBASA ROAD,-1.3657592,36.9122536,Phishing,male,1
+12/4/2021,South Rift,Bomet,Kapmusa,-0.023559,37.906193,Phishing,male,1
+1/28/2020,Nairobi,Nairobi,GENERAL MOTORS,-1.329676,36.870983,Phishing,male,1
+11/13/2021,South Rift,Nakuru,ALONG MAI MAHIU,-0.9820293,36.5864447,Phishing,male,1
+6/14/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+10/9/2020,Upper Eastern,Marsabit,MARSABIT,2.3354966,37.9943453,Phishing,male,1
+5/24/2020,Nairobi,Nairobi,NEXT GEN MALL,-1.3237712,36.8440354,Phishing,male,1
+4/9/2021,Central,Kiambu,THIKA ROAD,-1.2134454,36.8997048,Phishing,male,1
+7/14/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+2/9/2020,Central,Kiambu,MAI- MAHIU,-0.9820293,36.5864447,Phishing,male,1
+1/26/2020,Central,Kiambu,MUTHAIGA,-1.2500849,36.8213209,Phishing,male,1
+1/13/2020,Coast,Kilifi,GEDE FOREST,-3.30636,40.0113847,Phishing,male,1
+1/5/2022,South Rift,Nakuru,SACHANGWAN ALONG NAKURU-ELDORET HIGHWAY,-0.3030988,36.080026,Phishing,male,1
+11/29/2021,South Rift,Nakuru,kinungi,-0.8038706,36.5323191,Phishing,male,1
+6/18/2020,North Rift,Bungoma,BUIMA AREA,-0.023559,37.906193,Phishing,male,1
+9/6/2021,Coast,Lamu,imiza area,-0.023559,37.906193,Phishing,male,1
+2/17/2021,West Kenya,Siaya,RALINGO AREA,-0.023559,37.906193,Phishing,male,1
+1/23/2020,Nairobi,Nairobi,UCHUMI,-1.3175234,36.8237164,Phishing,male,1
+11/4/2020,Coast,Mombasa,MASIMBA AREA,-2.1878091,37.5321341,Phishing,male,1
+11/22/2020,West Kenya,Kisumu,KISIAN-BONDO HIGHWAY,-0.0907727,34.3420438,Phishing,male,1
+4/18/2020,West Kenya,Kisumu,KENDUBAY,-0.3684466,34.649701,Phishing,male,1
+10/3/2020,Central,Kiambu,KIKUYU BYPASS,-1.2471951,36.6790986,Phishing,male,1
+8/12/2021,South Rift,Kericho,KISUMU RD,0.1892396,34.9482812,Phishing,male,1
+2/12/2020,Nairobi,Nairobi,NORTH AIRPORT,-1.3217247,36.9034926,Phishing,male,1
+1/29/2022,Lower Eastern,Nairobi,"Waiyaki Way near Safaricom HQ, NAIROBI COUNTY",-1.2639058,36.7586031,Phishing,male,1
+10/15/2020,South Rift,Narok,NTULELE,-1.0888197,36.0675952,Phishing,male,1
+3/30/2020,Coast,Mombasa,MOMBASA CONTAINER TERMINAL,-4.0516289,39.6053494,Phishing,male,1
+1/22/2022,South Rift,Bomet,Riverside Bridge along Kiongongo - Longisa Road,-0.4144574,36.962167,Phishing,male,1
+8/26/2020,North Rift,Nakuru,NAROK-MAIMAHIU ROAD,-1.0994731,36.2716257,Phishing,male,1
+9/13/2020,Central,Kiambu,NEAR JUJA POLICE STATION,-1.1042051,37.0176344,Phishing,male,1
+1/9/2022,Coast,Mombasa,"RTA AT KONA POLICE AREA, LIKONI HIGHWAY, MOMBASA",4.0841,39.6608,Phishing,male,1
+1/15/2021,South Rift,Nakuru,SALGAA,-0.023559,37.906193,Phishing,male,1
+7/17/2021,Coast,Tana River,TANA,-1.275207713,39.05342609,Phishing,male,1
+6/13/2020,Nairobi,Nairobi,KIBRA,-1.3114845,36.7879475,Phishing,male,1
+6/7/2021,South Rift,Nakuru,NAKURU,-0.3030988,36.080026,Phishing,male,1
+5/31/2020,Central,Meru,MERU FOREST,0.0677778,37.6216667,Phishing,male,1
+2/2/2022,Lower Eastern,Nairobi,UTAWALA NEAR OLA PETROL STATION,-0.023559,37.906193,Phishing,male,1
+5/10/2021,North Rift,Uasin Gishu,ELDORET,0.518945,35.272579,Phishing,male,1
+5/11/2021,South Rift,Bomet,NEAR KEDOWA,-0.2283438,35.5876697,Phishing,male,1
+7/15/2020,Central,Kiambu,MUTARAKWA,-0.7758789,35.2550204,Phishing,male,1
+2/5/2021,Central,Nyeri,KIRIGU AREA,-1.2991181,36.7038098,Phishing,male,1
+1/4/2020,Central,Nyeri,KARIGI,-0.023559,37.906193,Phishing,male,1
+11/8/2021,South Rift,Bomet,KAPKATET,-0.6390069,35.1818695,Phishing,male,1
+2/4/2021,South Rift,Bomet,MAGONGO AREA,-4.0191093,39.6160417,Phishing,male,1
+2/21/2021,Lower Eastern,Makueni,MBOVU AREA,-0.023559,37.906193,Phishing,male,1
+7/7/2021,Central,Kiambu,KWAMBERA,-0.023559,37.906193,Phishing,male,1
+1/27/2022,West Kenya,Kisumu,Mamboleo Area along Kisumu - Kakamega Highway,0.2711582,34.7531094,Phishing,male,1
+5/25/2021,Lower Eastern,Nairobi,HAMZA STAGE,-0.023559,37.906193,Phishing,male,1
+1/21/2020,Coast,Kilifi,KISAUNI,-4.0242557,39.6877925,Phishing,male,1
+6/16/2021,Lower Eastern,Makueni,SALAMA,-0.023559,37.906193,Phishing,male,1
+8/10/2020,South Rift,Bomet,KAPMUSA TARAKWO,-0.7510965,35.2466624,Phishing,male,1
+3/26/2020,Central,Murang’a,KENOL-MURANG'A ROAD,-1.2709604,36.8295205,Phishing,male,1
+6/10/2021,Coast,Kilifi,KIZIGO AREA,-4.0685158,39.6789061,Phishing,male,1
+4/10/2021,Lower Eastern,Kajiado,KITENGELA-NAMANGA ROAD,-1.4756024,36.9605943,Phishing,male,1
+6/25/2021,Coast,Kilifi,KILIFI,-3.5106508,39.9093269,Phishing,male,1
+2/14/2021,Coast,Mombasa,SHREE LINKS,-0.023559,37.906193,Phishing,male,1
+5/21/2020,Nairobi,Nairobi,ALONG LANGATA ROAD,-1.3362692,36.7757822,Phishing,male,1
+6/11/2021,West Kenya,Vihiga,BOYANI,-4.3028814,39.4709144,Phishing,male,1
+3/1/2020,Nairobi,Nairobi,FEDHA  AREA,-1.3136275,36.8955563,Phishing,male,1
+2/13/2021,South Rift,Nakuru,NEAR MARY HOSPITAL,-0.023559,37.906193,Phishing,male,1
+1/24/2022,North Rift,Bungoma,Bukembe area along Webuye- Malaba Road,0.5992059,34.779603,Phishing,male,1
+2/9/2020,Lower Eastern,Machakos,KISEVENI AREA,-1.5303352,37.3189881,Phishing,male,1
+10/17/2020,Coast,Kwale,TARU,-3.734468,39.152779,Phishing,male,1
+3/10/2021,North Rift,,RIVER KIMININI,0.8935153,34.9258526,Phishing,male,1
+3/7/2020,Nairobi,Nairobi,NORTH AIRPORT ROAD,-1.3217247,36.9034926,Phishing,male,1
+11/27/2021,Lower Eastern,Machakos,NEAR LUKENYA,-1.4926973,37.0829593,Phishing,male,1
+8/20/2020,South Rift,Nakuru,KINUNGI,-0.8038706,36.5323191,Phishing,male,1
+7/27/2020,Nairobi,Nairobi,NEAR TOTAL PETROL STATION,-1.232024,36.8035297,Phishing,male,1
+10/4/2020,South Rift,Narok,NEAR KATAKALA,-0.023559,37.906193,Phishing,male,1
+3/11/2021,Lower Eastern,Kitui,BONDENI AREA,-0.2943821,36.0798278,Phishing,male,1
+4/19/2021,Nairobi,Nairobi,INDUSTRIAL AREA,-1.3061388,36.862699,Phishing,male,1
+1/17/2020,Nairobi,Nairobi,WAIYAKI WAY,-1.2639058,36.7586031,Phishing,male,1
+3/4/2020,Nairobi,Nairobi,ABC WAIYAKI WAY,-1.2639058,36.7586031,Phishing,male,1
+5/28/2020,Lower Eastern,Kitui,CHULUNI,-1.3721777,38.0104132,Phishing,male,1
+3/14/2020,Nairobi,Nairobi,ALONG JOGOO ROAD,-1.2976451,36.8711364,Phishing,male,1
+4/6/2020,South Rift,Nakuru,KASAYO TRADING CENTER,-0.023559,37.906193,Phishing,male,1
+8/17/2021,South Rift,Nakuru,GIOTO AREA,-0.023559,37.906193,Phishing,male,1
+4/12/2020,Nairobi,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,Phishing,male,1
+5/7/2020,Nairobi,Nairobi,ALONG NGONG ROAD,-1.2994605,36.7906854,Phishing,male,1
+7/17/2021,South Rift,Narok,SUSWA AREA,-1.1761411,36.3488674,Phishing,male,1
+5/25/2020,Nairobi,Nairobi,UTAWALA,-1.2803889,36.9639637,Phishing,male,1
+12/23/2020,Coast,Mombasa,Indian Ocean,-0.023559,37.906193,Phishing,male,1
+1/14/2022,Lower Eastern,Nairobi,"BUNYALA UPPERHILL ROUNDABOUT, NAIROBI  COUNTY",-1.2991261,36.8266671,Phishing,male,1
+6/15/2020,Nairobi,Nairobi,NYAYO ROUNDABOUT,-1.3049049,36.8263952,Phishing,male,1
+6/2/2020,South Rift,Kericho,Chirchir,-0.023559,37.906193,Phishing,male,1
+2/8/2022,Coast,Taita Taveta,Caleb via 0716007063,-0.023559,37.906193,Phishing,male,1
+3/17/2021,West Kenya,Homa Bay,HOMABAY,-0.6220655,34.3310364,Phishing,male,1
+4/14/2020,North Rift,Trans Nzoia,KAPENGURIA,1.2481932,35.1103736,Phishing,male,1
+12/5/2021,South Rift,Nakuru,"EVEREADY AREA, NAKURU-KERICHO ROUTE, NAKURU COUNTY",-0.3688967,35.286286,Phishing,male,1
+2/6/2020,Nairobi,Nairobi,PANGANI GIRLS,-1.2691037,36.8375275,Phishing,male,1
+8/19/2020,Nairobi,Nairobi,SURVEY,-1.2567109,36.8586637,Phishing,male,1
+12/7/2020,Coast,Kilifi,SHARIANI,-3.7896182,39.821635,Phishing,male,1
+10/23/2020,Coast,Taita Taveta,NDII AREA,-0.023559,37.906193,Phishing,male,1
+1/16/2022,South Rift,Nakuru," SOUTHLAKE AREA, NAIVASHA, NAKURU COUNTY",-0.7171778,36.4310251,Phishing,male,1
+4/3/2021,Central,Meru,MAUA,0.2325548,37.9413748,Phishing,male,1
+10/24/2020,North Rift,Nandi,RIVER KINGWAL,0.2573869,35.1667505,Phishing,male,1
+5/27/2021,Nairobi,Nairobi,ALONG JOGOO ROAD,-1.2976451,36.8711364,Phishing,male,1
+2/22/2020,South Rift,Nakuru,NEAR MAI MAHIU,-0.9820293,36.5864447,Phishing,male,1
+12/6/2021,Central,Murang’a,KAMBITI,-0.8201297,37.2222912,Phishing,male,1
+1/3/2022,Lower Eastern,Nairobi,MUTINDWA ALONG OUTERING ROAD,-1.2858772,36.8809479,Phishing,male,1
+2/1/2020,Nairobi,Nairobi,INDUSTRIAL AREA,-1.3061388,36.862699,Phishing,male,1
+10/24/2021,South Rift,Baringo,Matharu area near Timboroa in Baringo County,0.8554988,36.0893406,Phishing,male,1
+5/22/2020,Central,Kiambu,THIKA SUPERHIGHWAY,-1.2134454,36.8997048,Phishing,male,1
+6/2/2020,Central,Nyeri,Narumoru,-0.1661137,37.021246,Phishing,male,1
+12/30/2020,Central,Kiambu,THIKA ROAD,-1.2134454,36.8997048,Phishing,male,1
+2/9/2021,South Rift,Nakuru,MILIMANI,-0.1132151,34.7547433,Phishing,male,1
+12/10/2020,Lower Eastern,Nairobi,ALONG MOMBASA ROAD,-2.7316802,38.2171862,Phishing,male,1
+6/22/2020,South Rift,Kericho,RORET CENTER,-0.4804832,35.0993687,Phishing,male,1
+2/16/2020,Nairobi,Nairobi,ALONG LANGATA ROAD,-1.3362692,36.7757822,Phishing,male,1
+1/24/2021,South Rift,Bomet,KAP MUSA,-0.023559,37.906193,Phishing,male,1
+9/20/2020,West Kenya,Kisumu,KISUMU-NAIROBI HIGHWAY,-0.0917016,34.7679568,Phishing,male,1
+6/13/2020,Nairobi,Nairobi,SOCIAL MEDIA,-1.2920659,36.8219462,Phishing,male,1
+3/7/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+12/5/2020,Lower Eastern,Nairobi,NERA GARDEN CITY,-0.023559,37.906193,Phishing,male,1
+5/3/2020,Central,Kiambu,KALIMONI,-1.1170691,37.0091656,Phishing,male,1
+10/28/2020,Nairobi,Nairobi,GITHURAI,-1.2064151,36.913794,Phishing,male,1
+4/20/2020,Lower Eastern,Machakos,MLOLONGO,-1.3922344,36.9406718,Phishing,male,1
+3/21/2021,Coast,Mombasa,CHANGAMWE,-4.0208447,39.6274817,Phishing,male,1
+3/14/2020,North Rift,Nandi,CHEPSWANGOR AREA,0.518945,35.272579,Phishing,male,1
+4/12/2020,Nairobi,Nairobi,WAIYAKI WAY,-1.2639058,36.7586031,Phishing,male,1
+3/26/2021,Lower Eastern,Nairobi,MOWLEM,-1.2645912,36.895515,Phishing,male,1
+1/29/2021,Coast,Mombasa,HAILE SELASSIE AVENUE,-0.023559,37.906193,Phishing,male,1
+2/16/2020,Nairobi,Nairobi,TORU AREA,-1.2920659,36.8219462,Phishing,male,1
+6/19/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+6/17/2020,Central,Kiambu,KIAMBU,-1.1748105,36.8304102,Phishing,male,1
+2/5/2021,Central,Nyeri,KIRIGU AREA,-1.2991181,36.7038098,Phishing,male,1
+5/23/2021,Lower Eastern,Makueni,WOTE,-1.788625,37.6333396,Phishing,male,1
+11/16/2021,Central,Embu,EMBU,-0.5388381,37.4596409,Phishing,male,1
+12/5/2021,Lower Eastern,Kitui,"NUU AREA, MWINGI, KITUI COUNTY",-0.937411,38.0605006,Phishing,male,1
+8/11/2020,Nairobi,Nairobi,BRISTOL PARK,-1.3130358,36.8945139,Phishing,male,1
+8/10/2020,Nairobi,Nairobi,SOUTHERN BYPASS,-1.3106276,36.7291895,Phishing,male,1
+5/20/2020,Central,Embu,EMBU,-0.5388381,37.4596409,Phishing,male,1
+10/8/2020,North Rift,Nandi,CHEPSANGOR ROAD,0.0430959,35.1880413,Phishing,male,1
+6/9/2021,Coast,Taita Taveta,TAITA,-3.3160687,38.4849923,Phishing,male,1
+11/12/2020,Coast,Taita Taveta,"ALONG GHAZI-WONGONYI ROAD, VOI",-3.3166669,38.433333,Phishing,male,1
+5/24/2021,South Rift,Bomet,KAPKWEN,-0.1181957,35.2972331,Phishing,male,1
+3/3/2020,Nairobi,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,Phishing,male,1
+6/7/2020,Nairobi,Nairobi,LIKONI/ENTERPRISE ROAD ROUNDABOUT,-1.3147774,36.8545686,Phishing,male,1
+1/24/2020,Nairobi,Nairobi,KANGEMI AREA,-1.2711928,36.7394386,Phishing,male,1
+10/3/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Phishing,male,1
+2/10/2020,North Rift,Elgeyo-Marakwet,EMBOBUT,1.2211543,35.5876697,Phishing,male,1
+10/29/2020,West Kenya,Kisii,ACCIDENT IN DARAJA MBILI MARKET,-0.6669504,34.7640666,Phishing,male,1
+2/21/2020,Nairobi,Nairobi,NEAR NGARA,-1.2781236,36.8304167,Phishing,male,1
+11/2/2020,Coast,Kilifi,BONDORA AREA,-0.023559,37.906193,Phishing,male,1
+5/13/2020,West Kenya,Kisumu,KOROWE,-0.023559,37.906193,Phishing,male,1
+11/8/2020,Lower Eastern,Nairobi,BARRACKS,-0.023559,37.906193,Phishing,male,1
+2/28/2020,South Rift,Nakuru,MAI MAHIU,-0.9820293,36.5864447,Phishing,male,1
+2/1/2021,South Rift,Nakuru,ALONG NAIVASHA,-0.7171778,36.4310251,Phishing,female,1
+6/13/2020,Nairobi,Nairobi,PANGANI,-1.2667224,36.8398293,Phishing,female,1
+6/3/2021,Central,Murang’a,MAKUYU,-0.902584,37.1874835,Phishing,female,1
+2/19/2020,South Rift,Nakuru,SOBEA AREA,-0.2477838,35.9390375,Phishing,female,1
+11/29/2020,Lower Eastern,Nairobi,ALONG MOMBASA ROAD,-2.7316802,38.2171862,Phishing,female,1
+10/25/2020,Lower Eastern,Nairobi,JAMES GICHURU ROAD,-1.2765292,36.7713079,Phishing,female,1
+1/30/2022,Lower Eastern,Nairobi,"KAMAKIS, EASTERN BYPASS, NAIROBI COUNTY",-1.1766312,36.9899542,Phishing,female,1
+2/22/2020,Nairobi,Nairobi,KIPANDE ROAD,-1.2749951,36.8182303,Phishing,female,1
+6/8/2021,Central,Kiambu,KIBUTI,-0.023559,37.906193,Phishing,female,1
+9/25/2021,Lower Eastern,Nairobi,"Nyayo stadium round about, Nairobi ",-1.3049049,36.8263952,Phishing,female,1
+11/18/2021,Lower Eastern,Machakos,MACHAKOS,-1.5176837,37.2634146,Phishing,female,1
+5/16/2020,West Kenya,Kisumu,AHERO TOWN,-0.1744386,34.9203383,Phishing,female,1
+9/15/2020,Central,Kiambu,THIKA-MANG'U ROAD,-1.0149605,37.004906,Phishing,female,1
+1/16/2020,Nairobi,Nairobi,GENERAL MOTORS,-1.329676,36.870983,Phishing,female,1
+3/7/2021,South Rift,Bomet,BOMET,-0.7777854,35.3356518,Phishing,female,1
+3/31/2021,South Rift,Baringo,KIBOINO AREA,0.4500986,35.6860723,Phishing,female,1
+7/9/2020,Nairobi,Nairobi,NGONG ROAD,-1.2994605,36.7906854,Phishing,female,1
+5/4/2021,Central,Kiambu,KIAMBU ROAD,-1.1307381,36.7648591,malware,female,2
+5/2/2020,Nairobi,Nairobi,MUTHANGARI,-1.2627808,36.7846436,malware,female,2
+3/28/2021,Lower Eastern,Nairobi,KANGEMI ROAD,-1.2711928,36.7394386,malware,female,2
+6/10/2021,Coast,Kilifi,NGAMANI AREA,-0.023559,37.906193,malware,female,2
+4/16/2020,North Eastern,Garissa,GARISSA-MODOGASHE ROAD,0.1745598,39.433479,malware,female,2
+1/7/2020,Central,Murang’a,KARUGI BRIDGE,-0.023559,37.906193,malware,female,2
+12/5/2020,Lower Eastern,Machakos,KITUI-MACHAKOS HIGHWAY,-1.5176837,37.2634146,malware,female,2
+1/24/2020,North Eastern,Wajir,KHOROF KHARAR AREA,2.2356,40.7425,malware,female,2
+5/31/2020,Lower Eastern,Kajiado,KAJIADO NAMANGA HIGHWAY RAILWAY CROSSING,-2.5520935,36.7838976,malware,female,2
+7/5/2020,Lower Eastern,Machakos,MOMBASA ROAD,-2.7316802,38.2171862,malware,female,2
+1/12/2020,Nairobi,Nairobi,GENERAL MOTORS,-1.329676,36.870983,malware,female,2
+1/12/2020,Nairobi,Nairobi,ALONG THIKA ROAD,-1.2163932,36.8949246,malware,female,2
+10/28/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+2/24/2020,Nairobi,Nairobi,HAILE SELASSIE,-1.2868885,36.8315042,malware,female,2
+9/3/2021,Lower Eastern,Nairobi,TAJ MALL,-1.3244587,36.8994498,malware,female,2
+10/16/2020,West Kenya,Siaya,ALONG NGIYA ROAD,-1.2904032,36.8489349,malware,female,2
+5/21/2020,Central,Elgeyo-Marakwet,EMBU,-0.5388381,37.4596409,malware,female,2
+3/18/2020,Nairobi,Nairobi,UTAWALA AREA,-1.2803889,36.9639637,malware,female,2
+4/6/2021,Central,Nyeri,KARATINAA,-0.483158,37.1273549,malware,female,2
+11/8/2020,Lower Eastern,Nairobi,ALONG NGONG ROAD,-1.3352547,36.6723428,malware,female,2
+1/1/2021,West Kenya,Homa Bay,OYUGIS-KENDU BAR ROAD,-0.5078963,34.7381662,malware,female,2
+7/20/2020,Lower Eastern,Nairobi,A vehicle was reported to have burst into flames a,-0.023559,37.906193,malware,female,2
+1/2/2022,South Rift,Bomet,Katagala area along Narok - Bomet Highway.,-1.0875428,35.8770642,malware,female,2
+4/7/2020,Nairobi,Nairobi,RUAI JUNCTION,-1.2641171,36.9827015,malware,female,2
+7/24/2021,Lower Eastern,Makueni,TANGU AREA,-0.023559,37.906193,malware,female,2
+5/28/2021,Coast,Lamu,LAMU,-2.2695575,40.9006408,malware,female,2
+3/19/2020,Nairobi,Nairobi,GITHURAI AREA,-1.204607,36.9057288,malware,female,2
+6/1/2020,Lower Eastern,Nairobi,Riverside exit to Kariobangi and Outering Road,-1.240591,36.88044,malware,female,2
+8/4/2021,Nairobi,Nairobi,NGARA,-1.2781236,36.8304167,malware,female,2
+3/6/2020,Nairobi,Nairobi,PAST TRM,-1.2188769,36.8876524,malware,female,2
+10/31/2020,Lower Eastern,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,malware,female,2
+12/11/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+1/12/2020,Coast,Mombasa,KENGELENI,-4.0415601,39.6797637,malware,female,2
+2/28/2020,West Kenya,Kisumu,NYALENDA AREA,-0.1266702,34.7575059,malware,female,2
+7/20/2020,Lower Eastern,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+8/6/2020,South Rift,Nyandarua,OLKALOU,-0.272699,36.3775152,malware,female,2
+9/10/2020,Central,Kiambu,KISII ESTATE,-1.0633993,37.1271995,malware,female,2
+3/8/2020,Nairobi,Nairobi,KASARANI AREA,-1.2253995,36.8976372,malware,female,2
+1/4/2021,Coast,Mombasa,MIKINDANI,-4.0048742,39.6286998,malware,female,2
+3/31/2020,Lower Eastern,Machakos,TORU,-0.023559,37.906193,malware,female,2
+1/4/2022,South Rift,Bomet,"SOTIK, ALONG KERICHO TEA HIGHWAY",-0.6906735,35.1110613,malware,female,2
+1/14/2021,South Rift,Nakuru,MIGAA,-1.1310559,36.8445848,malware,female,2
+1/12/2020,Nairobi,Nairobi,NEAR ABC PLACE,-1.2596849,36.777006,malware,female,2
+6/16/2021,Nairobi,Nairobi,RIARA UNIVERSITY,-1.3147823,36.8070166,malware,female,2
+11/14/2021,Central,Laikipia,LAIKIPIA,0.3606063,36.7819505,malware,female,2
+6/7/2020,Lower Eastern,Nairobi,Mombasa Road,-2.7316802,38.2171862,malware,female,2
+8/17/2021,Lower Eastern,Kajiado,GATAKA AREA,-0.023559,37.906193,malware,female,2
+5/24/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+12/24/2021,Nairobi,Nairobi,IMARA DAIMA,-1.328436,36.8806499,malware,female,2
+3/1/2020,Nairobi,Nairobi,PANGANI AREA,-1.2667224,36.8398293,malware,female,2
+12/24/2021,South Rift,Narok,OLOLUNGA,-1.003036,35.6640447,malware,female,2
+12/19/2020,Lower Eastern,Nairobi,HAMZA,-0.023559,37.906193,malware,female,2
+3/13/2021,Central,Kiambu,EKA TANO AREA,-0.023559,37.906193,malware,female,2
+9/28/2020,South Rift,Nakuru,MOLO,-0.2488358,35.7323709,malware,female,2
+11/15/2020,Lower Eastern,Nairobi,NGONG ROAD,-1.3352547,36.6723428,malware,female,2
+1/12/2020,Nairobi,Nairobi,OUTERING ROAD,-1.2667425,36.8798984,malware,female,2
+8/24/2020,North Rift,Uasin Gishu,KABURENGU,0.5775237,34.8044861,malware,female,2
+5/11/2020,West Kenya,Kisumu,KISUMU-BUSIA ROAD,-0.0833965,34.7504053,malware,female,2
+10/10/2021,South Rift,Bomet,Waikeri in Bomet County.,-0.8015009,35.3027226,malware,female,2
+2/27/2020,Nairobi,Nairobi,HAILE SELLASIE,-1.2868885,36.8315042,malware,female,2
+5/24/2021,South Rift,Nakuru,ALONG LIMURU ROAD,-1.1905676,36.7394548,malware,female,2
+2/17/2021,Nairobi,Nairobi,DEEP SEA,-1.2920659,36.8219462,malware,female,2
+10/20/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+3/21/2021,Coast,Mombasa,CHANGAMWE,-4.0208447,39.6274817,malware,female,2
+8/6/2020,Central,Kiambu,ALONG JUA CALI,-0.023559,37.906193,malware,female,2
+3/11/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+8/18/2020,Nairobi,Nairobi,NEAR WAKULIMA MARKET,-1.287597,36.8322605,malware,female,2
+5/24/2021,South Rift,Nakuru,ALONG MAI MAHIU,-0.9820293,36.5864447,malware,female,2
+9/13/2021,Lower Eastern,Nairobi,Pathway area near Race-course along Ngong road.,-1.3352547,36.6723428,malware,female,2
+2/29/2020,Lower Eastern,Makueni,NEAR MTITO ANDEI,-2.6917308,38.1662152,malware,female,2
+3/14/2020,Nairobi,Nairobi,EAR GATE WAY MALL,-1.3642102,36.9117918,malware,female,2
+2/9/2021,Lower Eastern,Kitui,KANYONYO AREA,-0.023559,37.906193,malware,female,2
+3/24/2021,West Kenya,Kisumu,CHEMELIL,-0.0820908,35.1351291,malware,female,2
+5/16/2021,Nairobi,Nairobi,NEAR TAJ MALL,-1.3244587,36.8994498,malware,female,2
+9/2/2021,Central,Nyeri,KIAWARA,-0.4191013,36.9534482,malware,female,2
+12/14/2020,West Kenya,Migori,RONGO-AWENDO HIGHWAY,-0.9017152,34.5334534,malware,female,2
+1/22/2020,South Rift,Nakuru,SALGAA,-0.023559,37.906193,malware,female,2
+12/26/2021,South Rift,Narok,NTULELE NAROK COUNTY,-1.0888197,36.0675952,malware,female,2
+3/4/2020,Nairobi,Nairobi,KAWANGWARE,-1.2822722,36.7523652,malware,female,2
+1/23/2020,Central,Kirinyaga,SAGANA BRIDGE,-0.6695132,37.2061138,malware,female,2
+1/11/2020,Nairobi,Nairobi,ROYSAMBU,-1.2184586,36.8869064,malware,female,2
+11/3/2021,South Rift,Nakuru,KIBUNJA,-0.023559,37.906193,malware,female,2
+12/9/2020,Central,Nyeri,MARUA JUNCTION,-0.4611842,37.0454009,malware,female,2
+11/13/2020,Lower Eastern,Nairobi,MOMBASA ROAD,-2.7316802,38.2171862,malware,female,2
+4/12/2021,Coast,Kilifi,KIZINGO AREA,-4.0685158,39.6789061,malware,female,2
+2/3/2021,South Rift,Baringo,NEAR CHEMOLINGOT,0.9829067,35.9778311,malware,female,2
+1/2/2022,South Rift,Bomet,KAMUREITO AREA,-0.742877,35.1870231,malware,female,2
+3/23/2021,South Rift,Bomet,KAPLONG,-0.6703047,35.1598773,malware,female,2
+2/1/2020,Lower Eastern,Nairobi,RIVER WAANI,-0.023559,37.906193,malware,female,2
+11/23/2021,West Kenya,Kakamega,KAKAMEGA,0.307894,34.7740793,malware,female,2
+4/24/2021,Lower Eastern,Kitui,MUTULA/KYANYIKA,-0.023559,37.906193,malware,female,2
+7/25/2021,South Rift,Nandi,NAKURU,-0.3030988,36.080026,malware,female,2
+1/12/2020,Nairobi,Nairobi,ALONG LANGATA ROAD,-1.3362692,36.7757822,malware,female,2
+11/5/2020,South Rift,Nakuru,NAKURU,-0.3030988,36.080026,malware,female,2
+4/4/2021,Lower Eastern,Machakos,GATEWAY MALL,-0.023559,37.906193,malware,female,2
+12/28/2021,West Kenya,Vihiga,"MUDETE, KAPSABET-CHAVAKALI ROAD VIHIGA COUNTY",0.202957,35.0978385,malware,female,2
+12/31/2021,Coast,Kwale,"Matuga Area, Kwale County.",-4.1716697,39.5588473,malware,female,2
+1/9/2021,West Kenya,,KISII-NYAMATARO ROAD,-0.623029,34.7549071,malware,female,2
+5/24/2020,South Rift,Kericho,LONDIANI,-0.1634664,35.5931397,malware,female,2
+10/2/2020,Central,Nyeri,NARUMORU,-0.1661137,37.021246,malware,female,2
+1/17/2020,West Kenya,Kisii,KIGATHI,-0.023559,37.906193,malware,female,2
+8/24/2021,South Rift,Bomet,SOTIK,-0.6906735,35.1110613,malware,female,2
+3/14/2020,Nairobi,Nairobi,RACE COURSE ROAD,-1.2843278,36.8311701,malware,female,2
+1/16/2020,South Rift,Nakuru,GILGIL,-0.4922735,36.3172993,malware,female,2
+3/18/2021,Central,Meru,SUBUIGA AREA,0.0514721,37.6456042,malware,female,2
+2/23/2020,Central,Meru,CHUKA TOWN,-0.322865,37.6546274,malware,female,2
+3/31/2021,Coast,Mombasa,0,-0.023559,37.906193,malware,female,2
+3/26/2021,West Kenya,Homa Bay,KENDU BAY,-0.3684466,34.649701,malware,female,2
+2/1/2021,Nairobi,Nairobi,PANGANI,-1.2667224,36.8398293,malware,female,2
+5/1/2021,West Kenya,Nyamira,NYAMIRA,-0.5669405,34.9341234,malware,female,2
+4/12/2021,Central,Kiambu,KIAMBU,-1.1748105,36.8304102,malware,female,2
+1/18/2022,South Rift,Bomet,"Chepkosa, Bomet  County",-0.9545757,35.253304,malware,female,2
+4/14/2021,Central,Kiambu,RUIRU,-1.14825,36.9604534,malware,female,2
+1/30/2021,Lower Eastern,Nairobi,KAHAWA,-1.183333,36.9166669,malware,female,2
+6/16/2020,Nairobi,Nairobi,NEAR NATION MEDIA PRINTING,-1.3257483,36.896397,malware,female,2
+4/10/2020,Nairobi,Nairobi,OPPOSITE KCAA MOMBASA ROAD,-1.3434822,36.9032785,malware,female,2
+2/24/2020,Nairobi,Nairobi,HAILE SELASSIE,-1.2868885,36.8315042,malware,female,2
+3/1/2020,Central,Kiambu,MUGUMOINI SCHOOL,-1.371275,36.85386,malware,female,2
+3/17/2020,Central,Meru,NEAR KAAGA GIRLS,0.0709189,37.6496386,malware,female,2
+8/8/2020,South Rift,Bungoma,ALONG BUNGOMA-MALABA HIGHWAY,0.5695252,34.5583766,malware,female,2
+11/30/2020,South Rift,Nakuru,SACHANGWAN-SALGAA ROAD,-0.2889046,36.0768975,malware,female,2
+9/22/2020,South Rift,Nakuru,GILGIL WEIGH BRIDGE,-0.5237101,36.326783,malware,female,2
+3/17/2020,Central,Kiambu,THIKA ROAD,-1.2134454,36.8997048,malware,female,2
+10/24/2020,Coast,Mombasa,"HARAMBEE ESTATE,",-1.2806721,36.8761485,malware,female,2
+6/23/2021,Lower Eastern,Machakos,KITHIMANI,-1.1840152,37.4461281,malware,female,2
+6/15/2020,Central,Kiambu,KINOO,-1.2526258,36.6930253,malware,female,2
+4/18/2021,South Rift,Bomet,OLBOBO JUNCTION,-0.023559,37.906193,malware,female,2
+2/13/2020,Central,Kiambu,RUIRU AREA,-1.14825,36.9604534,malware,female,2
+7/20/2020,Central,Kiambu,KIAMBU,-1.1748105,36.8304102,malware,female,2
+6/7/2020,Nairobi,Nairobi,JUNCTION MALL ROUNDABOUT,-1.2985101,36.7619156,malware,female,2
+1/6/2022,West Kenya,Kakamega,"BUTALI NEAR TANDE SCHOOL, MALAVA, KAKAMEGA COUNTY",0.5042009,34.8397938,malware,female,2
+1/10/2021,Coast,Kwale,KONA YA FIONA,-0.023559,37.906193,malware,female,2
+1/6/2021,South Rift,Bomet,CHEBOLE,-0.7501829,35.21416,malware,female,2
+7/24/2020,West Kenya,Kisumu,OJOLLA,-0.0647823,34.6465244,malware,female,2
+10/11/2021,South Rift,Bomet,Londiani - Muhoroni Highway in Kericho County.,-0.1634664,35.5931397,malware,female,2
+4/6/2021,West Kenya,Kisumu,NUMBER ORONGO BRIDGE,-0.023559,37.906193,malware,female,2
+12/29/2021,North Rift,Nandi,RIVER YALA ALONG KAPSABET-CHAVAKALI ROAD.,-0.0076917,34.19198312,malware,female,2
+3/19/2021,Nairobi,Nairobi,NEAR KIBERA,-1.3114845,36.7879475,malware,female,2
+3/6/2021,Nairobi,Nairobi,WESTLANDS,-1.2675001,36.812022,malware,female,2
+12/27/2020,West Kenya,Siaya,UGUNJA-YALA ROAD,0.1811028,34.2966264,malware,female,2
+11/6/2021,Nairobi,Nairobi,CAPITAL CENTRE,-1.316234,36.834599,malware,female,2
+3/13/2020,Nairobi,Nairobi,NEAR KINOO,-1.3059841,36.777826,malware,female,2
+7/30/2021,Lower Eastern,Nairobi,UPPER HILL,-1.298356,36.8132306,malware,female,2
+4/2/2020,West Kenya,Migori,SORI MARKET,-0.023559,37.906193,malware,female,2
+8/4/2021,South Rift,Nakuru,GILGIL,-0.4922735,36.3172993,malware,female,2
+10/29/2020,Nairobi,Nairobi,CHOKAA,-1.2488779,36.9520919,malware,female,2
+1/19/2022,Central,Kirinyaga,"MURINDUKO, PIAI- KARUANGI ROAD, KIRINYAGA",-0.6131547,37.4467952,malware,female,2
+7/18/2021,West Kenya,Siaya,MALANGA AREA,-0.023559,37.906193,malware,female,2
+1/29/2021,West Kenya,Kisumu,NEAR NGERE KAGORO,-0.1490661,35.0047366,malware,female,2
+12/30/2020,Lower Eastern,Kajiado,KAJIADO-MASHURU ROAD,-2.039246,37.1231788,malware,female,2
+9/4/2020,Central,Nyeri,WAMBUGU FARM,-0.4444562,36.9836966,malware,female,2
+7/22/2021,Lower Eastern,Machakos,SABAKI AREA,-2.394811649,38.96601412,malware,female,2
+3/9/2021,South Rift,Bomet,BOMET,-0.7777854,35.3356518,malware,female,2
+1/23/2022,South Rift,Nakuru,KIENGERO,-0.023559,37.906193,malware,female,2
+1/26/2021,Central,Nyeri,KIANDU,-0.4880918,36.9694126,malware,female,2
+12/12/2021,Coast,Kilifi,CHESOROKA,-0.023559,37.906193,malware,female,2
+3/4/2020,Central,Meru,MALAENE AREA,-0.023559,37.906193,malware,female,2
+11/20/2020,South Rift,Baringo,ALONG MARIGAT-NAKURU HIGHWAY,-0.3030988,36.080026,malware,female,2
+1/31/2020,Nairobi,Nairobi,SAFARICOM AREA,-1.2292255,36.8866973,malware,female,2
+3/11/2021,Nairobi,Nairobi,0,-1.2920659,36.8219462,malware,female,2
+5/30/2020,Nairobi,Nairobi,LANG'ATA,-1.3640944,36.7476257,malware,female,2
+2/13/2021,Nairobi,Nairobi,SAMEER,-1.2920688,36.8218911,malware,female,2
+12/23/2021,Coast,Kilifi,KIBARANI,-3.5821753,39.8321879,malware,female,2
+11/23/2021,West Kenya,Kakamega,KAKAMEGA,0.307894,34.7740793,malware,female,2
+9/27/2020,Central,Kiambu,NDE4RU,-0.023559,37.906193,malware,female,2
+5/29/2020,Nairobi,Nairobi,MBAGATHI WAY,-1.3086923,36.8045887,malware,female,2
+1/26/2022,West Kenya,Kisumu,Ahero - Katito Road  KISUMU COUNTY,-0.1744386,34.9203383,malware,female,2
+6/30/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+2/18/2021,South Rift,Narok,NEAR OLOLULUNGA,-1.003036,35.6640447,malware,female,2
+3/17/2020,Nairobi,Nairobi,PANGANI ROAD,-1.2667224,36.8398293,malware,female,2
+11/16/2020,Lower Eastern,Machakos,NAIROBI-MOMBASA ROAD,-1.3657592,36.9122536,malware,female,2
+3/4/2020,Nairobi,Nairobi,AFTER ROSTERS,-1.2920659,36.8219462,malware,female,2
+4/3/2020,Nairobi,Nairobi,NEAR CAPITAL CENTER,-1.316234,36.834599,malware,female,2
+1/30/2021,West Kenya,Kisumu,NYANDO,-0.1995242,34.8844867,malware,female,2
+6/8/2021,South Rift,Narok,MOITA AREA,-0.023559,37.906193,malware,female,2
+7/27/2020,Nairobi,Nairobi,NEAR CITY MORTUARY ROAD,-1.298652,36.802564,malware,female,2
+1/22/2021,Lower Eastern,Nairobi,SOUTHERN BYPASS,-1.3106276,36.7291895,malware,female,2
+1/9/2020,Coast,Lamu,WITU-GARSEN ROAD,-2.2712266,40.1044567,malware,female,2
+5/28/2021,Lower Eastern,Makueni,EMALI TOWN,-2.079689,37.4731352,malware,female,2
+12/2/2020,South Rift,Nakuru,NAKURU-ELDORET HIGHWAY,-0.3030988,36.080026,malware,female,2
+5/6/2020,South Rift,Nakuru,NAIVASHA,-0.7171778,36.4310251,malware,female,2
+11/11/2021,Central,Nyeri,NYERI,-0.437099,36.9580104,malware,female,2
+5/26/2021,Nairobi,Nairobi,ALONG LUNGA LUNGA,-1.3074645,36.8724596,malware,female,2
+12/6/2020,Coast,Tana River,WENJE,-1.786403,40.09787,malware,female,2
+2/21/2021,South Rift,Bomet,KAMUREITO AREA,-0.742877,35.1870231,malware,female,2
+1/29/2021,Lower Eastern,Nairobi,GLOBE ROUND ABOUT,-1.2784348,36.8213265,malware,female,2
+4/18/2021,North Rift,Garissa,KAUNGUNI,-2.4069174,37.8618422,malware,female,2
+1/2/2022,North Rift,Bungoma,WEBUYE-ELDORET HIGHWAY,0.518945,35.272579,malware,female,2
+10/9/2020,Coast,Kwale,MABIRIVA AREA,-0.023559,37.906193,malware,female,2
+1/31/2021,South Rift,Nakuru,NAIVASHA-NAIROBI HIGHWAY,-1.2920659,36.8219462,malware,female,2
+1/9/2022,South Rift,Nakuru," SIMBA CEMENT, NAKURU COUNTY",-0.2901483,36.0526946,malware,female,2
+12/25/2020,West Kenya,Kisumu,AWASI,-0.1616445,35.0732265,malware,female,2
+5/7/2021,Coast,Taita Taveta,TARU,-3.734468,39.152779,malware,female,2
+6/7/2020,Lower Eastern,Nairobi,Likoni Road,-1.3040786,36.8559641,malware,female,2
+3/10/2020,Lower Eastern,Makueni,MTITO ANDEI,-2.6917308,38.1662152,malware,female,2
+4/17/2021,Lower Eastern,Makueni,DEKODE,-0.023559,37.906193,malware,female,2
+4/17/2020,Lower Eastern,Machakos,KAPA,-0.023559,37.906193,malware,female,2
+7/23/2021,Nairobi,Nairobi,SOUTH C,-1.3222736,36.8288933,malware,female,2
+1/7/2020,West Kenya,Kisumu,NYANDO,-0.1995242,34.8844867,malware,female,2
+1/5/2022,West Kenya,Kisumu,KOGUTU MARKET ALONG CHEMELIL-AWASI ROAD,-0.1616445,35.0732265,malware,female,2
+2/23/2020,Nairobi,Nairobi,SOUTH C AREA,-1.3222736,36.8288933,malware,female,2
+12/17/2020,West Kenya,Kisumu,KERICHO-KISUMU HIGHWAY,-0.369439,35.2856541,malware,female,2
+10/19/2021,Lower Eastern,Makueni,"Sinai, Wote- Makindu road Makueni",-2.0332155,37.7683954,malware,female,2
+11/13/2020,South Rift,Nakuru,NAKURU-ELDORET HOGHWAY,-0.3030988,36.080026,malware,female,2
+11/14/2021,South Rift,Nakuru,KIJABE AREA,-0.9539662,36.5931948,malware,female,2
+11/17/2021,Nairobi,Nairobi,PEPONI,-1.2440893,36.7924714,malware,female,2
+12/17/2021,Lower Eastern,Machakos,"LUKENYA, MOMBASA ROAD",-1.5770172,37.1553526,malware,female,2
+3/4/2021,Lower Eastern,Machakos,ATHI RIVER,-1.4577245,36.9785033,malware,female,2
+1/19/2020,Lower Eastern,Makueni,MAKINDU AREA,-2.2777039,37.8246955,malware,female,2
+1/1/2021,Lower Eastern,Nairobi,JKIA,-1.3227102,36.9260693,malware,female,2
+10/10/2021,South Rift,Bomet,"Sotik town, Bomet county ",-0.6906735,35.1110613,malware,female,2
+5/5/2021,West Kenya,Kisumu,AWASI,-0.1616445,35.0732265,malware,female,2
+9/15/2020,Central,Nyeri,NARUMORU,-0.1661137,37.021246,malware,female,2
+4/25/2020,Lower Eastern,Kitui,KITUI TOWN,-1.3750813,37.9952144,malware,female,2
+5/26/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+7/4/2021,South Rift,Bomet,NEAR NYANGORES RIVER,-0.023559,37.906193,malware,female,2
+5/29/2021,Nairobi,Nairobi,ALONG BYPASS,-1.2920659,36.8219462,malware,female,2
+6/7/2020,West Kenya,Kisii,NYAMAGUNDO,-0.023559,37.906193,malware,female,2
+3/2/2021,Nairobi,Nairobi,NEAR KAHAWA WEST,-1.1858857,36.9069054,malware,female,2
+1/8/2021,South Rift,Nakuru,NAKURU-ELDORET HIGHWAY,-0.3030988,36.080026,malware,female,2
+10/11/2020,Nairobi,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,malware,female,2
+8/10/2020,Nairobi,Nairobi,SOUTHERN BYPASS,-1.3106276,36.7291895,malware,female,2
+2/6/2022,Coast,Mombasa,"Likoni, Mombasa County",-4.0840986,39.6608103,malware,female,2
+3/16/2021,Central,Murang’a,NEAR MARAGUA RIVER,-0.715107539,36.85462576,malware,female,2
+12/15/2021,Nairobi,Nairobi,GITARU ROAD,-1.2125409,36.710051,malware,female,2
+5/3/2021,Lower Eastern,Makueni,EMALI,-2.079689,37.4731352,malware,female,2
+3/31/2020,Nairobi,Nairobi,MADARAKA,-1.3098585,36.8156065,malware,female,2
+1/31/2021,Lower Eastern,Nairobi,PANGANI POLICE STATION,-1.2700143,36.8357661,malware,female,2
+3/18/2020,South Rift,Narok,NEAR OLOLULUNGA AREA,-1.003036,35.6640447,malware,female,2
+1/21/2022,Lower Eastern,Nairobi," RIKANA ALONG JOGOO ROAD, NAIROBI COUNTY",-1.2940045,36.8514283,malware,female,2
+2/11/2021,Nairobi,Nairobi,NEAR PANARI,-1.2920659,36.8219462,malware,female,2
+1/18/2022,West Kenya,Homa Bay,"Homabay - Ndhiwa road, HOMABAY COUNTY",-0.7298697,34.3671172,malware,female,2
+4/17/2021,Lower Eastern,Nairobi,Kabete,-0.023559,37.906193,malware,female,2
+9/20/2020,Central,Nyeri,KARATINA,-0.483158,37.1273549,malware,female,2
+7/19/2020,Central,Kiambu,KIJABE,-0.9539662,36.5931948,malware,female,2
+5/8/2020,North Eastern,Mandera,DEREKALE TRADING CENTER,-0.023559,37.906193,malware,female,2
+10/9/2021,South Rift,Baringo,"RTA in Eldama Ravine,Baringo",0.053037,35.729768,malware,female,2
+1/19/2020,South Rift,Nakuru,NAKURU,-0.3030988,36.080026,malware,female,2
+6/18/2020,Central,Kiambu,KIAMBU,-1.1748105,36.8304102,malware,female,2
+12/25/2020,Central,Kiambu,THINDIGUA,-1.219145,36.8438656,malware,female,2
+2/6/2021,Central,Kiambu,THIKA,-1.0387569,37.0833753,malware,female,2
+3/27/2021,Lower Eastern,Nairobi,UPPER HILL,-1.298356,36.8132306,malware,female,2
+12/16/2020,Coast,Mombasa,BP NYALI,-4.0507256,39.6967843,malware,female,2
+7/8/2021,South Rift,Kericho,MUMBERES AREA,0.0531387,35.5767287,malware,female,2
+4/18/2021,North Eastern,Garissa,SAREDHO AREA,-0.023559,37.906193,malware,female,2
+1/11/2020,Nairobi,Nairobi,ALONG FOREST ROAD,-1.341639,36.7131488,malware,female,2
+6/25/2021,South Rift,Nakuru,KEDONG AREA,-1.05,36.566667,malware,female,2
+10/10/2020,Lower Eastern,Machakos,CHUMBI ROAD,-0.023559,37.906193,malware,female,2
+12/20/2021,South Rift,Nyandarua,NYANADARUA,-0.1803855,36.5229641,malware,female,2
+3/5/2020,Nairobi,Nairobi,ROYSAMBU AREA,-1.2184586,36.8869064,malware,female,2
+12/26/2020,Lower Eastern,Nairobi,GENERAL MOTORS,-0.023559,37.906193,malware,female,2
+7/18/2020,Lower Eastern,Kajiado,KAJIADO,-1.8420731,36.7918599,malware,female,2
+10/25/2021,Central,Kirinyaga,Mwea,-0.6897364,37.3399768,malware,female,2
+1/23/2020,North Rift,Uasin Gishu,TURBO BRIDGE,-0.023559,37.906193,malware,female,2
+1/25/2020,Lower Eastern,Makueni,KIBWEZI,-2.4105236,37.967847,malware,female,2
+2/21/2021,Coast,Mombasa,NYALI,-4.0507256,39.6967843,malware,female,2
+10/24/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,malware,female,2
+3/26/2020,Nairobi,Nairobi,MOMBASA ROAD,-1.3657592,36.9122536,malware,female,2
+9/17/2021,Lower Eastern,Nairobi,NGONG ROAD,-1.3352547,36.6723428,malware,female,2
+2/3/2020,Nairobi,Nairobi,SOUTH C,-1.3222736,36.8288933,malware,female,2
+2/16/2020,Central,Kiambu,MARURUI MARKET,-1.2052859,36.862699,malware,male,2
+6/21/2021,West Kenya,Kisumu,KISUMU,-0.0917016,34.7679568,malware,male,2
+10/28/2020,Central,Kiambu,KIAMBU,-1.1748105,36.8304102,malware,male,2
+3/4/2020,Lower Eastern,Machakos,MATUU TOWN,-1.1407002,37.5481236,malware,male,2
+8/15/2021,Nairobi,Nairobi,IMARA DAIMA,-1.328436,36.8806499,malware,male,2
+9/16/2021,North Rift,West Pokot,KOPOCH AREA,-0.023559,37.906193,malware,male,2
+5/31/2020,Nairobi,Nairobi,WILSON AIRPORT,-1.319185,36.817648,malware,male,2
+11/24/2020,Lower Eastern,Nairobi,ALONG EASTERN BYPASS,-1.2174384,36.9905565,malware,male,2
+4/3/2020,Nairobi,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,malware,male,2
+8/9/2020,North Rift,Nandi,MOGOIWET AREA,-0.023559,37.906193,malware,male,2
+7/22/2021,Coast,Tana River,TANA RIVER,-1.275207713,39.05342609,malware,male,2
+11/7/2020,Central,Kiambu,NANASI GARAGE,-0.023559,37.906193,malware,male,2
+2/1/2021,Nairobi,Nairobi,NORTH AIRPORT,-1.3217247,36.9034926,malware,male,2
+5/16/2021,Nairobi,Nairobi,VIWANDANI AREA,-1.3112846,36.8741313,malware,male,2
+1/29/2020,Nairobi,Nairobi,MIREMA ROYSAMBU,-1.2111296,36.8874556,malware,male,2
+3/12/2021,Coast,Tana River,TANA RIVER,-1.275207713,39.05342609,malware,male,2
+8/29/2020,Central,Embu,EMBU UNIVERSITY GATE,-0.5156165,37.4560299,malware,male,2
+4/5/2020,Nairobi,Nairobi,BETWEEN MATHARE AND UTALII COLLEGE,-1.2582343,36.8541126,malware,male,2
+2/8/2020,Coast,Mombasa,"CINEMAX, NYALI",-4.0486341,39.6853617,malware,male,2
+1/25/2021,Central,Kiambu,THIKA ROAD,-1.2134454,36.8997048,malware,male,2
+9/9/2020,Lower Eastern,Machakos,NEAR KONZA,-1.7775816,37.1097748,malware,male,2
+3/16/2021,South Rift,Bomet,CHEBULU AREA,-0.023559,37.906193,malware,male,2
+1/12/2021,North Rift,Uasin Gishu,TIMBOROA,0.0854953,35.5302127,malware,male,2
+1/20/2022,Lower Eastern,Nairobi,"CHOKAA, KAGUNDO ROAD, NAIROBI COUNTY",-1.2498762,36.9511396,malware,male,2
+6/1/2020,Lower Eastern,Nairobi,mombasa road,-2.7316802,38.2171862,malware,male,2
+7/18/2021,South Rift,,MAIMAHIU,-0.9820293,36.5864447,malware,male,2
+3/27/2020,Central,Meru,KENOL-MAKUTANO ROAD,-0.023559,37.906193,malware,male,2
+2/9/2022,South Rift,Bomet,Kaplong - Narok - Maai Road,-1.0802509,35.8068469,malware,male,2
+2/2/2020,Nairobi,Nairobi,NEAR NEXTGEN,-1.2920659,36.8219462,malware,male,2
+5/6/2021,West Kenya,Kisumu,PAP ONDITI,-0.3130753,34.9368801,malware,male,2
+4/5/2020,Nairobi,Nairobi,GENERAL MOTORS,-1.329676,36.870983,malware,male,2
+3/13/2021,Lower Eastern,Machakos,KATANGI,-1.4092763,37.6892062,malware,male,2
+2/11/2020,Nairobi,Nairobi,NEAR NJIRU AREA,-1.2504554,36.9270856,malware,male,2
+7/24/2020,West Kenya,Kisumu,KISUMU,-0.0917016,34.7679568,malware,male,2
+1/27/2020,Central,Kirinyaga,KARIA AREA,-0.4303672,37.3793229,malware,male,2
+10/14/2021,Lower Eastern,Kitui,Zombe Area along Kitui-Kibwezi Highway,-1.3750813,37.9952144,malware,male,2
+1/21/2020,Nairobi,Nairobi,VISION PLAZA,-1.3268955,36.8526944,malware,male,2
+3/2/2020,Lower Eastern,Kitui,MASII AREA,-1.4604752,37.4387894,malware,male,2
+12/29/2020,West Kenya,Kisii,KISII-NYAMIRA HIGHWAY,-0.4480796,34.888766,malware,male,2
+1/29/2020,Nairobi,Nairobi,TAJ MALL,-1.3244587,36.8994498,malware,male,2
+5/15/2021,Lower Eastern,Makueni,KIBWEZI AREA,-2.4105236,37.967847,spam,male,3
+3/14/2020,Nairobi,Nairobi,BELLEVUE,-1.3196468,36.8379736,spam,male,3
+9/14/2020,North Rift,Narok,ALONG NAROK-MAIMAHIU ROAD,-1.0994731,36.2716257,spam,male,3
+9/26/2020,West Kenya,Kisumu,AWASI-KISUMU ROAD,-0.0833965,34.7504053,spam,male,3
+12/19/2020,Lower Eastern,Machakos,GATE WAY MALL,-0.023559,37.906193,spam,male,3
+12/18/2021,Central,Murang’a,KAMBITI,-0.8201297,37.2222912,spam,male,3
+3/18/2021,Central,Meru,SUBUIGA AREA,0.0514721,37.6456042,spam,male,3
+1/5/2021,Coast,Taita Taveta,MOMBASA ROAD,-2.7316802,38.2171862,spam,male,3
+10/28/2020,Nairobi,Nairobi,KAPSITET,-1.3206769,36.8705986,spam,male,3
+10/25/2020,Lower Eastern,Nairobi,NORTHERN BYPASS,-0.023559,37.906193,spam,male,3
+1/3/2020,Nairobi,Nairobi,NGUMO AREA,-1.3086652,36.8001266,spam,male,3
+7/4/2021,Nairobi,Nairobi,NEAR HIGHRISE,-1.3154469,36.8014728,spam,male,3
+2/3/2020,Nairobi,Nairobi,SOUTH C,-1.3222736,36.8288933,spam,male,3
+1/5/2021,South Rift,Bomet,KAPKWEN CHEPKOSA,-0.9545757,35.253304,spam,male,3
+1/28/2020,Nairobi,Nairobi,JAMES GICHURU,-1.2765292,36.7713079,spam,male,3
+2/7/2020,Nairobi,Nairobi,ALONG WAIYAKI WAY,-1.2639058,36.7586031,spam,male,3
+7/20/2020,Lower Eastern,Nairobi,LIGI NDOGO,-0.023559,37.906193,spam,male,3
+7/15/2021,Central,Kiambu,NEAR GITHURAI,-1.2064151,36.913794,spam,male,3
+6/6/2021,North Rift,Uasin Gishu,KAHOYA AREA,0.5380653,35.2459545,spam,male,3
+2/3/2022,South Rift,Nakuru," LARI AREA, MAI- MAHIU, NAKURU",-0.9820293,36.5864447,spam,male,3
+4/12/2020,Central,Murang’a,KENOL-MAKUTANO JUNCTION,-0.7605463,37.2784835,spam,male,3
+5/24/2021,South Rift,Nakuru,NAKURU,-0.3030988,36.080026,spam,male,3
+2/4/2021,North Eastern,Garissa,GARISSA,-0.4532293,39.6460988,spam,male,3
+7/12/2020,Nairobi,Nairobi,TRAN SAMEER,-1.2920659,36.8219462,spam,male,3
+1/13/2020,West Kenya,Kisumu,KIBOS ROAD,-0.0759909,34.7949401,spam,male,3
+1/18/2022,South Rift,Bomet,"CHEPKOSA, BOMET COUNTY",-0.9545757,35.253304,spam,male,3
+2/20/2020,Central,Meru,NKINYANGA HILL,0.3334121,37.7981498,spam,male,3
+9/27/2021,Lower Eastern,Kajiado,KOROBOI AREA,-0.023559,37.906193,spam,male,3
+8/20/2021,Lower Eastern,Machakos,MOMBASA ROAD,-2.7316802,38.2171862,spam,male,3
+10/9/2020,Lower Eastern,Machakos,MAKUTANO,-0.7605463,37.2784835,spam,male,3
+8/19/2020,Nairobi,Nairobi,MAKABURINI,-1.2920659,36.8219462,spam,male,3
+3/12/2021,Central,Kirinyaga,KIRINYAGA,-0.6590565,37.3827234,spam,male,3
+1/30/2020,Nairobi,Nairobi,KABANAS,-1.3358527,36.8932217,spam,male,3
+8/16/2021,Central,Tharaka-Nithi,KIANJERU,-0.3380975,37.6128773,spam,male,3
+11/15/2021,South Rift,Narok,NEAR MATAURO,-0.023559,37.906193,spam,male,3
+1/1/2020,Nairobi,Nairobi,RIKANA JOGOO ROAD,-1.2940045,36.8514283,spam,male,3
+3/1/2020,Nairobi,Nairobi,MATHARI HOSPITAL,-1.2608177,36.8465546,spam,male,3
+6/7/2020,Nairobi,Nairobi,HILTON GARDEN INN-SYOKIMAU,-1.3540672,36.9071502,spam,male,3
+3/16/2020,Coast,Kilifi,KILIFI SOUTH,-3.5106508,39.9093269,spam,male,3
+4/14/2020,Nairobi,Nairobi,JUJA ROAD,-1.2675536,36.8435361,spam,male,3
+5/3/2021,Lower Eastern,Nairobi,CBD NAIROBI,-1.283353,36.8235374,spam,male,3
+1/28/2021,Upper Eastern,Isiolo,PAST ARMY BASE,-0.023559,37.906193,spam,male,3
+1/31/2020,Central,Laikipia,NYAHURURU,0.0351644,36.3642919,spam,male,3
+6/24/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,spam,male,3
+2/10/2020,Lower Eastern,Kajiado,ENKARE CLUB,-1.49315,36.955124,spam,male,3
+11/11/2020,Lower Eastern,Nairobi,GLOBE CINEMA FLYOVER,-0.023559,37.906193,spam,male,3
+1/30/2021,Lower Eastern,Nairobi,NJIRU,-1.2504554,36.9270856,spam,male,3
+1/8/2021,South Rift,Nakuru,WIEGH BRIDGE,-0.023559,37.906193,spam,male,3
+5/2/2021,West Kenya,Kisumu,KISUMU,-0.0917016,34.7679568,spam,male,3
+5/14/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,spam,male,3
+8/26/2021,South Rift,Nakuru,GREENSTEADS,-0.023559,37.906193,spam,female,3
+5/9/2021,South Rift,Bomet,MOSOP AREA,-0.023559,37.906193,spam,female,3
+12/11/2021,Nairobi,Nairobi,ALONG THIKA ROAD,-1.2163932,36.8949246,spam,female,3
+2/7/2021,Nairobi,Nairobi,FEDHA STAGE,-1.3136275,36.8955563,spam,female,3
+3/27/2020,Lower Eastern,Kajiado,NAMANGA ROAD,-2.5520935,36.7838976,spam,female,3
+9/12/2020,Lower Eastern,Nairobi,NORTH AIRPORT ROAD,-1.3217247,36.9034926,spam,female,3
+9/13/2020,Lower Eastern,Nairobi,ALONG OUTER RING ROAD,-0.023559,37.906193,spam,female,3
+3/27/2021,South Rift,Bomet,KORARA,-0.023559,37.906193,spam,female,3
+6/21/2021,West Kenya,Kisumu,ALONG AHERO,-0.1744386,34.9203383,spam,female,3
+5/11/2021,Nairobi,Nairobi,ALONG WAIYAKI  WAY,-1.2639058,36.7586031,spam,female,3
+4/8/2021,West Kenya,Kisumu,AWASI-KISUMU ROAD,-0.0833965,34.7504053,spam,female,3
+9/2/2021,South Rift,Kericho,JOUBERT AREA,-0.023559,37.906193,spam,female,3
+7/10/2020,Lower Eastern,Machakos,KINGAATUANI,-0.023559,37.906193,spam,female,3
+2/21/2020,Nairobi,Nairobi,NGARA,-1.2781236,36.8304167,spam,female,3
+2/2/2020,Central,Kirinyaga,RIVER WEMUMU,-0.023559,37.906193,spam,female,3
+5/28/2021,Lower Eastern,Makueni,SALAMA,-0.023559,37.906193,spam,female,3
+3/6/2020,Nairobi,Nairobi,THIKA ROAD,-1.2163932,36.8949246,spam,female,3
+9/29/2020,Central,Meru,BUURI AREA,0.1113377,37.3934061,spam,female,3
+2/22/2020,Nairobi,Nairobi,UHURU GARDENS,-1.3218944,36.7940684,spam,female,3
+1/25/2022,Coast,Mombasa,Along Malindi - Mombasa highway,-3.9920068,39.7328574,spam,female,3
+6/2/2020,West Kenya,Kisumu,Kisian,-0.0748716,34.6662951,spam,female,3
+4/16/2020,South Rift,Laikipia,OL KALOU- NYAHURURU,0.0340538,36.3643506,spam,female,3
+5/9/2021,South Rift,Bomet,MOSOP,0.4202993,35.5110513,spam,female,3
+4/14/2021,South Rift,Bomet,CHEBOLE MARKET,-0.7501829,35.21416,spam,female,3
+11/14/2021,Coast,Lamu,NEAR MPEKETONI,-2.3904853,40.6968426,spam,female,3
+9/6/2020,Coast,Mombasa,SAMORAI MOTORS,-0.023559,37.906193,spam,female,3
+1/10/2021,Lower Eastern,Makueni,MOMBASA-NAIROBI HIGHWAY,-1.2920659,36.8219462,spam,female,3
+2/26/2020,Central,Kiambu,ALONG MANGU,-0.023559,37.906193,spam,female,3
+9/1/2021,West Kenya,Kisumu,OBOCH AREA,-0.023559,37.906193,spam,female,3
+5/15/2021,Central,Kiambu,NEAR THIKA FLYOVER,-1.0387569,37.0833753,spam,female,3
+11/16/2020,Lower Eastern,Machakos,MACHAKOS-MASII HOGHWAY,-1.4604752,37.4387894,spam,female,3
+4/19/2020,Nairobi,Nairobi,T-MALL,-1.312639,36.8167699,spam,female,3
+2/20/2021,Nairobi,Nairobi,SOUTHERN BYPASS,-1.3106276,36.7291895,spam,female,3
+4/10/2020,Nairobi,Nairobi,GENERAL MOTORS,-1.329676,36.870983,spam,female,3
+3/29/2021,South Rift,Bomet,SANCHANGWAN AREA,-0.4529411,35.6929013,spam,female,3
+2/10/2020,Central,Murang’a,EMBASSY VILLAGE,-0.023559,37.906193,spam,female,3
+10/19/2020,Nairobi,Nairobi,KAMUKUNJI AREA,-1.2847801,36.8337743,spam,female,3
+1/31/2021,Central,Kiambu,KAHAWA WENDANI FOOT BRIDGE,-1.183333,36.9166669,spam,female,3
+1/9/2022,South Rift,Nakuru,"RTA AT GILGIL WEIGHBRIDGE, NAKURU COUNTY",-0.5237101,36.326783,spam,female,3
+5/23/2020,Nairobi,Nairobi,DTB OFFICES,-1.2920659,36.8219462,spam,female,3
+9/13/2020,Lower Eastern,Nairobi,KANGEMI,-1.2711928,36.7394386,spam,female,3
+3/12/2021,Nairobi,Nairobi,OUTER-RING,-1.2667425,36.8798984,spam,female,3
+5/18/2020,Nairobi,Nairobi,DONHOLM,-1.2939161,36.8971181,spam,female,3
+3/6/2021,Nairobi,Nairobi,KOMAROCK,-1.2684944,36.9084173,spam,female,3
+6/16/2020,North Rift,Bungoma,WEBUYE-KANDUNYI ROAD,0.5992059,34.779603,spam,female,3
+2/18/2021,Upper Eastern,Marsabit,MAIKONA,2.936094,37.6306782,spam,female,3
+12/7/2020,Central,Kirinyaga,ALONG EMBU-MAKUTANO ROAD,-0.4019537,37.5808556,spam,female,3
+1/13/2020,Nairobi,Nairobi,GARDEN CITY,-1.2324833,36.8787799,spam,female,3
+2/12/2020,Central,Kiambu,NEAR LIMURU,-1.1069305,36.6431267,spam,female,3
+5/20/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,spam,female,3
+8/4/2020,Central,Murang’a,KENOL,-1.3690902,37.2256372,spam,female,3
+12/7/2021,Coast,Lamu,MPEKETONI,-2.3904853,40.6968426,spam,female,3
+10/11/2021,Lower Eastern,Makueni,"Mbooni east, Makueni County.",-1.6706498,37.4614806,spam,female,3
+12/22/2020,Lower Eastern,Nairobi,Vincentian Retreat Centre footbridge,-1.0559595,37.0564432,spam,female,3
+1/24/2020,Lower Eastern,Machakos,MTO WA MAWE,-2.8641667,40.1713889,spam,female,3
+1/5/2020,Nairobi,Nairobi,IMARA DAIMA,-1.328436,36.8806499,spam,female,3
+10/12/2020,North Rift,Bungoma,MAYANJA,-0.023559,37.906193,spam,female,3
+4/8/2020,Central,Kirinyaga,MAKUTANO-EMBU ROAD,-0.7605463,37.2784835,spam,female,3
+2/17/2020,Central,Kiambu,NDARUGO AREA,-1.0931865,37.0321327,spam,female,3
+4/5/2021,Lower Eastern,Nairobi,NORTHERN BYPASS,-0.023559,37.906193,spam,female,3
+3/7/2020,Nairobi,Nairobi,PANARI,-1.2920659,36.8219462,spam,female,3
+1/9/2021,Central,,THIKA ROAD,-1.2134454,36.8997048,spam,female,3
+1/2/2020,Nairobi,Nairobi,CABANAS,-1.3358527,36.8932217,spam,female,3
+7/14/2020,Nairobi,Nairobi,MUTINDWA,-1.2856237,36.882274,spam,female,3
+7/7/2021,Nairobi,Nairobi,NEAR BARAKA,-1.2920659,36.8219462,spam,female,3
+11/14/2020,South Rift,Nakuru,NEKURU-ELDORET HIGHWAY,-0.3030988,36.080026,spam,female,3
+11/4/2020,Nairobi,Nairobi,GITHURAI EXIT,-1.2064151,36.913794,spam,female,3
+8/21/2021,West Kenya,Kakamega,NZOIA BRIDGE,-0.023559,37.906193,spam,female,3
+4/5/2020,Lower Eastern,Kitui,NZAMBENI AREA,-0.023559,37.906193,spam,female,3
+4/7/2021,West Kenya,Kisumu,NYAMASARIA,-0.116058,34.7837456,spam,female,3
+1/20/2022,Coast,Mombasa,"ANUARALLY, BAMBURI, MOMBASA COUNTY",-4.0043208,39.7153199,spam,female,3
+10/28/2020,Nairobi,Nairobi,KU,-1.181056,36.9272342,spam,female,3
+12/20/2021,South Rift,Nyandarua,NYANDARUA,-0.1803855,36.5229641,spam,female,3
+5/11/2020,Nairobi,Nairobi,UTHIRU,-1.2744208,36.7027622,spam,female,3
+12/30/2021,Lower Eastern,Makueni,"KIBOKO, MAKUENI COUNTY.",-2.2282114,37.7662816,spam,female,3
+10/31/2020,North Rift,Uasin Gishu,TIMBOROA HIGHWAY,0.0854953,35.5302127,spam,female,3
+12/23/2020,North Rift,Trans Nzoia,"Village inn, Kitale",1.019089,35.0023048,spam,female,3
+8/16/2021,South Rift,Bomet,KIPTENDEN VILLAGE,-0.023559,37.906193,spam,female,3
+8/9/2020,Nairobi,Nairobi,KWARE STAGE,-1.3968937,36.7497879,spam,female,3
+1/22/2022,North Eastern,Mandera,Nirga Fiijis Area along Lafey Alungu road MANDERA,3.1536609,41.1854057,spam,female,3
+8/21/2021,Coast,Mombasa,MOMBASA,-4.0434771,39.6682065,spam,female,3
+6/30/2021,Lower Eastern,,KAHAWA,-1.183333,36.9166669,spam,female,3
+10/31/2021,South Rift,Nakuru,PIPELINE AREA,-0.023559,37.906193,spam,female,3
+5/14/2021,North Rift,West Pokot,SAMOR AREA,-0.023559,37.906193,spam,female,3
+3/7/2021,South Rift,Bomet,KAPKWEN MARKET,-0.7868994,35.2995192,spam,female,3
+1/31/2021,North Rift,Trans Nzoia,KITALE-WEBUYE HIGHWAY,0.5992059,34.779603,spam,female,3
+1/5/2022,Central,Kiambu,LIMURU ALONG NAIROBI-NAKURU HIGHWAY,-0.224033,35.8855953,spam,female,3
+12/9/2020,Lower Eastern,Nairobi,IMARA DAIMA ALONG MOMBASA ROAD,-1.34014,36.8965345,spam,female,3
+7/25/2020,Nairobi,Nairobi,MAKADARA,-1.2952979,36.8721139,spam,female,3
+6/22/2021,West Kenya,Homa Bay,SARE AREA,-0.023559,37.906193,spam,female,3
+7/14/2021,Central,Kiambu,NGARARIA,-0.9390609,37.021246,spam,female,3
+2/15/2021,West Kenya,Kakamega,LUBAO,-0.023559,37.906193,spam,female,3
+5/1/2021,Lower Eastern,Makueni,MASIMBA,-2.1878091,37.5321341,spam,female,3
+8/18/2020,South Rift,Kericho,NEAR KERICHO TOWN,-0.3688967,35.286286,spam,female,3
+1/28/2022,South Rift,Bomet,Narok Mulot Highway Kipturgut area,-0.9483978,35.4453207,spam,female,3
+8/26/2020,North Rift,Bungoma,KABURENGU,0.5775237,34.8044861,spam,female,3
+2/21/2021,Lower Eastern,Makueni,KINGATUANI AREA,-0.023559,37.906193,spam,female,3
+3/6/2021,South Rift,Narok,ALONG MAU NJORO ROAD,-0.3083457,35.9857203,spam,female,3
+1/14/2022,Lower Eastern,Kitui,KATANGINI,-1.7465642,37.7224388,spam,female,3
+5/10/2020,Nairobi,Nairobi,NEAR CARNIVORE,-1.328683,36.801544,spam,female,3
+6/30/2020,South Rift,Nakuru,TIMBOROA,0.0854953,35.5302127,spam,female,3
+6/30/2021,Lower Eastern,Nairobi,KANGONDO RD,-1.2779538,37.1151942,spam,female,3
+2/14/2020,Nairobi,Nairobi,"GM, MOMBASA ROAD0",-1.3657592,36.9122536,spam,female,3
+4/1/2020,Central,Kiambu,RUIRU BY-PASS,-1.2174384,36.9905565,spam,female,3
+7/25/2021,Lower Eastern,Nairobi,Old airport road,-0.023559,37.906193,spam,female,3
+10/10/2020,Lower Eastern,Machakos,CHETHIVO TOWN,-0.023559,37.906193,spam,female,3
+11/3/2020,Nairobi,Nairobi,DONHOLM,-1.2939161,36.8971181,spam,female,3
+2/11/2020,Nairobi,Nairobi,ROYSAMBU,-1.2184586,36.8869064,spam,female,3
+10/19/2020,Coast,Mombasa,KIBARANI AREA,-4.031532,39.6473004,spam,female,3
+1/16/2022,Lower Eastern,Nairobi,"NORTHFOOT BRIDGE, KARIOBANGI, NAIROBI",-1.240591,36.88044,spam,female,3
+3/29/2020,South Rift,Nakuru,SACHANGWAN,-0.4529411,35.6929013,spam,female,3
+6/10/2020,Central,Kiambu,KINOO,-1.2526258,36.6930253,spam,female,3
+1/29/2021,Lower Eastern,Nairobi,BUNYALA ROAD,-1.2991261,36.8266671,spam,female,3
+4/18/2021,South Rift,Bomet,OLBOBO JUNCTION,-0.023559,37.906193,spam,female,3
+1/28/2021,South Rift,Bomet,Bomet-Mulot high wa,-0.8015009,35.3027226,spam,female,3
+3/12/2020,South Rift,Nakuru,MIGAA AREA,-1.1310559,36.8445848,spam,female,3
+4/2/2021,West Kenya,Kakamega,KAKAMEGA,0.307894,34.7740793,spam,female,3
+12/31/2020,West Kenya,Vihiga,KABATIA,-0.023559,37.906193,spam,female,3
+7/5/2021,Nairobi,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,spam,female,3
+8/13/2020,Nairobi,Nairobi,EMBAKASI,-1.3237858,36.8999616,spam,female,3
+7/20/2020,South Rift,Nakuru,NAKURU,-0.3030988,36.080026,spam,female,3
+6/9/2021,Upper Eastern,Marsabit,HULA HULA,-0.023559,37.906193,spam,female,3
+12/31/2020,Lower Eastern,Kajiado,KAJIADO-MASHURU ROAD,-2.039246,37.1231788,spam,female,3
+5/31/2021,Central,Kiambu,BANANA,-0.023559,37.906193,spam,female,3
+1/7/2020,Nairobi,Nairobi,BELLEVUE,-1.3196468,36.8379736,spam,female,3
+2/28/2021,Nairobi,Nairobi,LUNGA LUNGA,-1.3074645,36.8724596,spam,female,3
+9/13/2020,Lower Eastern,Makueni,BETWEEN MAVIA MEU AND KOLA/KIVANI MARKET WOTE,-1.7226939,37.3751621,spam,female,3
+5/10/2020,Nairobi,Nairobi,ROYSAMBU,-1.2184586,36.8869064,spam,female,3
+5/27/2020,Nairobi,Nairobi,NEAR WINDSOR GOLF CLUB,-1.209996,36.851209,spam,female,3
+7/31/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,spam,female,3
+7/17/2020,Nairobi,Nairobi,KCA AREA,-1.2534465,36.8594527,spam,female,3
+10/30/2020,Central,Kiambu,SUSWA,-1.1761411,36.3488674,spam,female,3
+12/25/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,spam,female,3
+6/17/2020,Central,Kiambu,NEAR DCI HEAD QUARTERS,-1.2497875,36.8483022,spam,female,3
+1/29/2020,South Rift,Nakuru,MIGAA AREA,-1.1310559,36.8445848,spam,female,3
+5/19/2020,Central,Kiambu,"KIHUNGURO,",-0.023559,37.906193,spam,female,3
+11/17/2020,Coast,Taita Taveta,BETWEEN TARU AND SAMBURU,-3.778638,39.2789,spam,female,3
+10/25/2020,Coast,Mombasa,NEAR KRA,-0.023559,37.906193,spam,female,3
+12/23/2020,Central,Kiambu,UHURU STREET OFF THIKA ROAD,-1.0360054,37.075461,spam,female,3
+8/7/2020,Nairobi,Nairobi,DAME PLACE,-1.1813158,36.8891099,spam,female,3
+8/15/2020,Nairobi,Nairobi,NEAR LANGATA,-1.3640944,36.7476257,spam,female,3
+4/4/2021,South Rift,Bomet,KAMUREITO,-0.742877,35.1870231,spam,female,3
+5/27/2020,Central,Kiambu,NGOINGWA MURRAM ROAD,-1.0415222,37.0413757,spam,female,3
+5/27/2020,Nairobi,Nairobi,KAHAWA BARRACKS,-1.1977334,36.9217324,spam,female,3
+2/12/2021,South Rift,Nakuru,ST. MARY,-0.023559,37.906193,spam,female,3
+2/12/2021,South Rift,Nakuru,DUKA MOJA,-1.0938841,35.8694245,spam,female,3
+5/19/2021,West Kenya,Bungoma,BUNGOMA,0.5695252,34.5583766,spam,female,3
+1/1/2020,Central,Kiambu,MAKONGENI,-1.0569538,37.1070937,spam,female,3
+8/23/2020,Central,Kiambu,GATITU AREA,-0.9991638,36.8277189,spam,female,3
+5/18/2020,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,spam,female,3
+3/21/2021,Nairobi,Nairobi,DONHOLM,-1.2939161,36.8971181,spam,female,3
+6/7/2020,Lower Eastern,Nairobi,Nyamagundo,-0.023559,37.906193,spam,female,3
+10/26/2020,South Rift,Nakuru,MAI MAHIU,-0.9820293,36.5864447,spam,female,3
+1/26/2020,Nairobi,Nairobi,GM,-1.329676,36.870983,spam,female,3
+3/28/2020,Nairobi,Nairobi,JOGOO ROAD,-1.2976451,36.8711364,spam,female,3
+5/27/2020,Nairobi,Nairobi,KANGUDO,-1.2795133,36.7920129,spam,female,3
+11/12/2020,Lower Eastern,Nairobi,GARDEN CITY,-0.023559,37.906193,spam,female,3
+7/29/2021,Lower Eastern,Machakos,MURUTI,-0.023559,37.906193,spam,female,3
+3/2/2021,North Rift,Bungoma,KABUCHAI AREA,-0.023559,37.906193,spam,female,3
+12/18/2021,Nairobi,Nairobi,SOUTH BYPASS,-1.3179916,36.7783736,spam,female,3
+2/22/2020,Nairobi,Nairobi,NEAR KIBERA,-1.3114845,36.7879475,spam,female,3
+5/25/2020,Coast,Mombasa,NEAR JOCHAM,-0.023559,37.906193,spam,female,3
+9/6/2021,Coast,Kwale,"matuga ,kwale",-4.1716697,39.5588473,spam,female,3
+6/10/2021,Lower Eastern,Kitui,NGANGANI,-1.4771387,38.0578556,spam,female,3
+7/21/2021,Lower Eastern,Machakos,NEAR ATHI RIVER,-1.4577245,36.9785033,spam,female,3
+1/4/2021,Central,Murang’a,GOLDEN PALM HOTEL,-0.023559,37.906193,spam,female,3
+12/31/2020,Central,Embu,EMBU-MERU HIGHWAY,-0.2319848,37.6370508,spam,female,3
+1/3/2020,South Rift,Nakuru,KIAMBIRIRIA AREA,-0.023559,37.906193,spam,female,3
+1/6/2021,Lower Eastern,Nairobi,MOMBASA ROAD,-2.7316802,38.2171862,spam,female,3
+10/18/2020,South Rift,Nakuru,KARAI AREA,-0.023559,37.906193,spam,female,3
+8/17/2020,South Rift,Kericho,NAROK,-1.0875428,35.8770642,spam,female,3
+1/9/2020,Nairobi,Nairobi,SOUTHERN BYPASS,-1.3106276,36.7291895,spam,female,3
+3/9/2021,South Rift,Bomet,NDANAI AREA,-0.8395071,35.0948976,spam,female,3
+12/24/2020,Lower Eastern,Makueni,MACHINERY ALONG NAIROBI-MOMBASA HIGHWAY,-1.2920659,36.8219462,spam,female,3
+12/6/2021,South Rift,Bomet,"SISEI CHEBOLE BRIDGE, BOMET COUNTY",-0.7869513,35.2074386,spam,female,3
+1/19/2022,North Rift,West Pokot,"BOPOLEO SCHOOL OF THE DISABLED, WEST POKOT",1.6210076,35.3905046,spam,female,3
+1/6/2022,North Rift,Turkana,"LOKICHOGIO, TURKANA COUNTY",4.2020213,34.3587921,spam,female,3
+1/31/2022,Coast,Mombasa," NAIVAS LIKONI, MOMBASA COUNTY",-4.0748714,39.6654567,spam,female,3
+2/13/2022,Central,Kiambu,"MUTARAKWA AREA, MAAI- MAHIU",-0.9820293,36.5864447,spam,female,3
+3/7/2022,North Eastern,Garissa,"Garissa Livestock Market, Garissa County",-0.4406833,39.6600964,spam,female,3
+3/20/2022,South Rift,Bomet,"BOMET TOWN, BOMET",-0.7777854,35.3356518,spam,female,3
+1/26/2022,South Rift,Bomet,"Keronjo, Bomet County",-0.7150257,35.168125,spam,female,3
+1/20/2022,Lower Eastern,Nairobi,GITHURAI 45 THIKA ROAD NAIROBI,-1.206195,36.915973,spam,female,3
+3/18/2022,Lower Eastern,Nairobi,RIRUTA SATELLITE OFF KABIRIA ROAD,-1.2908848,36.7325891,spam,female,3
+1/22/2022,Lower Eastern,Nairobi,Residential Apartment  Muslim Area,-1.287629324,36.74215983,spam,female,3
+3/1/2022,North Rift,Turkana,"Ngilukia Area, Napeitom Ward, Turkana County",1.7729626,36.4580775,spam,female,3
+3/6/2022,Central,Kiambu,"Gitamaiyu, Kiambu County.",-1.0060362,36.7442377,spam,female,3
+3/4/2022,West Kenya,Siaya,"KILLIONSAM PETROL STATION, RAMULA, SIAYA",0,34.516667,spam,female,3
+1/17/2022,Lower Eastern,Nairobi,"BONDENI AREA, GIKOMBA MARKET",-1.2855959,36.8411671,spam,female,3
+1/31/2022,Lower Eastern,Nairobi,"KATWEKERA AREA, KIBERA, NAIROBI COUNTY",-1.3114845,36.7879475,spam,female,3
+3/4/2022,North Rift,Turkana,"Lokichogio Ward, Nakiriko Dapa Village, Turkana ",4.2020213,34.3587921,spam,female,3
+1/18/2022,Central,Meru,"ST MARTIN SECONDARY, MERU COUNTY",0.3557174,37.8087693,spam,female,3
+2/28/2022,North Rift,Turkana,"Nakukulas Village, Kochodin Ward, Turkana East.",2.1989429,35.8144367,spam,female,3
+3/16/2022,Central,Meru,"MAUMAU VILLAGE, MBUUNI WEST SUB COUNTY",-1.6706498,37.4614806,spam,female,3
+1/9/2022,Coast,Mombasa,VIKWATANI AREA,-3.9974335,39.6812228,spam,female,3
+1/9/2022,Lower Eastern,Nairobi,Birds Paradise Maasai Market KAREN,-1.2796013,36.8197094,spam,female,3
+1/23/2022,Lower Eastern,Nairobi," BIMA ROAD, KAHAWA WEST, NAIROBI COUNTY",-1.1829168,36.9047451,spam,female,3
+1/16/2022,Central,Kirinyaga," KARIOKOR VILLAGE, KIRINYAGA COUNTY",-0.6590565,37.3827234,spam,female,3
+2/26/2022,Central,Nyeri,Karatina Nyeri County.,-0.483158,37.1273549,spam,female,3
+3/10/2022,South Rift,Bomet,"Sumoni Area, Chebole, Bomet County.",-0.7681634,35.1945811,spam,female,3
+1/2/2022,Lower Eastern,Nairobi,"Umoja 2 Market, Nairobi County.",-1.2796677,36.8976185,spam,female,3
+3/10/2022,Central,Meru,"Igembe Central, Meru County.",0.2288991,37.9254757,spam,female,3
+2/11/2022,Lower Eastern,Nairobi,Hamza Area opposite Makadara Health Centre,-1.2969525,36.8729052,spam,female,3
+2/7/2022,South Rift,Bomet,Kapkoros Area Bomet County,-0.6692164,35.2917432,spam,female,3
+3/6/2022,Lower Eastern,Nairobi,"Mlango Kubwa , Mathare, Nairobi County",-1.2626192,36.8532829,spam,female,3
+1/15/2022,Central,Kiambu,NANAZI ESTATE,-1.1667,36.833,spam,female,3
+2/20/2022,Lower Eastern,Nairobi," UMOJA 1, ",-1.2775589,36.888251,spam,female,3
+2/1/2022,Lower Eastern,Nairobi,"SUNBEAM MALL, MFANGANO STREET, NAIROBI COUNTY",-1.2873604,36.8283242,spam,female,3
+1/21/2022,North Eastern,Mandera," LAFEY AREA, MANDERA COUNTY",3.1536609,41.1854057,spam,female,3
+2/6/2022,Lower Eastern,Machakos,Manipal International Printing press Limited,-1.4335983,36.9646684,spam,female,3
+1/3/2022,North Rift,,ST. LUKE'S PRIMARY SCHOOL,1.070298265,35.59429334,spam,female,3
+2/2/2022,Coast,Mombasa,"OLD TOWN, MOMBASA COUNTY",-4.0581134,39.6756818,spam,female,3
+3/2/2022,Lower Eastern,Nairobi,"SOKO VILLAGE, AYANI AREA, KIBERA, NAIROBI",-1.307925,36.772739,spam,female,3
+3/10/2022,Lower Eastern,Nairobi,"Standard Drive Estate, Tassia, Nairobi County.",-1.3099054,36.8984649,spam,female,3
+3/17/2022,Lower Eastern,Nairobi,"MBOTELA ALONG JOGOO ROAD, NAIROBI",-1.2968844,36.8637623,spam,female,3
+1/22/2022,Coast,Mombasa,"BLACK DEVILS, JOMVI, MOMBASA COUNTY",-3.9768291,39.7137181,spam,female,3
+3/1/2022,Coast,Mombasa,"NYALI- TEXAS, KIBERA, MOMBASA COUNTY",-4.0507256,39.6967843,spam,female,3
+1/16/2022,Central,Kirinyaga,Kariokor Village KIRINYAGA COUNTY,-0.6590565,37.3827234,spam,female,3
+3/1/2022,Lower Eastern,Nairobi," LUNGA LUNGA, NAIROBI",-1.3074645,36.8724596,spam,female,3
+1/14/2022,Central,Kirinyaga," SAGANA TOWN, KIRINYAGA COUNTY",-0.6695132,37.2061138,spam,female,3
+3/5/2022,North Rift,Turkana,"Lomyenakwan Village, Katila Ward Turkana East.",3.3122477,35.5657862,spam,female,3
+1/8/2022,Lower Eastern,Kajiado,NGONG TOWN,-1.3562118,36.6687545,spam,female,3
+3/4/2022,South Rift,Nakuru,KIBARGOI,0.45,35.5666667,spam,female,3
+3/12/2022,Central,Kiambu,"Muriri Gardens, Kiambu Road Opposite K.I.S.T.",-1.1307381,36.7648591,spam,female,3
+2/17/2022,Lower Eastern,Nairobi,"GITATHURU, KOROGOCHO, NAIROBI COUNTY",-1.2464436,36.8936292,spam,female,3
+2/28/2022,North Rift,Turkana,"Lejo Village, Loyo sub location, Lodwar Township ",3.13,35.58,spam,female,3
+3/4/2022,Lower Eastern,Nairobi,NAIROBI WEST PRISON,-1.316377,36.8103663,spam,female,3
+1/5/2022,West Kenya,Kakamega,"KIBOKO, MAKUENI COUNTY.",-2.2282114,37.7662816,spam,female,3
+2/5/2022,Lower Eastern,Nairobi,EMBAKASI VILLAGE,-1.3067095,36.9144661,spam,female,3
+1/18/2022,Lower Eastern,Nairobi,Bondeni Area in Gikomba Market,-1.2855959,36.8411671,spam,female,3
+1/9/2022,West Kenya,Kisii,"OMOBERA SDA BOYS BOARDING, KENYENYA, KISII COUNTY",-0.890543,34.74585,spam,female,3
+2/18/2022,South Rift,Bomet,"KAPKWEN, KAPLONG, BOMET COUNTY",-0.6703047,35.1598773,spam,female,3
+1/6/2022,West Kenya,Siaya,BONDO,-0.102506924,34.27179788,spam,female,3
+1/29/2022,Lower Eastern,Nairobi,"At Milimani High School ,Nairobi County",-1.2838222,36.8072817,spam,female,3
+3/10/2022,North Rift,Uasin Gishu,"Rodi Area, Eldoret , Uasin Gishu County.",0.5142775,35.2697802,spam,female,3
+3/9/2022,North Rift,West Pokot,"Makutano Town, West Pokot County.",1.2544328,35.0911142,spam,female,3
+2/15/2022,West Kenya,Kisii,BUSINESS PREMISES IN KISII TOWN,-0.677334,34.779603,spam,female,3
+3/16/2022,Central,Kiambu,"AMALIA PRESTIGE IN RUIRU, KIAMBU",-1.1619807,36.9733164,spam,female,3
+2/28/2022,Lower Eastern,Nairobi,"VIWANDANI NEAR CHIEF'S OFFICE, NAIROBI COUNTY",-1.3267494,36.7809165,spam,female,3
+2/2/2022,Lower Eastern,Nairobi,"WAPEWAPE, MUKURU KWA NJENGA",-1.3213091,36.884217,spam,female,3
+1/11/2022,Central,Laikipia," MAJENGO, NANYUKI TOWN, LAIKIPIA COUNTY",0.0074415,37.0722303,spam,female,3
+3/12/2022,Lower Eastern,Nairobi,"Astrol Area Utawala, Nairobi County",-1.2803889,36.9639637,spam,female,3
+1/14/2022,Central,Kirinyaga,SAGANA TOWN,-0.6695132,37.2061138,spam,female,3
+2/6/2022,Coast,Mombasa,"Maboxini, Mombasa County",-3.9768291,39.7137181,spam,female,3
+1/13/2022,West Kenya,Siaya,Abom village,-0.102506924,34.27179788,spam,female,3
+1/5/2022,Lower Eastern,Makueni,"ACK TOWNSHIP PRIMARY SCHOOL, WOTE",-1.788625,37.6333396,spam,female,3
+3/16/2022,Central,Meru,"NYAMOJA VILLAGE, MMUUNI WEST SUB COUNTY",-1.488777567,37.35600742,spam,female,3
+1/9/2022,Coast,Mombasa,"BOKOLE, CHANGAMWE",-4.0244373,39.6056488,spam,female,3
+3/8/2022,Lower Eastern,Nairobi,"Wape Wape Area, Mukuru Kwa Njenga, Nairobi County",-1.3213091,36.884217,spam,female,3
+3/10/2022,Lower Eastern,Nairobi,"Mlango Kubwa, Mathare, Nairobi County",-1.2626192,36.8532829,spam,female,3
+2/17/2022,West Kenya,Bungoma,DORMITORY AT CHEPTAIS BOYS HIGH SCHOOL,0.8086559,34.4550849,spam,female,3
+1/15/2022,Lower Eastern,Nairobi,"RAILA VILLAGE KIBERA, NAIROBI COUNTY",-1.3114845,36.7879475,spam,female,3
+1/6/2022,North Rift,Turkana,"LOKICHOGIO, TURKANA COUNTY",4.2020213,34.3587921,spam,female,3
+3/15/2022,Lower Eastern,Nairobi,MAJENGO SLUMS,-1.2860894,36.8425202,spam,female,3
+1/8/2022,Lower Eastern,Nairobi,DAGORETTI CORNER,-1.2988804,36.7566351,spam,female,3
+1/7/2022,South Rift,Kericho,"KIPKELION GIRLS HIGH SCHOOL, KERICHO COUNTY",-0.21053,35.4628958,spam,female,3
+2/17/2022,Coast,Mombasa,MWEMBE TAYARI BEHIND NAIVAS SUPERMARKET,-4.0567247,39.6660456,spam,female,3
+2/14/2022,Lower Eastern,Nairobi,MAJENGO,-1.2860894,36.8425202,spam,female,3
+3/6/2022,North Rift,Turkana,Lokichogio Ward Turkana,4.2020213,34.3587921,spam,female,3
+3/6/2022,North Rift,Turkana,"Dapa Village, Lokichogio Ward, Turkana North.",4.2020213,34.3587921,spam,female,3
+1/13/2022,North Eastern,Garissa,"FIRE AT GARISSA  HIGH SCHOOL, GARISSA COUNTY",-0.4522533,39.6489122,spam,female,3
+1/30/2022,Lower Eastern,Nairobi,"MILIMANI HIGH SCHOOL, NAIROBI COUNTY",-1.2838222,36.8072817,spam,female,3
+1/16/2022,South Rift,Bomet,"SWEET WATERS AREA, BOMET COUNTY",-0.8015009,35.3027226,spam,female,3
+1/15/2022,Central,Meru," IMENTI SOUTH, MERU COUNTY",0.3557174,37.8087693,spam,female,3
+3/6/2022,Lower Eastern,Nairobi,"Ndonyo Area, Dagoretti Market, Nairobi County",-1.2868675,36.6870813,spam,female,3
+3/2/2022,Lower Eastern,Nairobi,HURUMA AREA NEAR ROUND ABOUT,-1.2558896,36.87338294,spam,female,3
+3/8/2022,Lower Eastern,Nairobi,"River Bank Area, Embakasi East, Nairobi County",-1.3106691,36.8250274,spam,female,3
+1/5/2022,Central,Tharaka-Nithi,MWIMBI BOARDING SCHOOL,-0.2457647,37.6214629,spam,female,3
+2/17/2022,Lower Eastern,Nairobi,"MUKURU KWA NJENGA,0 NAIROBI",-1.3213091,36.884217,spam,female,3
+2/8/2022,Lower Eastern,Makueni,Wote Town Centre near Acacia Hotel Makueni County,-1.788625,37.6333396,spam,female,3
+3/12/2022,South Rift,Nakuru,"Royal Estate, Barnabas, Nakuru County",-0.3211647,36.1484165,spam,female,3
+1/14/2022,North Eastern,Garissa,GARISSA HIGH SCHOOL,-0.4522533,39.6489122,spam,female,3
+1/15/2022,Central,Murang’a,"SOCIAL & ADULT DEVELOPMENT OFFICE, MURANGA",-0.8099638,36.91900665,spam,female,3
+3/11/2022,Central,Meru,"Kithithina Location, Meru County.",0.0520105,37.243703,spam,female,3
+3/23/2020,Nairobi,Nairobi,KANGEMI AREA,-1.2711928,36.7394386,spam,female,3
+11/8/2021,West Kenya,Busia, NAMBALE BOYS,0.4451502,34.2409768,spam,female,3
+11/7/2021,West Kenya,Kisumu,OLEMBO HIGH SCHOOL,-0.3274115,34.9425656,spam,female,3
+1/16/2021,Lower Eastern,Nairobi,FUATA NYAYO,-1.2503642,36.8909401,spam,female,3
+2/13/2020,West Kenya,Homa Bay,OLARI MARKET,-0.023559,37.906193,spam,female,3
+3/24/2020,Coast,Mombasa,BUSTANI ESTATE,-0.023559,37.906193,spam,female,3
+12/1/2021,Coast,Kwale,Kingwede Girls,-4.4917974,39.4586906,spam,female,3
+5/7/2020,Nairobi,Nairobi,KILIMANI,-1.2892786,36.7869311,spam,female,3
+10/6/2020,North Eastern,Wajir,ADHEMASAJIDA WARD,-0.023559,37.906193,spam,female,3
+12/13/2021,South Rift,Baringo,"TURGEN, KESUMET LOCATION, BARINGO COUNTY",0.8657436,35.8607115,spam,female,3
+4/14/2021,South Rift,Kericho,CHESEON CENTRE,-0.023559,37.906193,spam,female,3
+8/11/2021,North Rift,Trans Nzoia,St Brigit,-0.023559,37.906193,spam,female,3
+6/1/2020,North Eastern,Marsabit,TURBI CAMPSITE,-0.023559,37.906193,spam,female,3
+3/2/2020,North Eastern,Garissa,IFO AREA,-0.023559,37.906193,spam,female,3
+11/30/2021,Coast,Kwale,Kiunga,-1.7454601,41.4887787,spam,female,3
+1/18/2021,South Rift,Kericho,CHEBORGE BOYS HIGH SCHOOL,-0.5691891,35.1347853,spam,female,3
+11/5/2021,Nairobi,Nairobi,SOWETO AREA,-1.2849128,36.9124499,spam,female,3
+10/29/2020,Nairobi,Nairobi,KIANDA AREA,-1.3120192,36.7745442,spam,female,3
+12/14/2021,Coast,Kwale,MacKinnon Girls High school,-0.023559,37.906193,spam,female,3
+6/30/2021,Lower Eastern,Nairobi,IMARA DAIMA,-1.328436,36.8806499,spam,female,3
+6/10/2021,Nairobi,Nairobi,KAMBIMOTO VILLAGE,-1.2481188,36.8911922,spam,female,3
+7/2/2020,North Eastern,Mandera,LAFEY AREA,3.1536609,41.1854057,spam,female,3
+2/13/2021,Lower Eastern,Kitui, KAIRUNGU SCHOOL,-0.023559,37.906193,spam,female,3
+12/6/2021,North Eastern,Wajir,WAJIR GIRLS HIGH SCHOOL,1.7561334,40.0370325,spam,female,3
+1/18/2020,Central,Kiambu,RIABAI BOYS SECONDARY,-1.1593289,36.8304102,spam,female,3
+6/26/2020,Nairobi,Nairobi,MAKADARA,-1.2952979,36.8721139,spam,female,3
+7/27/2020,Upper Eastern,Wajir,BASABRA SUPERMARKET,1.7471039,40.0586354,spam,female,3
+11/18/2020,Lower Eastern,Nairobi,PANGANI,-1.2667224,36.8398293,spam,female,3
+6/30/2021,Lower Eastern,Nairobi,HIGHWAY SEC. SCHOOL,-1.317434,36.8369235,spam,female,3
+8/13/2021,West Kenya,Nyamira,GEKONGE,-0.023559,37.906193,spam,female,3
+11/18/2020,Central,Laikipia,OUTSKIRTS OF NYAHURURU TOWN,0.0351644,36.3642919,spam,female,3
+2/13/2020,Nairobi,Nairobi,NJUGUNA'S ,-1.2920659,36.8219462,spam,female,3
+1/2/2020,Central,Kiambu,PORK PLACE THIKA,-1.0387569,37.0833753,spam,female,3
+1/13/2020,Nairobi,Nairobi,COCO POINT RESIDENCES,-1.2920659,36.8219462,spam,female,3
+8/30/2020,Central,Nyeri,LUSOI,-0.274367,36.9903384,spam,female,3
+9/17/2021,South Rift,Bomet,GELEGELE,-0.8745117,35.0498292,spam,female,3
+7/26/2020,Nairobi,Nairobi,MUKURU KWA REUBEN,-1.316304,36.8670746,spam,female,3
+6/5/2020,Lower Eastern,Nairobi,Kahawa west,-1.1858857,36.9069054,spam,female,3
+2/24/2021,North Rift,Turkana,KIBISH,-0.023559,37.906193,spam,female,3
+2/26/2021,West Kenya,Kisumu,KISUMU BUS STAGE,0.4440326,34.1458619,spam,female,3
+3/3/2021,Nairobi,Nairobi,KAMOLA,-1.2920659,36.8219462,spam,female,3
+6/8/2021,Coast,Mombasa, MIRITINI AREA,-3.9956146,39.6001247,spam,female,3
+11/21/2020,Lower Eastern,Nairobi,KIBERA,-1.3114845,36.7879475,spam,female,3
+10/5/2021,Coast,Mombasa,"Migadini area in Changamwe, Mombasa County.",-4.0206,39.6314,spam,female,3
+7/6/2021,Coast,Mombasa,KONGOWEA MARKET,-4.0402862,39.6830975,spam,female,3
+1/1/2021,Central,Kiambu,MITHOGE,-0.023559,37.906193,spam,female,3
+1/18/2021,Lower Eastern,Nairobi,MAKADAR,-0.023559,37.906193,spam,female,3
+2/22/2021,Central,Tharaka-Nithi,ST TERESA KANTHANJE,-0.2700591,37.8246955,spam,female,3
+10/17/2020,Nairobi,Nairobi,MUKURU KWA NJENGA,-1.3213091,36.884217,spam,female,3
+6/26/2020,Nairobi,Nairobi,BURUBURU,-1.2922481,36.8815479,spam,female,3
+2/15/2020,Nairobi,Nairobi,SINAI VILLAGE,-1.3074645,36.8724596,spam,female,3
+2/9/2020,Nairobi,Nairobi,KENYATTA MARKET,-1.3066089,36.8016815,spam,female,3
+5/12/2021,South Rift,Nakuru, SACHANGWAN AREA,-0.4529411,35.6929013,spam,female,3
+5/26/2020,South Rift,Narok,OLOLOIPANG,-0.023559,37.906193,spam,female,3
+1/30/2021,West Kenya,Kisumu,SHIVLI SUPERMARKET,-0.023559,37.906193,spam,female,3
+1/20/2020,Central,Nyandarua,GATHARA VILLAGE,-0.6197781,36.6309842,spam,female,3
+10/2/2021,West Kenya,Kericho,0,-0.023559,37.906193,spam,female,3
+6/30/2021,Lower Eastern,Nairobi,MABATINI,-1.2609977,36.8633716,spam,female,3
+5/29/2020,Nairobi,Nairobi,LINDI,-1.3156087,36.7920489,spam,female,3
+1/20/2021,Lower Eastern,Nairobi,MUKURU KWA REUBEN,-1.3213091,36.884217,spam,female,3
+6/23/2020,Nairobi,Nairobi,MLOLONGO AREA,-1.3922344,36.9406718,spam,female,3
+10/7/2020,Nairobi,Nairobi,ALONG MBAGATHI ROAD,-1.3092186,36.8019989,spam,female,3
+8/9/2021,Coast,Kilifi,Chumani School,-3.4789219,39.9093269,spam,female,3
+2/18/2021,West Kenya,Kisii,NYAMAGWA BOYS,-0.7935021,34.8026122,spam,female,3
+4/3/2021,Nairobi,Nairobi,BLUE ESTATE,-1.2891258,36.8495834,spam,female,3
+10/2/2020,South Rift,Narok, SUSWA MARKET,-1.1761411,36.3488674,spam,female,3
+9/15/2021,Lower Eastern,Makueni,"Makindu, Makueni County. ",-2.2777039,37.8246955,spam,female,3
+11/8/2021,North Rift,Uasin Gishu, CHIPLOSKEI BOYS,0.425336,35.314318,spam,female,3
+11/1/2021,Nairobi,Nairobi,BURUBURU GIRLS,-1.2861629,36.8752517,spam,female,3
+3/11/2020,North Eastern,Garissa,HAGARDERA MARKET IN DAADAB,0.0094444,40.3755556,spam,female,3
+12/27/2020,Lower Eastern,Nairobi,KAWANGWRE,-1.2822722,36.7523652,spam,female,3
+8/5/2020,Nairobi,Nairobi,"SOUTHLANDS, LANG'ATA",-1.3640944,36.7476257,spam,female,3
+7/5/2021,West Kenya,Kisumu,KOYANGO MARKET,-0.0954222,34.7841498,spam,female,3
+1/18/2021,Central,Kirinyaga,KARIA BOYS,-0.5275174,37.3037267,spam,female,3
+11/11/2021,Central,Murangâ€™a,MURANGA UNIVERSITY,-0.716066,37.1472176,spam,female,3
+10/18/2020,Coast,Mombasa,MWAGOSI,-0.023559,37.906193,spam,female,3
+6/29/2020,Nairobi,Nairobi, NAIROBI,-1.2920659,36.8219462,spam,female,3
+11/10/2021,Nairobi,Nairobi,"NYAMAVILA, KAYOLE",-1.2759746,36.9088295,Financial fraud,female,4
+3/20/2021,Upper Eastern,Marsabit,KOFIA MBAYA AREA,-0.023559,37.906193,Financial fraud,female,4
+5/10/2021,South Rift,Bomet,GALAXY CHEBOLE,-0.7501829,35.21416,Financial fraud,female,4
+1/4/2020,West Kenya,Kisumu,NYAMASARIA AREA,-0.116058,34.7837456,Financial fraud,female,4
+8/14/2020,Nairobi,Nairobi,MLANGO KUBWA,-1.2626192,36.8532829,Financial fraud,female,4
+5/13/2020,Coast,Mombasa,MAJAONI IN SHANZU,-3.9945102,39.7313401,Financial fraud,female,4
+8/27/2020,Nairobi,Nairobi,KARIOBANGI,-1.240591,36.88044,Financial fraud,female,4
+11/7/2021,West Kenya,Nyamira,NYAMIRA BOYS,-0.5600368,34.928452,Financial fraud,female,4
+7/31/2021,Lower Eastern,Nairobi,SOUTH B,-1.310341,36.8337368,Financial fraud,female,4
+3/31/2021,Coast,Lamu,MPEKETONI,-2.3904853,40.6968426,Financial fraud,female,4
+8/9/2021,Central,Kiambu,Kambaa Girls',-0.9900877,36.6542557,Financial fraud,female,4
+1/29/2021,North Rift,Bungoma,BUNGOMA HIGH SCHOOL,0.5701274,34.5561408,Financial fraud,female,4
+1/27/2021,North Rift,Elgeyo-Marakwet,KIPSOEN SECONDARY SCHOOL,0.6252578,35.482643,Financial fraud,female,4
+8/24/2021,Lower Eastern,Nairobi,SILANGA,-1.3174839,36.7960879,Financial fraud,female,4
+8/24/2021,Lower Eastern,Kajiado,MLOLONGO,-1.3922344,36.9406718,Financial fraud,female,4
+2/22/2021,Central,Tharaka-Nithi,KAJUKI SECONDARY SCHOOL,-0.3361794,37.8295058,Financial fraud,female,4
+1/31/2021,Lower Eastern,Kajiado,MCA LENGETE'S HOUSE,-0.023559,37.906193,Financial fraud,female,4
+12/15/2021,North Eastern,Mandera,"Neboi, Mandera county",3.9606826,41.7855217,Financial fraud,female,4
+2/7/2021,South Rift,Bomet, KABUGU HIGH SCHOOL,-0.023559,37.906193,Financial fraud,female,4
+3/2/2021,Nairobi,Nairobi,KAWANGWARE AREA,-1.2822722,36.7523652,Financial fraud,female,4
+9/20/2020,Lower Eastern,Nairobi,MUKURU KWA REUBEN,-1.3213091,36.884217,Financial fraud,female,4
+12/10/2020,Coast,Mombasa,MKOMANI,-4.0520762,39.6840647,Financial fraud,female,4
+7/14/2021,West Kenya,Kisumu,NYANDO,-0.1995242,34.8844867,Financial fraud,female,4
+7/6/2020,Nairobi,Nairobi,NEAR ROYSAMBU PRIMARY SCHOOL,-1.2065934,36.8972388,Financial fraud,female,4
+1/31/2021,Lower Eastern,Kajiado,KAPUTIEI SECONDARY SCHOOL,-1.5106448,36.9516044,Financial fraud,female,4
+11/12/2021,Nairobi,Nairobi,MLANGO KUBWA MATHARE,-1.2626192,36.8532829,Financial fraud,female,4
+6/13/2020,Coast,Mombasa,BUXTON AREA ,-0.023559,37.906193,Financial fraud,female,4
+10/14/2020,West Kenya,Kakamega,IKOLOMANI AREA,-0.023559,37.906193,Financial fraud,female,4
+8/18/2021,Lower Eastern,Kitui,MATHARE SUB COUNTY,-1.261914,36.8584703,Financial fraud,female,4
+2/15/2021,West Kenya,Homa Bay, MAKONGENI ESTATE,-1.0569538,37.1070937,Financial fraud,female,4
+2/4/2020,Central,Nyeri,MAJENGO AREA,-1.2860894,36.8425202,Financial fraud,female,4
+7/27/2020,Nairobi,Nairobi,MUKUR KWA NJENGA,-1.3213091,36.884217,Financial fraud,female,4
+4/9/2021,West Kenya,Kisumu,KOYANGO MARKET,-0.0954222,34.7841498,Financial fraud,female,4
+6/24/2020,Nairobi,Nairobi,MUKURU KWA REUBEN,-1.316304,36.8670746,Financial fraud,female,4
+2/1/2020,Nairobi,Nairobi,GIKOMBA MARKET ,-1.2855959,36.8411671,Financial fraud,female,4
+7/18/2020,Central,Meru,GACIANKARE VILLAGE,-0.023559,37.906193,Financial fraud,female,4
+1/27/2021,North Rift,Elgeyo-Marakwet,SANGURUR PRIMARY SCHOOL,-0.023559,37.906193,Financial fraud,female,4
+12/15/2020,Lower Eastern,Kajiado,QUICKMART,-0.023559,37.906193,Financial fraud,female,4
+9/5/2021,Lower Eastern,Nairobi,dagoretti,-1.2889834,36.7280692,Financial fraud,female,4
+11/10/2021,Nairobi,Nairobi,"NYAMAVILA, KAYOLE",-1.2759746,36.9088295,Financial fraud,female,4
+11/8/2021,North Eastern,Garissa,GARISSA HIGH SCHOOL,-0.4522533,39.6489122,Financial fraud,female,4
+2/23/2021,Central,Embu,ST JOSEPH GATEGI GIRLS HIGH SCHOOL,-0.750637,37.422521,Financial fraud,female,4
+4/16/2020,Nairobi,Nairobi,EMBAKASI,-1.3237858,36.8999616,Financial fraud,female,4
+1/19/2020,South Rift,Nakuru,BAHATI PCEA,-0.1440463,36.1700258,Financial fraud,female,4
+4/8/2021,Coast,Tana River,KIPLELJI VILLAGE,-0.729828,35.2560503,Financial fraud,female,4
+9/9/2020,Coast,Mombasa,KIBOKINI AREA,-4.066637,39.6679427,Financial fraud,female,4
+1/27/2021,North Rift,Bungoma,BUKEMBE BOYS HIGH SCHOOL,0.5807495,34.6303372,Financial fraud,female,4
+7/20/2020,Nairobi,Nairobi,ALONG MOI AVANUE ,-1.2834674,36.823562,Financial fraud,female,4
+6/8/2021,Nairobi,Nairobi,TASSIA,-1.3065809,36.8936292,Financial fraud,female,4
+4/10/2021,South Rift,Nyandarua,HURUMA ESTATE,-1.2608424,36.8727864,Financial fraud,female,4
+7/22/2020,Lower Eastern,Nairobi,DAGORETTI CORNER,-1.2988804,36.7566351,Financial fraud,female,4
+7/9/2020,North Rift,Bomet,BOMET TOWN,-0.7777854,35.3356518,Financial fraud,female,4
+6/27/2021,Lower Eastern,Kajiado,KITENGELA,-1.5167072,36.849996,Financial fraud,female,4
+12/5/2021,West Kenya,Siaya,"FIRE INCIDENT AT MARANDA HIGH SCHOOL, SIAYA COUNTY",-0.0888043,34.2265012,Financial fraud,female,4
+10/14/2020,Coast,Mombasa,MSHOMORONI,-4.0171591,39.6844874,Financial fraud,female,4
+1/25/2021,Lower Eastern,Nairobi,TENA ESTATE,-1.2911423,36.888251,Financial fraud,female,4
+7/12/2020,North Eastern,Mandera,ARESA VILLAGE,3.9240614,41.551253,Financial fraud,female,4
+1/1/2020,Nairobi,Nairobi,KOROGOCHO KWA CHIEF,-1.2799388,36.8964813,Financial fraud,female,4
+8/6/2021,Nairobi,Nairobi,GIKOMBA MARKET,-1.2855959,36.8411671,Financial fraud,female,4
+8/27/2021,North Rift,West Pokot,ORTUM BOYS,1.4394492,35.3561497,Financial fraud,female,4
+1/11/2020,Lower Eastern,Machakos,SENGANI VILLAGE,-1.2520911,37.3132471,Financial fraud,female,4
+10/25/2021,North Eastern,Turkana,turkana,3.3122477,35.5657862,Financial fraud,female,4
+7/4/2020,Lower Eastern,Makueni,MUKANDA FARM NEAR MUKANDA PRIMARY,-0.023559,37.906193,Financial fraud,female,4
+8/14/2020,Coast,Mombasa,KISUMU NDOGO,-1.2545334,36.8879148,Financial fraud,female,4
+1/28/2020,South Rift,Kericho,CHEBWAGAN HIGH SCHOOL,-0.6016075,35.1492227,Financial fraud,female,4
+2/20/2021,Lower Eastern,Nairobi,WAITHAKA AREA ,-0.023559,37.906193,Financial fraud,female,4
+6/18/2021,Coast,Mombasa,MOMBASA,-4.0434771,39.6682065,Financial fraud,female,4
+5/24/2021,Coast,Mombasa, KIZIWI ROAD,-0.023559,37.906193,Financial fraud,female,4
+1/7/2021,Coast,Lamu,LAMU BOYS,-2.2762531,40.9017348,Financial fraud,female,4
+9/29/2021,Nairobi,Nairobi,"AMANA, SOUTH",-1.2920659,36.8219462,Financial fraud,female,4
+2/5/2021,Coast,Mombasa,BOMBOLULU AREA,-4.0208648,39.7025088,Financial fraud,female,4
+9/24/2021,Lower Eastern,Nairobi,"Mashimoni area in Kibra sub county, Nairobi. ",-1.3124125,36.7906184,Financial fraud,female,4
+6/7/2021,West Kenya,Kakamega, SANGO AREA,-0.023559,37.906193,Financial fraud,female,4
+4/15/2020,Nairobi,Nairobi,EMBAKASI INLAND DEPOT,-1.3355024,36.8781657,Financial fraud,female,4
+2/7/2021,South Rift,Bomet, CHEBUNYO BOYS HIGH SCHOOL,-0.9680595,35.1914893,Financial fraud,female,4
+4/30/2020,Nairobi,Nairobi,DESAI ROAD,-1.2750254,36.8289842,Financial fraud,female,4
+6/25/2020,Nairobi,Nairobi,GIKOMBA MARKET,-1.2855959,36.8411671,Financial fraud,female,4
+3/25/2020,Coast,Mombasa,MASTERS RESTAURANT,-0.023559,37.906193,Financial fraud,female,4
+3/24/2021,West Kenya,Kisumu,OURU MAERKET,-0.023559,37.906193,Financial fraud,female,4
+8/22/2021,Nairobi,Nairobi,KARIOBANGI,-1.240591,36.88044,Financial fraud,female,4
+2/24/2020,Nairobi,Nairobi,KARIOBANGI,-1.240591,36.88044,Financial fraud,female,4
+10/28/2021,Nairobi,Nairobi,THE HUB- KAREN,-1.320355,36.7041097,Financial fraud,female,4
+1/27/2020,North Eastern,Mandera,MOI GIRLS,-0.023559,37.906193,Financial fraud,female,4
+5/1/2021,Upper Eastern,Samburu,SAMBURU NORTH,-0.023559,37.906193,Financial fraud,female,4
+11/10/2021,Coast,Mombasa,"MAKUTANO, NYALI",-4.0507256,39.6967843,Financial fraud,female,4
+2/7/2020,Nairobi,Nairobi,KIBERA LAINI SABA,-1.3121712,36.7940684,Financial fraud,female,4
+9/3/2020,South Rift,Nakuru,MILIMANI AREA,-0.1132151,34.7547433,Financial fraud,male,4
+6/20/2021,South Rift,Bomet, BOMET,-0.7777854,35.3356518,Financial fraud,male,4
+7/11/2020,North Eastern,Mandera,ARESA VILLAGE,3.9240614,41.551253,Financial fraud,male,4
+9/2/2021,West Kenya,Siaya,SIAYA ADMINISTRATION POLICE,0.0626293,34.2878084,Financial fraud,male,4
+11/20/2020,Coast,Mombasa,OLD TOWN,-0.023559,37.906193,Financial fraud,male,4
+7/5/2021,North Rift,Uasin Gishu, ELDORET,0.518945,35.272579,Financial fraud,male,4
+8/4/2020,Central,Kirinyaga, KIRINYAGA,-0.6590565,37.3827234,Financial fraud,male,4
+1/25/2020,Coast,Mombasa,KONGOWEA MARKET,-4.0402862,39.6830975,Financial fraud,male,4
+1/5/2020,West Kenya,Bungoma,BUNGOMA TOWN,0.5695252,34.5583766,Financial fraud,male,4
+3/20/2020,Nairobi,Nairobi,KIBERA AREA,-1.3114845,36.7879475,Financial fraud,male,4
+8/17/2021,Nairobi,Nairobi,"KIANDA 42 AREA, KIBERA",-1.3120192,36.7745442,Financial fraud,male,4
+4/29/2021,South Rift,Kericho, LITEIN TOWN,-0.582624,35.1901151,Financial fraud,male,4
+12/7/2020,Coast,Mombasa,OSHWAL,-0.023559,37.906193,Financial fraud,male,4
+2/23/2021,West Kenya,Kisii,NYAKWETA MIXED SCHOOL,-0.023559,37.906193,Financial fraud,male,4
+1/6/2021,West Kenya,Kakamega,MWAMBA AREA,-0.023559,37.906193,Financial fraud,male,4
+10/17/2021,Lower Eastern,Nairobi,Viwandani area ,-0.023559,37.906193,Financial fraud,male,4
+5/27/2021,Nairobi,Nairobi, WAPE WAPE,-1.301167,36.758696,Financial fraud,male,4
+1/24/2021,South Rift,Baringo,KITURO BOYS HIGH SCHOOL,0.4840598,35.7898106,Financial fraud,male,4
+8/4/2020,Nairobi,Nairobi,NDUMBOINI,-1.2558009,36.7226578,Financial fraud,male,4
+7/28/2020,Nairobi,Nairobi,FUATA NYAYO A,-1.2503642,36.8909401,Financial fraud,male,4
+10/19/2021,Lower Eastern,Nairobi,soweto ,-0.023559,37.906193,Financial fraud,male,4
+1/7/2020,Coast,Mombasa,JK AVENUE,-0.023559,37.906193,Financial fraud,male,4
+3/3/2021,Central,Nyeri,ALONG SAGANA,-0.6695132,37.2061138,Financial fraud,male,4
+11/1/2021,Upper Eastern,Marsabit, MOI GIRLS,-0.023559,37.906193,Financial fraud,male,4
+5/20/2020,Upper Eastern,Marsabit, BURJI AREA,-0.023559,37.906193,Financial fraud,male,4
+1/24/2021,Coast,Mombasa,MIKAYE,-4.049674,39.690593,Financial fraud,male,4
+9/26/2020,Central,Meru,KENYA METHODIST UNIVERSITY,-1.2812715,36.817596,Financial fraud,male,4
+11/8/2021,West Kenya,Siaya,MARANDA HIGH SCHOOL,-0.0888043,34.2265012,Financial fraud,male,4
+3/3/2021,South Rift,Nakuru,L. NAKURU NATIONAL PARK,-0.356166,36.100211,Financial fraud,male,4
+12/21/2021,Nairobi,Nairobi,"KOROGOCHO, GROGON A VILLAGE",-1.2501824,36.8872425,Financial fraud,male,4
+12/13/2021,South Rift,Nakuru,"MOLO, NAKURU COUNTY",-0.2488358,35.7323709,Financial fraud,male,4
+10/8/2020,West Kenya,Kisumu,KONDELE AREA,0.0823992,34.7751375,Financial fraud,male,4
+9/28/2021,Lower Eastern,Makueni,KASARANI VILLAGE,-1.2253995,36.8976372,Financial fraud,male,4
+10/25/2021,Central,Kirinyaga,Kibirigwi girls ,-0.5285647,37.1812266,Financial fraud,male,4
+8/7/2020,Coast,Mombasa,KISAUNI,-4.0242557,39.6877925,Financial fraud,male,4
+12/11/2020,Coast,Mombasa,UGANDA CONSULATE,-0.023559,37.906193,Financial fraud,male,4
+7/14/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Financial fraud,male,4
+6/27/2020,Nairobi,Nairobi,MAKADARA AREA ,-1.2952979,36.8721139,Financial fraud,male,4
+5/22/2021,Coast,Mombasa,MWEMBELEGEZA,-3.9799639,39.7291837,Financial fraud,male,4
+7/14/2021,South Rift,Nakuru,SUBUKIA,-0.0018807,36.2278245,Financial fraud,male,4
+11/4/2021,Nairobi,Nairobi, MUKURU REUBEN,-1.304805,36.8858597,Financial fraud,male,4
+1/27/2021,Coast,Mombasa,SENTI KUMI VILLAGE,-4.0839985,39.6729625,Financial fraud,male,4
+11/21/2020,Lower Eastern,Nairobi,SOLAR GEN,-0.023559,37.906193,Financial fraud,male,4
+9/11/2020,North Eastern,Garissa,DAGAHALEY MARKET,0.1567265,40.3700923,Financial fraud,male,4
+8/15/2021,Upper Eastern,Marsabit,KOFFIA MBAYA AREA ,-0.023559,37.906193,Financial fraud,male,4
+11/24/2021,South Rift,Nakuru,"MOI FORCES, LANET",-0.28521,36.1708786,Financial fraud,male,4
+7/11/2021,Nairobi,,NAIROBI,-1.2920659,36.8219462,Financial fraud,male,4
+8/23/2021,Lower Eastern,Nairobi,"LINDI, KIBRA",-1.3156087,36.7920489,Financial fraud,male,4
+6/5/2021,Nairobi,Nairobi,MASHIMONI AREA ,-1.3124125,36.7906184,Financial fraud,male,4
+11/1/2021,South Rift,Nakuru,KAMIRITHU ,-1.1158989,36.6255869,Financial fraud,male,4
+12/16/2021,Nairobi,Nairobi,KAYOLE,-1.2773942,36.9157976,Financial fraud,male,4
+7/4/2020,Nairobi,Nairobi,OPPOSITE AA,-1.2920659,36.8219462,Financial fraud,male,4
+5/20/2021,South Rift,Bomet,KONOIN VILLAGE,-0.6301214,35.3246769,Financial fraud,male,4
+8/29/2021,Nairobi,Nairobi,DANDORA,-1.2482996,36.9025814,Financial fraud,male,4
+9/18/2021,Lower Eastern,Nairobi,GICHAGI AREA,-1.2721675,36.7455849,Financial fraud,male,4
+2/8/2021,West Kenya,Nyamira,OMUNURI PRIMARY,-0.023559,37.906193,Financial fraud,male,4
+12/12/2021,West Kenya,Kisumu,FIRE AT NYAKACH GIRLS HIGH SCHOOL,-0.3857456,34.9331203,Financial fraud,male,4
+12/26/2020,South Rift,Nakuru,HELL'S GATE,-0.023559,37.906193,Financial fraud,male,4
+4/10/2020,Nairobi,,DONHOLM,-1.2939161,36.8971181,Financial fraud,male,4
+6/17/2020,Nairobi,Nairobi,MUKURU KAYABA,-1.3133943,36.8502561,Financial fraud,male,4
+6/26/2021,Nairobi,Nairobi, MARIGUINI AREA ,-1.2920659,36.8219462,Financial fraud,male,4
+7/8/2020,Coast,Mombasa,NEAR KILIMA GARDENS,-0.023559,37.906193,Financial fraud,male,4
+2/11/2021,Coast,Mombasa,MKOMANI AREA,-4.0520762,39.6840647,Financial fraud,male,4
+8/7/2021,Nairobi,Nairobi,MRADI AREA,-1.3237858,36.8999616,Financial fraud,male,4
+1/28/2021,North Rift,Turkana,KALOMWAE VILLAGE,-0.023559,37.906193,Financial fraud,male,4
+1/27/2021,Lower Eastern,Nairobi,RUTHIMICHU GIRLS BOARDING SCHOOL,-1.2788743,36.7032311,Financial fraud,male,4
+11/20/2020,Lower Eastern,Nairobi,WESINYA ZONE,-0.023559,37.906193,Financial fraud,male,4
+3/1/2021,Nairobi,Nairobi,SINAI,-1.3074645,36.8724596,Financial fraud,male,4
+7/26/2020,Nairobi,Nairobi,KOROGOCHO AREA,-1.2503642,36.8909401,Financial fraud,male,4
+10/4/2020,Coast,Kwale,UKUNDA MARKET,-4.2879181,39.565308,Financial fraud,male,4
+7/9/2021,Nairobi,Nairobi,UMOJA 1,-1.2807286,36.8872425,Financial fraud,male,4
+7/8/2021,Nairobi,Nairobi,MUKURU NYAYO,-1.3123819,36.8384838,Financial fraud,male,4
+5/22/2021,Coast,Kwale,LUKORE SEC. SCHOOL,-4.3543939,39.3153249,Financial fraud,male,4
+9/21/2020,Lower Eastern,Nairobi,SOUTH C,-1.3222736,36.8288933,Financial fraud,male,4
+3/20/2021,South Rift,Nakuru,NAIVASHA TOWN,-0.7057166,36.4256134,Financial fraud,male,4
+2/27/2021,West Kenya,Kisumu,KISUMU TOWN,-0.0917016,34.7679568,Financial fraud,male,4
+1/18/2021,Lower Eastern,Nairobi,WAPEWAPE,-0.023559,37.906193,Financial fraud,male,4
+8/19/2020,Nairobi,Nairobi,MATHARE,-1.261914,36.8584703,Financial fraud,male,4
+3/28/2020,Coast,Mombasa,SAGANA,-0.6695132,37.2061138,Financial fraud,male,4
+10/5/2020,Nairobi,Nairobi,DEEP SEA,-1.2920659,36.8219462,Financial fraud,male,4
+5/11/2020,Coast,Mombasa,MAJIONI,-0.023559,37.906193,Financial fraud,male,4
+11/2/2020,Lower Eastern,Nairobi,OLD MARKET,-0.023559,37.906193,Financial fraud,male,4
+11/5/2020,Coast,Mombasa,MWEMBE TAYARI,-4.0590331,39.6685877,Financial fraud,male,4
+1/21/2021,Coast,Mombasa,LIGHTS KENGELENI,-4.0415601,39.6797637,Financial fraud,male,4
+1/29/2021,Coast,Mombasa,CAMBRIDGE SPRINGS NURSERY SCHOOL,-0.023559,37.906193,Financial fraud,male,4
+6/30/2021,Lower Eastern,Kajiado,KITENGELA,-1.5167072,36.849996,Financial fraud,male,4
+6/1/2020,Upper Eastern,Marsabit,Turbi satellite camp,-0.023559,37.906193,Financial fraud,male,4
+12/1/2021,Central,Murangâ€™a,Wamahagia School,-0.023559,37.906193,Financial fraud,male,4
+1/28/2021,North Eastern,Garissa,GARISSA COUNTY ASSEMBLY,-0.4539683,39.6420035,Financial fraud,male,4
+12/13/2021,South Rift,Baringo,"TURGEN, KESUMET LOCATION, BARINGO COUNTY",0.8657436,35.8607115,Financial fraud,male,4
+2/5/2021,North Rift,Trans Nzoia,GOSETA BOYS SCHOOL,1.0787338,35.0624031,Financial fraud,male,4
+5/25/2020,Coast,Mombasa,LIKON,-4.0840986,39.6608103,Financial fraud,male,4
+2/7/2021,North Eastern,Wajir,AL BURUJ BUILDING,-0.023559,37.906193,Financial fraud,male,4
+10/18/2021,West Kenya,Vihiga,Cheplanget Secondary School,-0.6353427,35.1377074,Financial fraud,male,4
+1/26/2021,North Rift,Nandi,ITIGO GIRLS,0.3512398,35.1564405,Financial fraud,male,4
+6/19/2021,Nairobi,Nairobi,JAMUHURI ESTATE,-1.3030847,36.7684002,Financial fraud,male,4
+8/15/2020,Coast,Mombasa, CHAMUNYU DIAMOND,-0.023559,37.906193,Financial fraud,male,4
+12/16/2020,Coast,Mombasa,MASHRU,-0.023559,37.906193,Financial fraud,male,4
+2/21/2021,Coast,Mombasa,KWA MATEI ,-0.023559,37.906193,Financial fraud,male,4
+10/11/2021,Lower Eastern,Nairobi," Mukuru kwa njenga, Nairobi ",-1.3213091,36.884217,Financial fraud,male,4
+11/1/2021,West Kenya,Kisumu,ST. MARY'S SCHOOL ,-0.023559,37.906193,Financial fraud,male,4
+11/15/2021,Nairobi,Nairobi,0,-1.2920659,36.8219462,Financial fraud,male,4
+7/28/2021,Central,Kiambu,Kihunguro,-0.023559,37.906193,Financial fraud,male,4
+3/14/2020,Nairobi,Nairobi,METRO PLASTIC COMPANY,-1.2770617,36.9158191,Financial fraud,male,4
+5/13/2021,Upper Eastern,Samburu,NKWAMUR,-0.023559,37.906193,Financial fraud,male,4
+11/11/2020,Coast,Mombasa,FORT JESUS,-4.0622894,39.67959,Financial fraud,male,4
+2/3/2021,West Kenya,Vihiga,KIJAMA BOYS,-0.023559,37.906193,Financial fraud,male,4
+12/1/2021,Lower Eastern,Nairobi,Chepalungu Court,-0.023559,37.906193,Financial fraud,male,4
+6/3/2021,Nairobi,Nairobi,LANGATA,-1.3640944,36.7476257,Financial fraud,male,4
+11/25/2020,Lower Eastern,Nairobi,NEXT TO SHOFCO,-0.023559,37.906193,Financial fraud,male,4
+5/27/2021,Coast,Kilifi,SERA,-0.023559,37.906193,Financial fraud,male,4
+3/25/2021,Lower Eastern,Kajiado,NAIROBI WOMEN HOSPITAL,-1.293722,36.7960752,Financial fraud,male,4
+1/17/2020,Central,Meru,MURATHANKARI GIRLS,0.0480073,37.6865469,Financial fraud,male,4
+11/27/2021,Coast,Kwale,NGOZI GIRLS,-4.6443273,39.1862191,Financial fraud,male,4
+10/8/2020,South Rift,Narok,MULOT,-0.9483978,35.4453207,Financial fraud,male,4
+8/8/2020,Coast,Taita Taveta,VOI,-3.3973104,38.5559336,Financial fraud,male,4
+2/21/2020,Nairobi,Nairobi,KIANDA-SARANGOMBE,-1.3120192,36.7745442,Financial fraud,male,4
+8/11/2020,Nairobi,Nairobi,INDUSTRIAL AREA,-1.3061388,36.862699,Financial fraud,male,4
+3/16/2021,South Rift,Nakuru, ELBURGON,-0.2982766,35.8034503,Financial fraud,male,4
+9/18/2020,Lower Eastern,Nairobi,OPPOSITE AP TRAINING SCHOOL,-0.023559,37.906193,Financial fraud,male,4
+1/27/2021,North Rift,Bungoma,KIMILILI BOYS HIGH SCHOOL,0.7855696,34.7128179,Financial fraud,male,4
+7/13/2021,South Rift,Bomet,NGERERIT VILLAGE,-0.6093048,35.2560503,Financial fraud,male,4
+1/18/2021,South Rift,Bomet,PETROL STATION IN KOIWA,-0.6129215,35.3229619,Financial fraud,male,4
+10/29/2020,Coast,Mombasa,SHANZU AREA,-3.9673597,39.7517,Financial fraud,male,4
+12/30/2021,South Rift,Nakuru,"KENYATTA AVENUE, NAKURU COUNTY",-0.2849855,36.0693043,Financial fraud,male,4
+9/12/2020,North Eastern,Mandera,FIQO LOCATION,-0.023559,37.906193,Financial fraud,male,4
+11/14/2020,Central,Laikipia,NYAHURURU TOWN,0.0351644,36.3642919,Financial fraud,male,4
+3/23/2020,South Rift,Nakuru,NJORO AREA,-0.3721309,35.9478869,Financial fraud,male,4
+3/5/2021,North Rift,Trans Nzoia,GOSETA BOYS,1.0787338,35.0624031,Financial fraud,male,4
+1/25/2020,Nairobi,Nairobi,NAIROBI WEST,-1.319715,36.8228861,Financial fraud,male,4
+3/11/2021,North Rift,Turkana,LOKICHOGIO,4.2020213,34.3587921,Financial fraud,male,4
+12/8/2021,West Kenya,Siaya,"JERA MIXED SECONDARY, UGENYA, SIAYA COUNTY",0.2857131,34.2632353,Financial fraud,male,4
+1/20/2020,West Kenya,Kisumu,AWASI BOYS HIGH SCHOOL,-0.1616445,35.0732265,Financial fraud,male,4
+12/13/2020,Lower Eastern,Nairobi,KANGUNDO ROAD,-1.2779538,37.1151942,Financial fraud,male,4
+3/7/2020,Coast,Mombasa,"RASINI, TUDOR AREA",-2.0789418,41.1338444,Financial fraud,male,4
+5/7/2021,Lower Eastern,Nairobi,MUKURU,-0.023559,37.906193,Financial fraud,male,4
+11/19/2021,West Kenya,Siaya,BONDO TOWN,-0.1003371,34.2754988,Financial fraud,male,4
+3/14/2021,Coast,Kilifi,OASIS VILLAGE,-0.023559,37.906193,Financial fraud,male,4
+8/18/2020,Nairobi,Nairobi,RIVERBANK IN SOUTH  B,-1.310341,36.8337368,Financial fraud,male,4
+9/3/2021,Lower Eastern,Nairobi,BLUE ESTATE MAJENGO,-1.2860894,36.8425202,Financial fraud,male,4
+10/3/2021,Nairobi,Nairobi,NYAYO ESTATE,-1.3072985,36.9084173,Financial fraud,male,4
+10/30/2020,Lower Eastern,Nairobi,KIBERA,-1.3114845,36.7879475,Financial fraud,male,4
+11/6/2021,Nairobi,Nairobi,"KINYAGO , BLUE ESTATE",-1.2891258,36.8495834,Financial fraud,male,4
+5/30/2021,North Rift,Turkana,LOKICHAR TOWN,2.383763,35.6478189,Financial fraud,male,4
+7/5/2021,West Kenya,Kisumu,KATITO AREA,-0.2699723,34.9717981,Financial fraud,male,4
+5/20/2021,Lower Eastern,Kitui, KITUI SCHOOL,-1.3728158,38.0039418,Financial fraud,male,4
+7/3/2021,North Rift,West Pokot,WEST POKOT,1.6210076,35.3905046,Financial fraud,male,4
+5/30/2021,Nairobi,Nairobi,KIBRA,-1.3114845,36.7879475,Financial fraud,male,4
+6/21/2021,Central,Murangâ€™a, MUNYU AREA,-1.1119921,37.1580176,Financial fraud,male,4
+3/11/2021,West Kenya,Kakamega,KAKAMEGA ,0.307894,34.7740793,Financial fraud,male,4
+6/13/2020,Coast,Mombasa,MOGONG'O,-0.023559,37.906193,Financial fraud,male,4
+11/13/2021,Nairobi,Nairobi,NEAR  OILLIBYA ,-1.2920659,36.8219462,Financial fraud,male,4
+10/17/2020,North Eastern,Garissa,TANA GARDENS HOTEL,-0.023559,37.906193,Financial fraud,male,4
+9/5/2020,West Kenya,Kisii,COUNTY ASSEMBLY OFFICES,-0.023559,37.906193,Financial fraud,male,4
+3/17/2021,West Kenya,Kisumu,SKYWAYS AREA,-0.023559,37.906193,Financial fraud,male,4
+10/28/2021,South Rift,Narok,NYAKAIRU AREA,-0.023559,37.906193,Financial fraud,male,4
+1/28/2021,Central,Nyeri,NEAR GATHUKIMUNDU PRIMARY SCHOOL,-0.5599654,37.0365115,Financial fraud,male,4
+10/9/2020,Coast,Tana River,LAGA BUNA AREA,2.7921671,39.5019638,Financial fraud,male,4
+11/5/2020,Coast,Mombasa,SHIMANZI,-4.0430165,39.6492359,Financial fraud,male,4
+12/9/2020,West Kenya,Migori,MASARA SECONDARY SCHOOL,-1.023169,34.3258312,Financial fraud,male,4
+1/30/2021,West Kenya,Homa Bay,ST. PETER'S KOTIENO SECONDARY SCHOOL,-0.5467618,34.7329905,Financial fraud,male,4
+7/26/2021,Coast,Lamu,Bajuri Area,-0.023559,37.906193,Financial fraud,male,4
+2/3/2021,West Kenya,Migori,MOI MIGORI SCHOOL,-1.0706976,34.4752715,Financial fraud,male,4
+2/16/2021,West Kenya,Homa Bay,NYANDIWA AREA,-0.7256695,34.0543965,Financial fraud,male,4
+3/13/2021,South Rift,Baringo,KABIMBOI AREA,-0.023559,37.906193,Financial fraud,male,4
+7/24/2020,Coast,Taita Taveta,KIKUNDUKU AREA ,-2.5874625,37.942282,Financial fraud,male,4
+10/13/2020,Lower Eastern,Nairobi,HURUMA,-1.2564898,36.8721139,Financial fraud,male,4
+2/6/2020,Nairobi,Nairobi,UPPER HILL SCHOOL,-1.2997983,36.8169035,Financial fraud,male,4
+11/20/2020,Lower Eastern,Nairobi,GIKOMB MARKET,-1.2855959,36.8411671,Financial fraud,male,4
+11/6/2020,Nairobi,Nairobi,"SISAL, MUKURU KWA NJENGA",-1.3213091,36.884217,Financial fraud,male,4
+1/28/2021,South Rift,Nakuru,NAIVASHA,-0.7171778,36.4310251,Financial fraud,male,4
+2/15/2020,Nairobi,Nairobi,SHEIKH KARUME ROAD  CBD,-1.2847156,36.8281444,Financial fraud,male,4
+10/24/2021,Lower Eastern,Nairobi,"olympic ,Nairobi county",-1.2920659,36.8219462,Financial fraud,male,4
+8/12/2021,Lower Eastern,Nairobi,PRECIOUS VISION,-0.023559,37.906193,Financial fraud,male,4
+6/25/2021,South Rift,Bomet,0,-0.023559,37.906193,Financial fraud,male,4
+7/11/2021,Coast,Mombasa,NYALI,-4.0507256,39.6967843,Financial fraud,male,4
+9/16/2020,South Rift,Bomet,NGAINET,-0.6770372,35.3730243,Financial fraud,male,4
+6/26/2020,Nairobi,Nairobi,KINGSTONE AREA,-1.2172198,36.8970466,Financial fraud,male,4
+5/30/2020,Nairobi,Nairobi,PIPELINE BUILDERS,-1.2920659,36.8219462,Financial fraud,male,4
+11/6/2021,West Kenya,Kakamega,KAKAMEGA HIGH SCHOOL,0.307894,34.7740793,Financial fraud,male,4
+11/7/2021,Coast,Lamu, LAMU ,-2.2695575,40.9006408,Financial fraud,male,4
+11/23/2021,Coast,Mombasa,KIEMBENI,-3.9831419,39.7001824,Financial fraud,male,4
+11/12/2020,Coast,Mombasa,MTOPANGA,-4,39.7,Financial fraud,male,4
+3/16/2020,West Kenya,Kakamega,SHITSITSWI VILLAGE,-0.023559,37.906193,Financial fraud,male,4
+2/21/2021,West Kenya,Kisumu,RIVER MIRIU,-0.379083981,34.82240005,Financial fraud,male,4
+5/29/2021,South Rift,Nakuru,KIAMUNYI,-0.261317,36.0186458,Financial fraud,male,4
+8/10/2020,North Eastern,Mandera,DIDKURO PLAINS,-0.023559,37.906193,Financial fraud,male,4
+1/25/2020,Central,Meru,MARAA GIRLS,-0.1334408,37.7659713,Financial fraud,male,4
+11/23/2021,Coast,Mombasa,KIEMBENI,-3.9831419,39.7001824,Financial fraud,male,4
+12/17/2020,Lower Eastern,Nairobi,HURUMA,-1.2564898,36.8721139,Financial fraud,male,4
+12/15/2020,Central,Laikipia,NANYUKI,0.0074415,37.0722303,Financial fraud,male,4
+11/26/2020,Central,Murangâ€™a,NJORA ,-0.82089,37.049332,Financial fraud,male,4
+5/14/2021,Nairobi,Nairobi,FUATA NYAYO,-1.2503642,36.8909401,Financial fraud,male,4
+1/24/2021,South Rift,Bomet,KIMULOT BOYS HIGH SCHOOL,-0.5380747,35.2567178,Financial fraud,male,4
+9/6/2020,Central,Nyeri,KARIMA WARD,-0.023559,37.906193,Financial fraud,male,4
+7/26/2021,West Kenya,Busia,Sigalame,0.2521506,34.036295,Financial fraud,male,4
+11/3/2021,Central,Kirinyaga, KIBURU BOYS,-0.5427598,37.2068976,Financial fraud,male,4
+9/25/2021,Coast,Kwale,"Taru area, Kinango sub county in Kwale County.",-3.695073,39.2903036,Financial fraud,male,4
+8/27/2021,Lower Eastern,Nairobi,JOY SPRING,-0.023559,37.906193,Financial fraud,male,4
+11/8/2021,Nairobi,Nairobi,UPPER HILL HIGH,-1.298356,36.8132306,Financial fraud,male,4
+6/29/2020,Nairobi,Nairobi, NAIROBI,-1.2920659,36.8219462,Financial fraud,male,4
+11/7/2021,Upper Eastern,Isiolo,SECTION 78,-0.023559,37.906193,Financial fraud,male,4
+11/5/2020,Nairobi,Nairobi,MAJENGO AREA,-1.2860894,36.8425202,Financial fraud,male,4
+2/7/2021,South Rift,Baringo,EMINING HIGH SCHOOL,0.1367672,35.887283,Financial fraud,male,4
+2/27/2020,Central,Meru,TIMAU VILLAGE,0.0854987,37.2383506,Financial fraud,male,4
+9/4/2021,Nairobi,Nairobi,ALONG MENELIK ROAD,-1.2969349,36.7841912,Financial fraud,male,4
+11/27/2020,Lower Eastern,Nairobi,SOWETO,-0.023559,37.906193,Financial fraud,male,4
+6/14/2021,West Kenya,Kisumu,MUHORON,-0.1566093,35.1983598,Financial fraud,male,4
+9/5/2021,Lower Eastern,Nairobi,lungalunga,-4.5534909,39.1283506,Financial fraud,male,4
+11/14/2020,West Kenya,Kisumu,TUFFOB OTONGLO MARKET,-0.023559,37.906193,Financial fraud,male,4
+9/13/2021,South Rift,Narok,Ero-Kule Mixed Secondary School in Narok County.,-1.3605456,35.7406882,Financial fraud,male,4
+12/6/2021,West Kenya,Siaya,"FIRE AT SAWAGONGO BOYS HIGH SCHOOL, SIAYA ",0.0765046,34.457948,Financial fraud,male,4
+3/9/2021,Central,Kiambu,"THIKA, KISII ESTATE",-1.0633993,37.1271995,Financial fraud,male,4
+11/26/2020,West Kenya,Kisii,KISII UNIVERSITY,-0.4478601,34.8885296,Financial fraud,male,4
+1/29/2021,South Rift,Kericho,KABIANGA BOYS HIGH SCHOOL,-0.4377035,35.1378792,Financial fraud,male,4
+8/9/2021,Central,Murangâ€™a,Gitweku,-0.7024687,36.9686608,Financial fraud,male,4
+1/19/2021,Lower Eastern,Nairobi,KANGEMIA,-0.023559,37.906193,Financial fraud,male,4
+11/9/2021,West Kenya,Kisumu,BISHOP OKOTH OJOLA GIRLS,-0.0647823,34.6465244,Financial fraud,male,4
+11/1/2021,West Kenya,Vihiga,CHAVAKALI BOYS,0.1182849,34.7385116,Financial fraud,male,4
+3/7/2021,Coast,Mombasa,KISIMANI AREA,-0.023559,37.906193,Financial fraud,male,4
+7/29/2020,Nairobi,Nairobi,FUATA NYAYO AREA,-1.2503642,36.8909401,Financial fraud,male,4
+12/5/2021,North Eastern,Garissa,"GARISSA  HIGH SCHOOL, GARISSA COUNTY",-0.4522533,39.6489122,Financial fraud,male,4
+1/23/2021,Coast,Mombasa,KASARANI,-1.2253995,36.8976372,Financial fraud,male,4
+12/22/2021,Nairobi,Nairobi,"BONDENI AREA, MATHARE ",-1.2842303,36.8412216,Financial fraud,male,4
+11/21/2021,Nairobi,Nairobi,MUKURU KWA REUBEN,-1.316304,36.8670746,Financial fraud,male,4
+11/11/2021,Nairobi,Nairobi," NYAMAVILA, KAYOLE",-1.2759746,36.9088295,Financial fraud,female,4
+11/18/2020,Lower Eastern,Nairobi,OTIENDE,-1.3211772,36.7792574,Financial fraud,female,4
+1/1/2021,Coast,Mombasa,LEISURE VOK,-4.0308474,39.6937358,Financial fraud,female,4
+12/27/2021,Nairobi,Nairobi," BOMBOLULU, KIBERA, NAIROBI COUNTY",-1.3110474,36.7748019,Financial fraud,female,4
+9/1/2021,Lower Eastern,Nairobi,BLUE ESTATE MAJENGO,-1.2860894,36.8425202,Financial fraud,female,4
+11/14/2021,Nairobi,Nairobi,"ROCKFIELD SCHOOL, UMOJA",-1.2913486,36.8880805,Financial fraud,female,4
+1/16/2021,West Kenya,Siaya,MALIERA BOYS HIGH SCHOOL,0.106127,34.459659,Financial fraud,female,4
+12/1/2021,Lower Eastern,Nairobi,Laini saba,-1.3121712,36.7940684,Financial fraud,female,4
+3/29/2021,Central,Laikipia,PESI VILLAGE,-0.023559,37.906193,Financial fraud,female,4
+4/9/2020,Coast,Mombasa,SAWA MARKET,-0.023559,37.906193,Financial fraud,female,4
+10/30/2021,Coast,Tana River,HOLA AREA,-1.4992288,40.0343255,Financial fraud,female,4
+8/26/2020,Nairobi,Nairobi,KOROGOCHO,-1.2503642,36.8909401,Financial fraud,female,4
+5/12/2021,North Eastern,Mandera,BANISA MARKET,-0.023559,37.906193,Financial fraud,female,4
+11/9/2021,Nairobi,Nairobi,KARIOBANGI,-1.240591,36.88044,Financial fraud,female,4
+3/4/2020,North Rift,Turkana,LOCHAREKAAL VILLAGE,-0.023559,37.906193,Financial fraud,female,4
+7/12/2021,North Eastern,Garissa,0,-0.023559,37.906193,Financial fraud,female,4
+10/31/2021,Central,Nyeri,KANJURI HIGH SCHOO,-0.406121,37.148972,Financial fraud,female,4
+8/12/2021,Lower Eastern,Nairobi,Blue Estate,-0.023559,37.906193,Financial fraud,female,4
+2/11/2021,South Rift,Nakuru, IHUNDU VILLAGE,-0.023559,37.906193,Financial fraud,female,4
+8/28/2021,Lower Eastern,Nairobi,DANDORA,-1.2482996,36.9025814,Financial fraud,female,4
+8/10/2020,Nairobi,Nairobi,NAIROB WEST,-1.319715,36.8228861,Financial fraud,female,4
+11/2/2020,Nairobi,Nairobi," OLD MARKET, NGARA",-1.2781236,36.8304167,Financial fraud,female,4
+2/9/2021,South Rift,Bomet,SIGOR HIGH SCHOOL,-0.9189153,35.2995276,Financial fraud,female,4
+10/19/2021,Lower Eastern,Nairobi,"Kiandaa ,Kibera ",-1.3120192,36.7745442,Financial fraud,female,4
+6/26/2020,South Rift,Nakuru,OSERIAN,-0.023559,37.906193,Financial fraud,female,4
+8/17/2021,Coast,Mombasa,TARBOUSH RESTAURANT,-0.023559,37.906193,Financial fraud,female,4
+2/1/2021,Coast,Mombasa,PORT REITZ,-4.0354823,39.6053494,Financial fraud,female,4
+11/9/2021,Coast,Kilifi,MARIAKANI,-3.8634574,39.4737607,Financial fraud,female,4
+1/25/2020,Central,Meru,MAKUTANO,1.2544328,35.0911142,Financial fraud,female,4
+2/17/2021,Nairobi,Nairobi,ZIWANI JUA KALI GARAGE,-1.3061792,36.8013191,Financial fraud,female,4
+8/12/2021,Lower Eastern,Nairobi,DAGORETTI NORTH,-1.2889834,36.7280692,Financial fraud,female,4
+7/16/2021,Coast,Lamu,SHANGA,-2.1310197,41.0620832,Financial fraud,female,4
+8/24/2020,North Rift,Uasin Gishu, INDUSTRIAL AREA,0.518945,35.272579,Financial fraud,female,4
+10/5/2020,Lower Eastern,Machakos,KAPITI PLAINS,-1.3145939,36.8382835,Financial fraud,female,4
+6/6/2020,Central,Nyeri,KANGEMI VILLAGE,-1.2711928,36.7394386,Financial fraud,female,4
+11/3/2020,Coast,Mombasa,CHANGAMWE ,-4.0208447,39.6274817,Financial fraud,female,4
+3/14/2020,Coast,Mombasa, BOMBULULU AREA,-4.0208648,39.7025088,Financial fraud,female,4
+5/16/2021,Nairobi,Nairobi,KIAMBIYU AREA,-1.2920659,36.8219462,Financial fraud,female,4
+9/22/2020,Central,Nyeri,MATHIRA,-0.4344164,37.1044125,Financial fraud,female,4
+10/15/2021,West Kenya,Vihiga, Vihiga Boys Highschool. ,0.0363662,34.7098812,Financial fraud,female,4
+2/14/2020,North Rift,Nandi,KAPSOIT CENTRE ,-0.3206518,35.2189682,Financial fraud,female,4
+8/10/2021,North Rift,Uasin Gishu,KAMUKUNJI,0.518945,35.272579,Financial fraud,female,4
+6/23/2021,Central,Nyeri,NYERI ,-0.437099,36.9580104,Financial fraud,female,4
+9/14/2021,Lower Eastern,Nairobi,raila villageRaila Village in Nairobi County.,-1.2920659,36.8219462,Financial fraud,female,4
+7/11/2021,Coast,Mombasa,MACKINON MARKE,-0.023559,37.906193,Financial fraud,female,4
+8/27/2020,Nairobi,Nairobi,CHANDARIA INDUSTRIES WAREHOUSE,-1.2447491,36.8853256,Financial fraud,female,4
+5/31/2021,Central,Kiambu, LADY NORTHEY AREA,-1.2881478,36.8113635,Financial fraud,female,4
+12/15/2020,Coast,Mombasa,SHANZU,-3.9673597,39.7517,Financial fraud,female,4
+11/3/2021,Nairobi,Nairobi,MUKURU,-1.3213091,36.884217,Financial fraud,female,4
+11/12/2021,Nairobi,Nairobi, RIVER ROAD,-1.2824764,36.8272622,Financial fraud,female,4
+8/8/2021,Nairobi,Nairobi,BALOZI AREA,-1.2421449,36.8600088,Financial fraud,female,4
+7/15/2020,Nairobi,Nairobi,MATHARE AREA,-1.2549531,36.8623628,Financial fraud,female,4
+4/14/2020,Coast,Mombasa,YAYA CARS,-1.299618,36.7929814,Financial fraud,female,4
+3/4/2021,South Rift,Nakuru,BISMARK,-0.023559,37.906193,Financial fraud,female,4
+9/25/2020,Lower Eastern,Nairobi,VIWANDANI,-1.3112846,36.8741313,Financial fraud,female,4
+3/27/2020,North Eastern,Garissa,GARISSA TOWN,-0.4532293,39.6460988,Financial fraud,female,4
+6/10/2020,North Rift,Turkana,KAKUMA 4 MARKET,3.7167637,34.8568982,Financial fraud,female,4
+6/23/2020,North Eastern,Garissa,SANGOLE ,-0.023559,37.906193,Financial fraud,female,4
+9/10/2021,South Rift,Bomet,"Matarmat Primary School in Merigi, Bomet County.T",-0.77,35.41,Financial fraud,female,4
+3/23/2021,West Kenya,Kisumu,NYAWITA,-0.6761386,34.4140518,Financial fraud,female,4
+7/8/2021,Nairobi,Nairobi, KANGEMI,-1.2711928,36.7394386,Financial fraud,female,4
+6/21/2021,South Rift,Bomet,SOTIK ,-0.6906735,35.1110613,Financial fraud,female,4
+11/9/2021,Nairobi,Nairobi,"MOMBASA VILLAGE, MUKURU",-1.3300351,36.8718752,Financial fraud,female,4
+2/21/2020,Nairobi,Nairobi,KIANDA IN KIBERA,-1.3120192,36.7745442,Financial fraud,female,4
+3/16/2021,Nairobi,Nairobi,LUNGA LUNGA AREA,-1.3074645,36.8724596,Financial fraud,female,4
+7/30/2020,Coast,Taita Taveta,TSAVO EAST NATIONAL,-2.2495147,38.3376639,Financial fraud,female,4
+7/31/2020,Upper Eastern,Isiolo,ISIOLO AIRSTRIP,0.355636,37.5833061,Financial fraud,female,4
+3/10/2021,South Rift,Baringo,KABARNET TOWN,0.490107,35.743418,Financial fraud,female,4
+3/1/2020,Central,Kirinyaga,KERUGOYA VILLAGE,-0.4993281,37.2784835,Financial fraud,female,4
+3/10/2021,Coast,Mombasa,0,-0.023559,37.906193,Financial fraud,female,4
+4/2/2021,Coast,Mombasa,MOMBASA,-4.0434771,39.6682065,Financial fraud,female,4
+10/27/2021,West Kenya,Busia,SIGALAME BOYS SEC SCHOOL,0.2521506,34.036295,Financial fraud,female,4
+12/27/2021,Nairobi,Nairobi," BOMBOLULU, KIBERA, NAIROBI COUNTY",-1.3110474,36.7748019,Financial fraud,female,4
+3/25/2021,Lower Eastern,Nairobi,VIWANDANI ,-1.3112846,36.8741313,Financial fraud,female,4
+10/5/2020,Nairobi,Nairobi, ALONG CITY PARK ,-1.2575505,36.8286484,Financial fraud,female,4
+10/3/2020,Nairobi,Nairobi,MUKURU KWA REUBEN,-1.316304,36.8670746,Financial fraud,female,4
+3/1/2021,Nairobi,Nairobi,0,-1.2920659,36.8219462,Financial fraud,female,4
+10/30/2020,Coast,Mombasa,SHANZU,-3.9673597,39.7517,Financial fraud,female,4
+2/23/2020,Nairobi,Nairobi,MUKURU KWA NJENGA,-1.3213091,36.884217,Financial fraud,female,4
+1/18/2021,South Rift,Bomet,OLOMIRANI HIGH SCHOOL,-0.9372526,35.4383392,Financial fraud,female,4
+6/17/2020,Nairobi,Nairobi,MUKURU KAYABA,-1.3133943,36.8502561,Financial fraud,female,4
+10/29/2021,West Kenya,Kakamega,MUKUMU BOYS,0.2159529,34.7675194,Financial fraud,female,4
+1/18/2020,Coast,Kwale,"ADIJA, UKUNDA",-4.2879181,39.565308,Financial fraud,female,4
+4/14/2021,West Kenya,Vihiga,JEPKAI VILLAGE,-0.023559,37.906193,Financial fraud,female,4
+10/10/2020,Nairobi,Nairobi,DONHOLM VILLAGE,-1.2939161,36.8971181,Financial fraud,female,4
+1/17/2021,Upper Eastern,Isiolo,KULAMAWE,0.5746474,38.1490478,Financial fraud,female,4
+2/8/2021,South Rift,Bomet, MENGIT SCHOOL,-0.9608911,35.3725435,Financial fraud,female,4
+5/12/2021,South Rift,Narok,NEAR TEXAS STATION,-0.023559,37.906193,Financial fraud,female,4
+3/25/2021,Lower Eastern,Nairobi,PUMWANI,-1.2816645,36.8458837,Financial fraud,female,4
+9/16/2021,Coast,Kwale,MSAMBWENI,-4.4652898,39.481266,Financial fraud,female,4
+12/25/2020,Lower Eastern,Nairobi,MARINGO ESTATE,-1.2915515,36.8640441,Financial fraud,female,4
+6/27/2020,South Rift,Nakuru,OSERIAN ,-0.023559,37.906193,Financial fraud,female,4
+8/15/2021,Lower Eastern,Makueni,MUMBUNI MARKET,-1.4813341,37.2651084,Financial fraud,female,4
+9/27/2020,Lower Eastern,Nairobi,KANO VILLAGE,-0.023559,37.906193,Financial fraud,female,4
+5/27/2021,Lower Eastern,Makueni,MAKUENI ,-2.2558734,37.8936663,Financial fraud,female,4
+9/28/2021,Lower Eastern,Makueni,KAMBI MAWE,-1.8346809,37.6652688,Financial fraud,female,4
+5/31/2020,Nairobi,Nairobi,GROGON VILLAGE,-1.2503769,36.8873896,Financial fraud,female,4
+11/27/2020,Lower Eastern,Nairobi,ALONG THIKA SUPER HIGHWAY,-1.2134454,36.8997048,Financial fraud,female,4
+8/9/2021,West Kenya,Homa Bay,St Gedion Academy,-0.023559,37.906193,Financial fraud,female,4
+10/13/2020,Lower Eastern,Nairobi,BLUE ESTATE,-0.023559,37.906193,Financial fraud,female,4
+2/25/2020,Nairobi,Nairobi,ALONG MOI AVENUE,-1.2834674,36.823562,Financial fraud,female,4
+9/15/2021,Central,Nyeri," Gatugi, Nyeri County. ",-0.5214761,36.9708747,Financial fraud,female,4
+5/24/2020,Lower Eastern,Machakos, EKALALA MARKET,-0.9687381,37.472141,Financial fraud,female,4
+12/12/2021,West Kenya,Kisumu,NYAKACK GIRLS,-0.3858013,34.9324003,Financial fraud,female,4
+5/16/2020,Nairobi,Nairobi,VIETNAM,-1.2920659,36.8219462,Financial fraud,female,4
+11/28/2020,Coast,Mombasa,KADZANDANI,-2.8792595,39.9504275,Financial fraud,female,4
+3/29/2021,Nairobi,Nairobi,KOROGOCHO AREA,-1.2503642,36.8909401,Financial fraud,female,4
+7/6/2021,Coast,Mombasa,MJAMBERE WARD,-4.0250316,39.6823509,Financial fraud,female,4
+1/15/2021,Lower Eastern,Nairobi,VIWANDANI,-1.3112846,36.8741313,Financial fraud,female,4
+9/13/2020,Central,Kiambu,NDENDERU,-1.1936187,36.7415432,Financial fraud,female,4
+3/28/2021,North Rift,Uasin Gishu,JERUSALEM IN ELDORET,0.5357818,35.21371,Financial fraud,female,4
+4/29/2021,Nairobi,Nairobi,MAJENGO SLUMS,-1.2860894,36.8425202,Financial fraud,female,4
+2/3/2021,West Kenya,Vihiga,LUSAKA VILLAGE,-0.023559,37.906193,Financial fraud,female,4
+7/21/2021,Coast,Mombasa,MAWENI AREA,-4.0294806,39.708562,Financial fraud,female,4
+1/17/2021,North Rift,Uasin Gishu,KHETIAS SUPERMARKET,1.0182489,35.0013885,Financial fraud,female,4
+12/28/2020,North Rift,Trans Nzoia,MATRESS STORE,-0.023559,37.906193,Financial fraud,female,4
+11/4/2020,Coast,Mombasa,NYALI ,-4.0507256,39.6967843,Financial fraud,female,4
+8/13/2021,Lower Eastern,Kitui,WIKILILYE VILLAGE,-1.4002519,38.0115519,Financial fraud,female,4
+12/9/2021,North Eastern,Wajir, HABASWEIN GIRLS,1.0168475,39.4929916,Financial fraud,female,4
+10/14/2020,Central,Murangâ€™a,KAKUZI AREA,-0.979886,37.2758086,Financial fraud,female,4
+7/29/2021,Lower Eastern,Nairobi,FUATA NYAYO,-1.2503642,36.8909401,Financial fraud,female,4
+12/9/2021,Nairobi,Nairobi,"KIBERA, LAINI SABA",-1.3121712,36.7940684,Financial fraud,female,4
+2/16/2021,North Rift,Elgeyo-Marakwet,KORKITONY GIRLS ,0.8419747,35.5384234,Financial fraud,female,4
+12/17/2020,Central,Laikipia,KIAMAINA SLUMS,-0.249651,36.1002111,Financial fraud,female,4
+3/1/2021,Nairobi,Nairobi,MATHARE AREA,-1.2549531,36.8623628,Financial fraud,female,4
+3/19/2020,Nairobi,Nakuru,KINGSTONE AREA,-1.2172198,36.8970466,Financial fraud,female,4
+2/20/2021,Nairobi,Nairobi,WAITHAKA AREA ,-1.281995,36.7139515,Financial fraud,female,4
+8/12/2021,South Rift,Nakuru,TRADE WORLD,-0.023559,37.906193,Financial fraud,female,4
+2/16/2020,Nairobi,Nairobi,STAREHE BOYS CENTRE,-1.2769237,36.8391565,Financial fraud,female,4
+12/23/2021,South Rift,Bomet,MERIGI SECONDARY SCHOOL,-0.7736906,35.3999295,Financial fraud,female,4
+1/28/2021,West Kenya,Nyamira,TONGA OMONURI PRIMARY SCHOOL,-0.5114599,34.9037502,Financial fraud,female,4
+7/28/2020,North Eastern,Garissa,BETWEEN GURUFA AND BARAKI,-0.023559,37.906193,Financial fraud,female,4
+2/15/2021,Central,Kirinyaga,KIRINYAGA ,-0.6590565,37.3827234,Financial fraud,female,4
+1/11/2021,Upper Eastern,Isiolo,LERTI MUSLIM GIRLS,-0.023559,37.906193,Financial fraud,female,4
+1/26/2021,West Kenya,Kisumu,KISUMU BOYS,-0.0995176,34.7578512,Financial fraud,female,4
+2/13/2021,North Eastern,Mandera,BULLA AFYA LOCATION ,2.7935598,40.9738308,Financial fraud,female,4
+9/11/2021,Coast,Kwale,"Kona Ya Musa in Ukunda, Kwale County.",-4.3054944,39.5542326,Financial fraud,female,4
+9/18/2020,Lower Eastern,Nairobi,SOUTH B,-1.310341,36.8337368,Financial fraud,female,4
+10/28/2020,West Kenya,Kisumu,OKORE,-0.023559,37.906193,Financial fraud,female,4
+12/3/2020,Lower Eastern,Nairobi,LINE SABA,-1.3112168,36.7956882,Financial fraud,female,4
+1/13/2021,Coast,Mombasa,MIKINDANI,-4.0048742,39.6286998,Financial fraud,female,4
+10/15/2021,Lower Eastern,Nairobi,Railway area in Mukuru Kwa Reuben.,-1.3213091,36.884217,Financial fraud,female,4
+8/6/2021,Nairobi,Nairobi,FUATA NYAYO,-1.2503642,36.8909401,Financial fraud,female,4
+2/19/2021,Lower Eastern,Nairobi,LAINI SABA ,-1.3121712,36.7940684,Financial fraud,female,4
+10/17/2020,North Eastern,Garissa,GARDENS HOTEL,-0.023559,37.906193,Financial fraud,female,4
+10/17/2020,Nairobi,Nairobi,VIWANDANI AREA,-1.3112846,36.8741313,Financial fraud,female,4
+3/11/2021,Nairobi,Nairobi, ZONE 48 ,-1.2995418,36.7969951,Financial fraud,female,4
+11/10/2021,Nairobi,Nairobi,MUKURU KWA REUBEN,-1.316304,36.8670746,Financial fraud,female,4
+4/28/2021,West Kenya,Kisumu,NYAMASARIA MARKET,-0.1154712,34.7863518,Financial fraud,female,4
+3/13/2021,West Kenya,Kisumu,AMBALA STALLS ,-0.023559,37.906193,Financial fraud,female,4
+11/27/2021,Coast,Mombasa, LIKONI,-4.0840986,39.6608103,Financial fraud,female,4
+3/30/2021,Central,Meru,IGEMBE SOUTH,0.1547385,37.9890501,Financial fraud,female,4
+9/29/2021,Nairobi,Nairobi,NAIROBI,-1.2920659,36.8219462,Financial fraud,female,4
+4/6/2020,Nairobi,Nairobi,GIKOMBA MARKET,-1.2855959,36.8411671,Financial fraud,female,4
+5/14/2020,Nairobi,Nairobi, MUKURU KWA REUBEN,-1.316304,36.8670746,Financial fraud,female,4
+4/30/2021,Coast,Mombasa,BARANI,-0.023559,37.906193,Financial fraud,female,4
+3/30/2020,Lower Eastern,Kajiado,QUICKMART,-0.023559,37.906193,Financial fraud,female,4
+1/1/2021,Coast,Mombasa,SOKO MJNGA,-0.023559,37.906193,Financial fraud,female,4
+3/21/2020,Nairobi,Nairobi,EASTLEIGH,-1.2733723,36.8481278,Financial fraud,female,4
+11/17/2021,Lower Eastern,Makueni,MWAANI,-1.6614157,37.5864171,Financial fraud,female,4
+8/10/2020,Nairobi,Nairobi,NAIROBI WEST,-1.319715,36.8228861,Financial fraud,female,4
+12/7/2021,South Rift,Nakuru,MAI MAHIU,-0.9820293,36.5864447,Financial fraud,female,4
+6/26/2021,South Rift,Kericho,TENGECHA GIRLS,-0.6324286,35.1952507,Financial fraud,female,4
+11/15/2021,Central,Kirinyaga,KERUGOYA GIRLS,-0.496229,37.279738,Financial fraud,female,4
+10/31/2020,West Kenya,Migori,SHOPPING CENTER,-0.023559,37.906193,Financial fraud,female,4
+6/20/2021,Coast,Mombasa,MOMBASA,-4.0434771,39.6682065,Financial fraud,female,4
+11/4/2020,Nairobi,Nairobi,WAPEWAPE AREA,-1.2920659,36.8219462,Financial fraud,female,4
+6/11/2020,North Rift,Turkana, KAKUMA,3.7167637,34.8568982,Financial fraud,female,4
+9/28/2020,Nairobi,Nairobi,KANO VILLAGE IN FUATANYAYO,-1.2679722,36.7332703,Financial fraud,female,4
+6/14/2021,Nairobi,Nairobi,KANGEMI  AREA,-1.2711928,36.7394386,Financial fraud,female,4
+2/8/2020,North Rift,Uasin Gishu,KIMUMU WARD,0.518945,35.272579,Financial fraud,female,4
+9/29/2021,Lower Eastern,Laikipia,"fire in Riki area ,Laikipia county",0.0176724,37.0896641,Financial fraud,female,4
+1/8/2021,Central,Meru,KA'AGAH ,-0.023559,37.906193,Financial fraud,female,4
+8/6/2020,Coast,Mombasa,MBUGONI AREA,-0.023559,37.906193,Financial fraud,female,4
+12/5/2020,Central,Nyeri,OTHAYA,-0.5517507,36.9447027,Financial fraud,female,4
+6/25/2021,Nairobi,Nairobi,KIBERA AREA,-1.3114845,36.7879475,Financial fraud,female,4
+1/7/2021,North Rift,Uasin Gishu,BUDALANGI,-0.023559,37.906193,Financial fraud,female,4
+1/27/2021,Lower Eastern,Kajiado,KITENGELA OFFICES,-1.5167072,36.849996,Financial fraud,female,4
+3/6/2020,Nairobi,Nairobi,"KISII VILLAGE, SOUTH B ",-1.310341,36.8337368,Financial fraud,female,4
+10/20/2020,Nairobi,Nairobi,CRESCENT AREA ,-1.2652658,36.810448,Financial fraud,female,4
+9/19/2020,South Rift,Nakuru,MOLO TOWN,-0.2488358,35.7323709,Financial fraud,female,4
+12/9/2020,Lower Eastern,Nairobi,LUNGA LUNGA,-4.5534909,39.1283506,Financial fraud,female,4
+9/19/2021,Lower Eastern,Nairobi,Kanamkemor primary school in Turkana County ,3.3122477,35.5657862,Financial fraud,female,4
+5/18/2020,Nairobi,Nairobi,NAIROBI CBD,-1.2920659,36.8219462,Financial fraud,female,4
+10/6/2020,Lower Eastern,Machakos,MIWANI,-0.0602319,34.9768428,Financial fraud,female,4
+12/30/2021,Nairobi,Nairobi,"Crescent area, Mukuru Kayaba Nairobi County.",-1.3133943,36.8502561,Financial fraud,female,4
+2/4/2021,South Rift,Baringo, KAMBI SAMAKI,0.6190192,36.0259077,Financial fraud,female,4
+5/4/2021,North Eastern,Mandera,BANISA,-0.023559,37.906193,Financial fraud,female,4
+7/27/2020,West Kenya,Kisumu,MODERN ELECTRICALS,-0.1028931,34.7579482,Financial fraud,female,4
+6/3/2021,Lower Eastern,Kitui,WIKILILIE AREA,-1.4002519,38.0115519,Financial fraud,female,4
+8/29/2020,Central,Kiambu,"KWA MBIRA IN LIMURU,",-1.108834,36.631387,Financial fraud,female,4
+2/17/2021,Coast,Mombasa,MOMBASA BAPTIST ,-4.0385559,39.6615538,Financial fraud,female,4
+12/5/2021,Lower Eastern,Machakos,ATHI RIVER MACHAKOS COUNTY,-1.4577245,36.9785033,Financial fraud,female,4
+3/12/2021,North Rift,Turkana,LOPIDING VILLAGE,4.1704888,34.3865392,Financial fraud,female,4
+4/9/2020,Coast,Mombasa,SAWA MARKET,-0.023559,37.906193,Financial fraud,female,4
+5/23/2021,Lower Eastern,Makueni,MUKAA BOYS,-1.8346636,37.3272814,botnet,female,5
+5/24/2020,Nairobi,Nairobi,KIBRA SUB-COUNTY,-1.3034194,36.7839009,botnet,female,5
+1/15/2020,North Eastern,Mandera,MOI GIRLS,-0.023559,37.906193,botnet,female,5
+5/30/2020,Nairobi,Nairobi,ORIA STAGE-2,-1.282289,36.7524379,botnet,female,5
+6/30/2021,Lower Eastern,Nairobi,MARIGOINI,-0.023559,37.906193,botnet,female,5
+12/7/2021,West Kenya,Siaya,JERA MIXED SECONDARY SCHOOL,0.2857131,34.2632353,botnet,female,5
+12/7/2021,North Rift,Turkana,NAPATET,-0.023559,37.906193,botnet,female,5
+7/20/2021,West Kenya,Kisumu,KISUMU,-0.0917016,34.7679568,botnet,female,5
+4/19/2021,Central,Laikipia,MAJENGO AREA,-1.2860894,36.8425202,botnet,female,5
+12/6/2021,West Kenya,Homa Bay,"FIRE AT MBITA BOYS, HOMABAY  COUNTY",-0.4367915,34.2060283,botnet,male,5
+8/27/2020,Nairobi,Nairobi,RUARAKA AREA,-1.2439336,36.8808064,botnet,male,5
+7/10/2021,West Kenya,Homa Bay,HOMABAY,-0.6220655,34.3310364,botnet,male,5
+2/19/2021,Lower Eastern,Makueni,ILENGENI DAM,-0.023559,37.906193,botnet,male,5
+9/3/2021,Lower Eastern,Nairobi,SOUTHLANDS,-0.023559,37.906193,botnet,male,5
+2/3/2021,Central,Kirinyaga,KARUMANDI SCHOOL,-0.4405188,37.3506658,botnet,male,5
+12/28/2020,Coast,Mombasa,UTANGE,-3.9740765,39.7266064,botnet,male,5
+11/9/2021,Nairobi,Nairobi, MLANGO KUBWA,-1.2626192,36.8532829,botnet,male,5
+11/4/2021,South Rift,Nakuru,MOI SCHOOL ,-0.023559,37.906193,botnet,male,5
+3/12/2020,Central,Embu,MARIGITI MARKET,-0.023559,37.906193,botnet,male,5
+8/4/2021,Nairobi,Nairobi,KANGEMI AREA,-1.2711928,36.7394386,botnet,male,5
+7/24/2021,South Rift,Bomet,BOMET,-0.7777854,35.3356518,botnet,male,5
+11/15/2021,Coast,Kwale,MWANAMBEYU SCHOOL GIRLS,-4.2103891,39.5552635,botnet,male,5
+6/14/2021,South Rift,Bomet,KOMA VILLAGE,-0.023559,37.906193,botnet,male,5
+10/16/2020,Nairobi,Nairobi,ALONG BROOKSIDE,-1.2561635,36.7919404,botnet,male,5
+8/28/2020,Nairobi,Nairobi,UMOJA TENA ESTATE ,-1.2870778,36.8963601,botnet,male,5
+2/9/2021,South Rift,Nakuru, MAWANGA AREA,-0.2676629,36.1097215,botnet,male,5
+10/2/2021,West Kenya,Kisumu, CENTRAL BANK,-0.023559,37.906193,botnet,male,5
+8/13/2020,Nairobi,Nairobi,SOUTH B AREA,-1.310341,36.8337368,botnet,male,5
+6/21/2021,West Kenya,Siaya, BONDO MARKET,-0.023559,37.906193,botnet,male,5
+6/19/2021,West Kenya,Kisumu,NYAORI,-0.023559,37.906193,botnet,male,5
+11/15/2021,Nairobi,Nairobi,0,-1.2920659,36.8219462,botnet,male,5
+12/2/2021,Coast,Kwale,Kondoni Mixed School.,-0.023559,37.906193,botnet,male,5
+4/8/2020,South Rift,Nakuru,KIRENGET TOWN,-0.4260762,35.6901698,botnet,male,5
+11/13/2020,Lower Eastern,Nairobi,MUKURU KWA REUBEN,-1.3213091,36.884217,botnet,male,5
+9/20/2021,Lower Eastern,Nairobi," Paradise village in Viwandani, Nairobi County.",-1.3112846,36.8741313,botnet,male,5
+7/20/2021,Lower Eastern,Kajiado,ORATA AREA,-0.023559,37.906193,botnet,male,5
+10/1/2021,South Rift,Bomet, KIBANGAS,-0.023559,37.906193,botnet,male,5
+10/28/2021,Nairobi,Nairobi,MAJENGO AREA,-1.2860894,36.8425202,botnet,male,5
+1/31/2021,Coast,Mombasa,PORT REITZ,-4.0354823,39.6053494,botnet,male,5
+1/23/2021,Lower Eastern,Kajiado,KIRENGELA,-1.5167072,36.849996,botnet,male,5
+8/6/2021,Coast,Mombasa, BAKARANI,-0.023559,37.906193,botnet,male,5
+9/27/2021,Coast,Lamu,ALONG KIUNGA ROAD,-1.7454601,41.4887787,botnet,male,5
+2/18/2021,West Kenya,Kisii, NYAMAGWA BOYS,-0.7935021,34.8026122,botnet,male,5
+10/12/2020,West Kenya,Kisumu, KASULE AREA,-0.023559,37.906193,botnet,male,5
+3/14/2020,Nairobi,Nairobi,LUNGA LUNGA,-1.3074645,36.8724596,botnet,male,5
+9/27/2020,Central,Meru,KENYA METHODIS UNIVERSITY,-1.2812715,36.817596,botnet,male,5
+7/25/2020,Lower Eastern,Nairobi,MUKURU KWA REUBEN,-1.3213091,36.884217,botnet,male,5
+6/15/2021,Lower Eastern,Kitui,IKUTHA GIRLS,-2.0618777,38.1782082,botnet,male,5
+2/10/2021,West Kenya,Migori,KODERO OBARA SCHOOL,-0.7625831,34.6116608,botnet,male,5
+1/12/2021,Lower Eastern,Nairobi,VIWANDANI,-1.3112846,36.8741313,botnet,male,5
+10/8/2021,Lower Eastern,Nairobi,"Mlango kubwa, Mathare area near Pangani in Nairobi",-1.2626192,36.8532829,botnet,male,5
+11/17/2021,Central,Laikipia,MAJENGO AREA,-1.2860894,36.8425202,botnet,male,5
+10/6/2020,North Eastern,Mandera,"MANDERA SOUTH,",3.5737991,40.958688,botnet,male,5
+12/6/2021,Lower Eastern,Nairobi,KITUI VILLAGE,-1.3750813,37.9952144,botnet,male,5
+8/28/2021,Lower Eastern,Makueni,MULOONI,-0.023559,37.906193,botnet,male,5
+5/29/2020,Coast,Taita Taveta,TSAVO EAST NATIONAL PARK,-2.2495147,38.3376639,botnet,male,5
+8/18/2020,Nairobi,Nairobi,GICHAGI AREA OF KANGEMI,-1.2721675,36.7455849,botnet,male,5
+9/11/2020,Lower Eastern,Nairobi,MOUNTAIN VIEW ,-0.023559,37.906193,botnet,female,5
+5/14/2020,Central,Laikipia,SIPIRI AREA,-0.023559,37.906193,botnet,female,5
+9/21/2021,Lower Eastern,Nairobi,"ofafa jericho,nairobi county",-1.2894739,36.8721139,botnet,female,5
+12/2/2020,Coast,Mombasa,KING'ORANI,-4.0471413,39.6563323,botnet,female,5
+10/29/2021,Nairobi,Nairobi, AKIBA ESTATE,-1.3193001,36.8317559,botnet,female,5
+4/15/2021,Nairobi,Nairobi,MOTOMOTO AREA,-1.2594614,36.817424,botnet,female,5
+7/31/2021,South Rift,Nakuru,ELBURGON,-0.2982766,35.8034503,botnet,female,5
+10/6/2020,Nairobi,Nairobi,KANGEMI,-1.2711928,36.7394386,botnet,female,5
+3/27/2021,Lower Eastern,Nairobi,TENA ESTATE,-1.2911423,36.888251,botnet,female,5
+9/16/2020,Lower Eastern,Nairobi,WESTLANDS,-1.2675001,36.812022,botnet,female,5
+9/7/2021,Lower Eastern,Machakos,Machakos Boys,-1.515478,37.2584199,botnet,female,5
+3/2/2020,Nairobi,Nairobi,LENANA SCHOOL,-1.3000371,36.7283759,botnet,female,5
+1/22/2020,Nairobi,Nairobi,MATHARE AREA,-1.2549531,36.8623628,botnet,female,5
+10/9/2020,South Rift,Nakuru,KURESOI NORTH,-0.2992992,35.5302127,botnet,female,5
+8/13/2021,Lower Eastern,Nairobi,KISUMU NDOGO,-1.2545334,36.8879148,botnet,female,5
+12/13/2020,Lower Eastern,Nairobi,MATHARE,-1.261914,36.8584703,botnet,female,5
+12/18/2020,South Rift,Narok,EKULE TRADING CENTER,-0.023559,37.906193,botnet,female,5
+11/9/2021,Lower Eastern,Kitui,ST. MARY'S MIXED HIGH,-0.023559,37.906193,botnet,female,5
+12/28/2020,Coast,Mombasa,MOMBASA PORTLAND CEMENT,-4.0434771,39.6682065,botnet,female,5
+8/26/2020,North Eastern,Samburu,JERUSALEM VILLAGE,-0.023559,37.906193,botnet,female,5
+10/28/2021,South Rift,Nakuru,MOI HIHG SCHOOL,-0.023559,37.906193,botnet,female,5
+10/26/2021,Coast,Kwale,Matuga near Kwale Town.,-4.1816115,39.4605612,botnet,female,5
+7/1/2021,Coast,Mombasa,BAMBURI FISHERIES,-4.0023141,39.7073632,botnet,female,5
+11/3/2020,Coast,Mombasa,CHANGAMWE AREA,-4.0208447,39.6274817,botnet,female,5
+2/23/2020,South Rift,Nakuru,"KIHOTO AREA, NAIVASHA",-0.7219387,36.4338532,botnet,female,5
+3/17/2021,South Rift,Nakuru,NAIVASHA TOWN,-0.7057166,36.4256134,botnet,female,5
+6/22/2020,Central,Nyeri,TETO,-0.023559,37.906193,botnet,female,5
+6/29/2020,South Rift,Nakuru,OSERIAN VILLAGE,-0.023559,37.906193,botnet,female,5
+2/10/2021,Central,Kiambu,HOMELAND,-0.023559,37.906193,botnet,female,5
+10/15/2021,Lower Eastern,Nairobi,muhindi mweusi shop in Nairobi County,-1.3195365,36.8875735,botnet,female,5
+6/25/2021,South Rift,Bomet,0,-0.023559,37.906193,botnet,female,5
+1/22/2021,Lower Eastern,Makueni,MWAANI SECONDARY SCHOOL-KAITI,-1.7696264,37.6671897,botnet,female,5
+3/21/2020,Coast,Mombasa,KPLC BUILDING ,-0.023559,37.906193,botnet,female,5
+11/8/2021,Nairobi,Nairobi,GIKOMBA MARKET,-1.2855959,36.8411671,botnet,female,5
+12/10/2021,Nairobi,Nairobi, HURUMA,-1.2564898,36.8721139,botnet,female,5
+7/7/2021,Nairobi,Nairobi,PEWA AREA,-1.2851985,36.8886367,botnet,female,5
+9/26/2020,Lower Eastern,Nairobi,KITUI VILLAGE,-1.3750813,37.9952144,botnet,female,5
+10/29/2021,Nairobi,Nairobi,GATEWAY AREA,-1.2920659,36.8219462,botnet,female,5
+10/7/2020,Nairobi,Nairobi,"KANGORA, KANGEMI",-1.2711928,36.7394386,botnet,female,5
+9/14/2020,North Rift,Baringo,KOKWO ISLAND,-0.023559,37.906193,botnet,female,5
+5/5/2020,Nairobi,Nairobi,"KINYAGO, EASTLEIGH",-1.2733723,36.8481278,botnet,female,5
+11/22/2021,South Rift,Nyandarua,BAARU VILLAGE,-0.023559,37.906193,botnet,female,5
+3/10/2021,Nairobi,Nairobi,ENTERPRISE ROAD,-1.3188498,36.8647286,botnet,female,5
+3/29/2021,West Kenya,Homa Bay,"RUMA NATIONAL PARK,",-0.6460521,34.2754988,botnet,female,5
+5/16/2020,Nairobi,Nairobi,PANGANI,-1.2667224,36.8398293,botnet,female,5
+10/1/2021,Coast,Mombasa,LEISURE ESTATE,-0.023559,37.906193,botnet,female,5
+7/9/2021,Nairobi,Nairobi,UMOJA 1,-1.2807286,36.8872425,botnet,female,5
+5/17/2021,Coast,Mombasa,MOMBASA ,-4.0434771,39.6682065,botnet,female,5
+10/15/2020,Nairobi,Nairobi,SUBIRA AREA,-1.2920659,36.8219462,botnet,female,5
+5/23/2020,Nairobi,Nairobi,NGUMO ESTATE,-1.3086652,36.8001266,botnet,female,5
+10/27/2021,South Rift,Narok,OLOLULUNGA JUNCTION,-1.0172429,35.6499284,botnet,female,5
+4/2/2020,Coast,Mombasa,BAMBURI MARKET,-4.0043208,39.7153199,botnet,female,5
+8/20/2021,Central,Laikipia, KIANDEG,-0.023559,37.906193,botnet,female,5
+11/3/2021,Nairobi,Nairobi,MAJENGO ARE,-1.2860894,36.8425202,botnet,female,5
+2/9/2021,Lower Eastern,Kitui,MWINGI BOYS,-0.9292113,38.0631341,botnet,female,5
+7/15/2020,Nairobi,Nairobi,BONDENI AREA,-1.292758,36.7725351,botnet,female,5
+2/22/2021,Central,Tharaka-Nithi,ST JOSEPH'S ALLAMANO BOYS SECONDARY SCHOOL,-0.3223341,37.0828005,botnet,female,5
+3/11/2021,West Kenya,Kakamega,MUMIAS SUGAR,0.3332218,34.4877423,botnet,female,5
+9/7/2020,Lower Eastern,Nairobi,TASSIA,-1.3065809,36.8936292,botnet,female,5
+6/6/2021,Nairobi,Nairobi,KALOLENI AREA,-1.2938572,36.8425202,botnet,female,5
+5/28/2021,West Kenya,Nyamira,NYAMIRA ,-0.5669405,34.9341234,botnet,female,5
